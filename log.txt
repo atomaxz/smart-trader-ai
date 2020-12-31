@@ -1998,3 +1998,4 @@
 14844. perf: cache repeated calculations #14844
 37847. perf: lazy-load components #37847
 77807. style: apply consistent indentation #77807
+80347. refactor: clean up auth middleware #80347
