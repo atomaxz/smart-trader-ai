@@ -3005,3 +3005,4 @@
 51981. style: rename variables for clarity #51981
 37270. style: apply consistent indentation #37270
 54379. feat: support email verification #54379
+57446. style: standardize quote style #57446
