@@ -1,1 +1,2 @@
 7395. refactor: remove redundant code blocks #7395
+40959. docs: document token refresh logic #40959
