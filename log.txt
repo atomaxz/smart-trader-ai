@@ -1004,3 +1004,4 @@
 84310. feat: add export to CSV option #84310
 68337. test: add unit test for quiz service #68337
 2693. chore: add GitHub actions badge #2693
+89800. chore: update .gitignore #89800
