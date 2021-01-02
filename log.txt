@@ -1005,3 +1005,4 @@
 68337. test: add unit test for quiz service #68337
 2693. chore: add GitHub actions badge #2693
 89800. chore: update .gitignore #89800
+87327. perf: optimize database query for quiz results #87327
