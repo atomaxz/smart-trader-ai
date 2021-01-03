@@ -1008,3 +1008,4 @@
 87327. perf: optimize database query for quiz results #87327
 77715. perf: lazy-load components #77715
 63767. refactor: organize models into subfolders #63767
+46226. refactor: remove redundant code blocks #46226
