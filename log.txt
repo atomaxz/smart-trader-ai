@@ -1012,3 +1012,4 @@
 64125. fix: handle 500 error in quiz API #64125
 82928. docs: improve code comments in utils #82928
 29091. style: rename variables for clarity #29091
+69988. test: increase coverage on auth module #69988
