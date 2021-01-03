@@ -1,3 +1,4 @@
 7395. refactor: remove redundant code blocks #7395
 40959. docs: document token refresh logic #40959
 33492. fix: fix broken CSS in mobile view #33492
+95546. test: mock database connection in test suite #95546
