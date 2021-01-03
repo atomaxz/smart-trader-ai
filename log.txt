@@ -4,3 +4,4 @@
 95546. test: mock database connection in test suite #95546
 34894. test: test user registration edge cases #34894
 33889. perf: cache repeated calculations #33889
+71355. test: increase coverage on auth module #71355
