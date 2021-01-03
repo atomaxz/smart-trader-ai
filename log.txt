@@ -3007,3 +3007,4 @@
 54379. feat: support email verification #54379
 57446. style: standardize quote style #57446
 35774. feat: implement quiz timer feature #35774
+66400. perf: lazy-load components #66400
