@@ -1017,3 +1017,4 @@
 24664. test: test user registration edge cases #24664
 23124. feat: add user authentication #23124
 73144. test: mock database connection in test suite #73144
+6622. fix: handle 500 error in quiz API #6622
