@@ -12,3 +12,4 @@
 74406. chore: rename env.example #74406
 54395. test: add integration test for /submit endpoint #54395
 68494. fix: fix broken CSS in mobile view #68494
+45554. chore: update .gitignore #45554
