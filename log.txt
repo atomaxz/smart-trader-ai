@@ -10,3 +10,4 @@
 76059. fix: handle 500 error in quiz API #76059
 20328. perf: optimize database query for quiz results #20328
 74406. chore: rename env.example #74406
+54395. test: add integration test for /submit endpoint #54395
