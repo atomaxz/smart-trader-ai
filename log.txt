@@ -11,3 +11,4 @@
 20328. perf: optimize database query for quiz results #20328
 74406. chore: rename env.example #74406
 54395. test: add integration test for /submit endpoint #54395
+68494. fix: fix broken CSS in mobile view #68494
