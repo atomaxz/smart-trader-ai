@@ -8,3 +8,4 @@
 69462. feat: implement quiz timer feature #69462
 39624. chore: add GitHub actions badge #39624
 76059. fix: handle 500 error in quiz API #76059
+20328. perf: optimize database query for quiz results #20328
