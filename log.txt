@@ -2011,3 +2011,4 @@
 66068. docs: clarify environment setup #66068
 57974. perf: cache repeated calculations #57974
 59258. docs: document token refresh logic #59258
+50220. fix: prevent crash on empty input #50220
