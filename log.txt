@@ -3013,3 +3013,4 @@
 89594. style: reformat files with black #89594
 47528. chore: rename env.example #47528
 84342. chore: add GitHub actions badge #84342
+53801. fix: handle 500 error in quiz API #53801
