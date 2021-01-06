@@ -16,3 +16,4 @@
 82665. fix: fix broken CSS in mobile view #82665
 69384. perf: lazy-load components #69384
 87630. test: increase coverage on auth module #87630
+64365. docs: document token refresh logic #64365
