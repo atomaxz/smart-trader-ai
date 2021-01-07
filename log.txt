@@ -2021,3 +2021,4 @@
 0038. perf: cache repeated calculations #38
 32626. chore: bump dependencies #32626
 84011. style: remove trailing whitespace #84011
+92116. perf: optimize database query for quiz results #92116
