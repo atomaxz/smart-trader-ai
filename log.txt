@@ -18,3 +18,4 @@
 87630. test: increase coverage on auth module #87630
 64365. docs: document token refresh logic #64365
 86931. refactor: remove redundant code blocks #86931
+35027. docs: add API usage examples #35027
