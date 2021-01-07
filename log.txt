@@ -1024,3 +1024,4 @@
 25929. fix: prevent crash on empty input #25929
 83667. style: standardize quote style #83667
 25329. perf: reduce image load time #25329
+93896. chore: add GitHub actions badge #93896
