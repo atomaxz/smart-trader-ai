@@ -2027,3 +2027,4 @@
 7130. chore: bump dependencies #7130
 46171. feat: implement quiz timer feature #46171
 6581. chore: bump dependencies #6581
+64937. test: increase coverage on auth module #64937
