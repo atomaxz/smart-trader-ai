@@ -22,3 +22,4 @@
 4039. fix: fix null pointer exception on login #4039
 25775. style: reformat files with black #25775
 50745. feat: create admin dashboard #50745
+27324. style: remove trailing whitespace #27324
