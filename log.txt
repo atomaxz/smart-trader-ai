@@ -23,3 +23,4 @@
 25775. style: reformat files with black #25775
 50745. feat: create admin dashboard #50745
 27324. style: remove trailing whitespace #27324
+23051. chore: bump dependencies #23051
