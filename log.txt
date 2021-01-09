@@ -1030,3 +1030,4 @@
 93703. perf: lazy-load components #93703
 24984. style: reformat files with black #24984
 58731. docs: add API usage examples #58731
+58859. fix: correct typo in registration form #58859
