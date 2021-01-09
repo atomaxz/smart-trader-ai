@@ -3028,3 +3028,4 @@
 20619. chore: clean up unused files #20619
 61634. refactor: clean up auth middleware #61634
 80791. docs: add API usage examples #80791
+76409. refactor: clean up auth middleware #76409
