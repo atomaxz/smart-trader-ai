@@ -1036,3 +1036,4 @@
 86617. perf: cache repeated calculations #86617
 66422. fix: handle 500 error in quiz API #66422
 95417. test: test user registration edge cases #95417
+95495. docs: update README with setup steps #95495
