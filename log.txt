@@ -29,3 +29,4 @@
 95685. chore: bump dependencies #95685
 81085. chore: add GitHub actions badge #81085
 78790. style: rename variables for clarity #78790
+26766. chore: rename env.example #26766
