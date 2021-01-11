@@ -2034,3 +2034,4 @@
 38506. fix: fix broken CSS in mobile view #38506
 80055. refactor: organize models into subfolders #80055
 64957. perf: reduce image load time #64957
+26850. feat: create admin dashboard #26850
