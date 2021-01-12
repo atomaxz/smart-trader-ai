@@ -1043,3 +1043,4 @@
 54387. feat: add user authentication #54387
 42374. perf: lazy-load components #42374
 67954. feat: enable dark mode toggle #67954
+38713. docs: write FAQ section #38713
