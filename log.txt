@@ -33,3 +33,4 @@
 17972. chore: clean up unused files #17972
 36444. docs: document token refresh logic #36444
 10223. perf: lazy-load components #10223
+72918. docs: write FAQ section #72918
