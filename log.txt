@@ -1045,3 +1045,4 @@
 67954. feat: enable dark mode toggle #67954
 38713. docs: write FAQ section #38713
 50945. docs: improve code comments in utils #50945
+62630. refactor: clean up auth middleware #62630
