@@ -2037,3 +2037,4 @@
 26850. feat: create admin dashboard #26850
 36079. fix: fix broken CSS in mobile view #36079
 38084. chore: update .gitignore #38084
+79573. fix: correct typo in registration form #79573
