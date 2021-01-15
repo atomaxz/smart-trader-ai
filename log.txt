@@ -38,3 +38,4 @@
 20719. refactor: organize models into subfolders #20719
 62129. feat: create admin dashboard #62129
 52650. docs: add API usage examples #52650
+68675. fix: prevent crash on empty input #68675
