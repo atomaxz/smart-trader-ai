@@ -42,3 +42,4 @@
 61579. feat: enable dark mode toggle #61579
 94401. test: increase coverage on auth module #94401
 28952. chore: bump dependencies #28952
+90329. fix: fix null pointer exception on login #90329
