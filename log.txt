@@ -40,3 +40,4 @@
 52650. docs: add API usage examples #52650
 68675. fix: prevent crash on empty input #68675
 61579. feat: enable dark mode toggle #61579
+94401. test: increase coverage on auth module #94401
