@@ -2040,3 +2040,4 @@
 79573. fix: correct typo in registration form #79573
 70872. test: test user registration edge cases #70872
 85073. test: add unit test for quiz service #85073
+27324. style: remove trailing whitespace #27324
