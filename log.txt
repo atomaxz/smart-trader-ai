@@ -1051,3 +1051,4 @@
 3265. refactor: organize models into subfolders #3265
 63906. perf: optimize database query for quiz results #63906
 7505. refactor: split large controller into smaller functions #7505
+82771. style: standardize quote style #82771
