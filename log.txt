@@ -3043,3 +3043,4 @@
 33974. perf: cache repeated calculations #33974
 91817. refactor: split large controller into smaller functions #91817
 28005. feat: implement quiz timer feature #28005
+77422. docs: document token refresh logic #77422
