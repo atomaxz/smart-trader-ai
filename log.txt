@@ -2044,3 +2044,4 @@
 31128. fix: fix broken CSS in mobile view #31128
 45475. fix: handle 500 error in quiz API #45475
 42885. fix: resolve issue with date parsing #42885
+85024. docs: document token refresh logic #85024
