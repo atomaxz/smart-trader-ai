@@ -2042,3 +2042,4 @@
 85073. test: add unit test for quiz service #85073
 27324. style: remove trailing whitespace #27324
 31128. fix: fix broken CSS in mobile view #31128
+45475. fix: handle 500 error in quiz API #45475
