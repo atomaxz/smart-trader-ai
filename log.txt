@@ -44,3 +44,4 @@
 28952. chore: bump dependencies #28952
 90329. fix: fix null pointer exception on login #90329
 98245. chore: rename env.example #98245
+47838. chore: add GitHub actions badge #47838
