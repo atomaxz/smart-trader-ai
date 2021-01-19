@@ -3047,3 +3047,4 @@
 33769. feat: create admin dashboard #33769
 25653. perf: optimize database query for quiz results #25653
 37135. feat: add user authentication #37135
+88894. refactor: remove redundant code blocks #88894
