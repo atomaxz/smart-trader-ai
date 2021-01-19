@@ -1058,3 +1058,4 @@
 9777. test: increase coverage on auth module #9777
 87625. test: increase coverage on auth module #87625
 2603. feat: add user authentication #2603
+48962. test: add integration test for /submit endpoint #48962
