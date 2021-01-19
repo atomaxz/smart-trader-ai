@@ -49,3 +49,4 @@
 74758. style: rename variables for clarity #74758
 10290. perf: cache repeated calculations #10290
 72934. style: rename variables for clarity #72934
+55501. feat: add export to CSV option #55501
