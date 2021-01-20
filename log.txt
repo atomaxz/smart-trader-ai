@@ -1062,3 +1062,4 @@
 97812. test: test user registration edge cases #97812
 96781. feat: create admin dashboard #96781
 22760. refactor: clean up auth middleware #22760
+97964. style: reformat files with black #97964
