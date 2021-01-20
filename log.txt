@@ -1061,3 +1061,4 @@
 48962. test: add integration test for /submit endpoint #48962
 97812. test: test user registration edge cases #97812
 96781. feat: create admin dashboard #96781
+22760. refactor: clean up auth middleware #22760
