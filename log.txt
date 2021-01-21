@@ -3051,3 +3051,4 @@
 22171. style: reformat files with black #22171
 55718. chore: clean up unused files #55718
 96310. chore: rename env.example #96310
+90021. test: increase coverage on auth module #90021
