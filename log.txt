@@ -3052,3 +3052,4 @@
 55718. chore: clean up unused files #55718
 96310. chore: rename env.example #96310
 90021. test: increase coverage on auth module #90021
+36718. fix: handle 500 error in quiz API #36718
