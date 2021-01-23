@@ -2056,3 +2056,4 @@
 44382. chore: add GitHub actions badge #44382
 98780. docs: clarify environment setup #98780
 15753. style: standardize quote style #15753
+14130. feat: enable dark mode toggle #14130
