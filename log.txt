@@ -3057,3 +3057,4 @@
 83459. feat: implement quiz timer feature #83459
 83086. chore: bump dependencies #83086
 31584. feat: create admin dashboard #31584
+65877. feat: support email verification #65877
