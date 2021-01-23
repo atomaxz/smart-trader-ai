@@ -2057,3 +2057,4 @@
 98780. docs: clarify environment setup #98780
 15753. style: standardize quote style #15753
 14130. feat: enable dark mode toggle #14130
+4849. fix: correct typo in registration form #4849
