@@ -3066,3 +3066,4 @@
 40859. docs: improve code comments in utils #40859
 52196. feat: add export to CSV option #52196
 61641. style: remove trailing whitespace #61641
+52723. fix: prevent crash on empty input #52723
