@@ -2060,3 +2060,4 @@
 4849. fix: correct typo in registration form #4849
 99401. chore: rename env.example #99401
 80783. perf: reduce image load time #80783
+42344. style: standardize quote style #42344
