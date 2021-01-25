@@ -3065,3 +3065,4 @@
 59162. fix: fix broken CSS in mobile view #59162
 40859. docs: improve code comments in utils #40859
 52196. feat: add export to CSV option #52196
+61641. style: remove trailing whitespace #61641
