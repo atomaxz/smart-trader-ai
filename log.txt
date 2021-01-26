@@ -2063,3 +2063,4 @@
 42344. style: standardize quote style #42344
 13148. refactor: clean up auth middleware #13148
 27707. perf: reduce image load time #27707
+96221. fix: fix broken CSS in mobile view #96221
