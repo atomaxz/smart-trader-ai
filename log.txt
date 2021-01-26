@@ -3068,3 +3068,4 @@
 61641. style: remove trailing whitespace #61641
 52723. fix: prevent crash on empty input #52723
 22407. feat: support email verification #22407
+97486. chore: bump dependencies #97486
