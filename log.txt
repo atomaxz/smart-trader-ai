@@ -1077,3 +1077,4 @@
 37027. style: remove trailing whitespace #37027
 71181. style: apply consistent indentation #71181
 7700. style: rename variables for clarity #7700
+84821. docs: clarify environment setup #84821
