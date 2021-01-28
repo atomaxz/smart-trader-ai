@@ -2066,3 +2066,4 @@
 96221. fix: fix broken CSS in mobile view #96221
 73512. chore: add GitHub actions badge #73512
 49950. perf: reduce image load time #49950
+51536. chore: clean up unused files #51536
