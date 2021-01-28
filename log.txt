@@ -3074,3 +3074,4 @@
 94925. test: increase coverage on auth module #94925
 85512. perf: cache repeated calculations #85512
 57270. chore: bump dependencies #57270
+0581. feat: support email verification #581
