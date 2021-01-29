@@ -3076,3 +3076,4 @@
 57270. chore: bump dependencies #57270
 0581. feat: support email verification #581
 0417. refactor: remove redundant code blocks #417
+68573. test: increase coverage on auth module #68573
