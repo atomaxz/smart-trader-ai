@@ -2070,3 +2070,4 @@
 14955. refactor: remove redundant code blocks #14955
 7119. perf: lazy-load components #7119
 48676. docs: document token refresh logic #48676
+90144. perf: optimize database query for quiz results #90144
