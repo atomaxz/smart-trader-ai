@@ -1080,3 +1080,4 @@
 84821. docs: clarify environment setup #84821
 79323. feat: create admin dashboard #79323
 29701. test: mock database connection in test suite #29701
+75876. style: remove trailing whitespace #75876
