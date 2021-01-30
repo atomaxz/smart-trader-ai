@@ -2071,3 +2071,4 @@
 7119. perf: lazy-load components #7119
 48676. docs: document token refresh logic #48676
 90144. perf: optimize database query for quiz results #90144
+69485. test: mock database connection in test suite #69485
