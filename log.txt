@@ -70,3 +70,4 @@
 43570. test: test user registration edge cases #43570
 70299. docs: clarify environment setup #70299
 30722. test: test user registration edge cases #30722
+62570. refactor: refactor quiz grading logic #62570
