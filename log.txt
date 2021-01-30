@@ -74,3 +74,4 @@
 76988. fix: fix null pointer exception on login #76988
 25227. fix: handle 500 error in quiz API #25227
 1065. fix: fix broken CSS in mobile view #1065
+95195. chore: add GitHub actions badge #95195
