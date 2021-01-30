@@ -1083,3 +1083,4 @@
 75876. style: remove trailing whitespace #75876
 58808. style: remove trailing whitespace #58808
 37109. test: mock database connection in test suite #37109
+48015. chore: bump dependencies #48015
