@@ -1081,3 +1081,4 @@
 79323. feat: create admin dashboard #79323
 29701. test: mock database connection in test suite #29701
 75876. style: remove trailing whitespace #75876
+58808. style: remove trailing whitespace #58808
