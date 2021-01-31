@@ -3079,3 +3079,4 @@
 68573. test: increase coverage on auth module #68573
 28463. perf: cache repeated calculations #28463
 60206. docs: clarify environment setup #60206
+48810. fix: handle 500 error in quiz API #48810
