@@ -3080,3 +3080,4 @@
 28463. perf: cache repeated calculations #28463
 60206. docs: clarify environment setup #60206
 48810. fix: handle 500 error in quiz API #48810
+48062. perf: optimize database query for quiz results #48062
