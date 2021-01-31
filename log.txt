@@ -3084,3 +3084,4 @@
 85291. docs: improve code comments in utils #85291
 5020. feat: support email verification #5020
 16054. docs: write FAQ section #16054
+41394. chore: add GitHub actions badge #41394
