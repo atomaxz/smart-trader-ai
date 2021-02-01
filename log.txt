@@ -3085,3 +3085,4 @@
 5020. feat: support email verification #5020
 16054. docs: write FAQ section #16054
 41394. chore: add GitHub actions badge #41394
+5569. docs: update README with setup steps #5569
