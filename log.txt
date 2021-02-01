@@ -3087,3 +3087,4 @@
 41394. chore: add GitHub actions badge #41394
 5569. docs: update README with setup steps #5569
 95454. test: add integration test for /submit endpoint #95454
+45697. fix: handle 500 error in quiz API #45697
