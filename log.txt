@@ -3088,3 +3088,4 @@
 5569. docs: update README with setup steps #5569
 95454. test: add integration test for /submit endpoint #95454
 45697. fix: handle 500 error in quiz API #45697
+76150. fix: correct typo in registration form #76150
