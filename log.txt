@@ -3092,3 +3092,4 @@
 7574. test: increase coverage on auth module #7574
 63346. test: test user registration edge cases #63346
 53558. chore: update .gitignore #53558
+77591. refactor: clean up auth middleware #77591
