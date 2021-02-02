@@ -3093,3 +3093,4 @@
 63346. test: test user registration edge cases #63346
 53558. chore: update .gitignore #53558
 77591. refactor: clean up auth middleware #77591
+75590. refactor: split large controller into smaller functions #75590
