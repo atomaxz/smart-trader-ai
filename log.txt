@@ -80,3 +80,4 @@
 87742. docs: update README with setup steps #87742
 48828. perf: lazy-load components #48828
 74017. docs: clarify environment setup #74017
+17740. chore: add GitHub actions badge #17740
