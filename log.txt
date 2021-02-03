@@ -2081,3 +2081,4 @@
 53195. test: increase coverage on auth module #53195
 72721. perf: cache repeated calculations #72721
 11585. chore: add GitHub actions badge #11585
+93280. perf: reduce image load time #93280
