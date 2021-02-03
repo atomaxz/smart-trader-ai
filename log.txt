@@ -86,3 +86,4 @@
 25418. refactor: organize models into subfolders #25418
 76495. style: apply consistent indentation #76495
 74656. chore: rename env.example #74656
+91558. chore: add GitHub actions badge #91558
