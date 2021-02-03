@@ -1094,3 +1094,4 @@
 93166. refactor: remove redundant code blocks #93166
 64291. docs: add API usage examples #64291
 0114. fix: fix broken CSS in mobile view #114
+57184. feat: enable dark mode toggle #57184
