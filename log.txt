@@ -1096,3 +1096,4 @@
 0114. fix: fix broken CSS in mobile view #114
 57184. feat: enable dark mode toggle #57184
 84435. docs: clarify environment setup #84435
+6003. chore: update .gitignore #6003
