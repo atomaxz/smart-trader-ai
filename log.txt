@@ -1098,3 +1098,4 @@
 84435. docs: clarify environment setup #84435
 6003. chore: update .gitignore #6003
 1197. style: reformat files with black #1197
+69163. test: mock database connection in test suite #69163
