@@ -2087,3 +2087,4 @@
 0724. perf: cache repeated calculations #724
 30280. perf: reduce image load time #30280
 47624. style: reformat files with black #47624
+19031. fix: prevent crash on empty input #19031
