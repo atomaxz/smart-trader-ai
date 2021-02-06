@@ -1101,3 +1101,4 @@
 69163. test: mock database connection in test suite #69163
 60989. refactor: refactor quiz grading logic #60989
 2908. chore: update .gitignore #2908
+25348. refactor: clean up auth middleware #25348
