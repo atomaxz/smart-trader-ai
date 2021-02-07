@@ -99,3 +99,4 @@
 20423. test: add integration test for /submit endpoint #20423
 14491. docs: improve code comments in utils #14491
 26319. chore: bump dependencies #26319
+27079. test: mock database connection in test suite #27079
