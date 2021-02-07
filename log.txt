@@ -2094,3 +2094,4 @@
 20155. refactor: clean up auth middleware #20155
 3532. docs: add API usage examples #3532
 41584. fix: resolve issue with date parsing #41584
+30453. test: test user registration edge cases #30453
