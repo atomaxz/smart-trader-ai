@@ -2097,3 +2097,4 @@
 30453. test: test user registration edge cases #30453
 68093. feat: support email verification #68093
 11648. perf: reduce image load time #11648
+48499. feat: add user authentication #48499
