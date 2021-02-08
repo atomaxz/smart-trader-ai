@@ -102,3 +102,4 @@
 27079. test: mock database connection in test suite #27079
 99242. perf: optimize database query for quiz results #99242
 99724. refactor: remove redundant code blocks #99724
+99343. docs: add API usage examples #99343
