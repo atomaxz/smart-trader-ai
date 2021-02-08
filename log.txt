@@ -1110,3 +1110,4 @@
 43172. chore: clean up unused files #43172
 82507. docs: improve code comments in utils #82507
 60347. perf: cache repeated calculations #60347
+19328. refactor: clean up auth middleware #19328
