@@ -1112,3 +1112,4 @@
 60347. perf: cache repeated calculations #60347
 19328. refactor: clean up auth middleware #19328
 79134. refactor: refactor quiz grading logic #79134
+13708. fix: correct typo in registration form #13708
