@@ -3111,3 +3111,4 @@
 37999. refactor: remove redundant code blocks #37999
 95754. refactor: refactor quiz grading logic #95754
 25717. style: remove trailing whitespace #25717
+84049. feat: support email verification #84049
