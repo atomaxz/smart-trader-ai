@@ -109,3 +109,4 @@
 80946. refactor: remove redundant code blocks #80946
 21728. style: apply consistent indentation #21728
 66142. test: add unit test for quiz service #66142
+68680. perf: reduce image load time #68680
