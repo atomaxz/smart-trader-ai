@@ -2113,3 +2113,4 @@
 16155. style: reformat files with black #16155
 79446. chore: bump dependencies #79446
 54624. style: standardize quote style #54624
+0445. perf: lazy-load components #445
