@@ -1116,3 +1116,4 @@
 6328. style: remove trailing whitespace #6328
 49622. style: standardize quote style #49622
 44460. chore: bump dependencies #44460
+48268. test: test user registration edge cases #48268
