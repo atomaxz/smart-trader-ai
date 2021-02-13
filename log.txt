@@ -115,3 +115,4 @@
 93017. perf: cache repeated calculations #93017
 43511. feat: add export to CSV option #43511
 74736. docs: document token refresh logic #74736
+49674. test: increase coverage on auth module #49674
