@@ -2118,3 +2118,4 @@
 99013. style: remove trailing whitespace #99013
 34041. fix: handle 500 error in quiz API #34041
 26116. feat: create admin dashboard #26116
+23109. style: remove trailing whitespace #23109
