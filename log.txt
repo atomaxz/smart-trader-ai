@@ -3115,3 +3115,4 @@
 95178. chore: rename env.example #95178
 97205. docs: add API usage examples #97205
 70260. perf: reduce image load time #70260
+19801. fix: prevent crash on empty input #19801
