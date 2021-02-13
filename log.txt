@@ -2116,3 +2116,4 @@
 0445. perf: lazy-load components #445
 37981. test: test user registration edge cases #37981
 99013. style: remove trailing whitespace #99013
+34041. fix: handle 500 error in quiz API #34041
