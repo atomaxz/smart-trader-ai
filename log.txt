@@ -1122,3 +1122,4 @@
 37780. fix: fix null pointer exception on login #37780
 34439. docs: write FAQ section #34439
 61862. style: remove trailing whitespace #61862
+84370. fix: handle 500 error in quiz API #84370
