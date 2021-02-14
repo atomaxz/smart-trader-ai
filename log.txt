@@ -1121,3 +1121,4 @@
 16269. style: rename variables for clarity #16269
 37780. fix: fix null pointer exception on login #37780
 34439. docs: write FAQ section #34439
+61862. style: remove trailing whitespace #61862
