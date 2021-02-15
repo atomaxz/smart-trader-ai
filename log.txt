@@ -2124,3 +2124,4 @@
 38321. docs: write FAQ section #38321
 51966. test: add integration test for /submit endpoint #51966
 25801. test: mock database connection in test suite #25801
+89884. chore: bump dependencies #89884
