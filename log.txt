@@ -3122,3 +3122,4 @@
 86926. feat: add user authentication #86926
 52999. test: increase coverage on auth module #52999
 68279. docs: document token refresh logic #68279
+99001. fix: correct typo in registration form #99001
