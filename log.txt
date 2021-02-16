@@ -3128,3 +3128,4 @@
 31676. perf: lazy-load components #31676
 99438. feat: add export to CSV option #99438
 66939. style: remove trailing whitespace #66939
+8696. chore: bump dependencies #8696
