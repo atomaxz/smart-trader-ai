@@ -2126,3 +2126,4 @@
 25801. test: mock database connection in test suite #25801
 89884. chore: bump dependencies #89884
 66039. style: apply consistent indentation #66039
+19198. perf: lazy-load components #19198
