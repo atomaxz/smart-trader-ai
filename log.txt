@@ -120,3 +120,4 @@
 83182. refactor: refactor quiz grading logic #83182
 53510. perf: reduce image load time #53510
 70491. fix: handle 500 error in quiz API #70491
+50393. refactor: remove redundant code blocks #50393
