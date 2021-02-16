@@ -1126,3 +1126,4 @@
 7283. refactor: split large controller into smaller functions #7283
 60545. docs: add API usage examples #60545
 10667. feat: implement quiz timer feature #10667
+24284. feat: support email verification #24284
