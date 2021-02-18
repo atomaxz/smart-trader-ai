@@ -1132,3 +1132,4 @@
 85547. docs: add API usage examples #85547
 11036. style: reformat files with black #11036
 57091. feat: implement quiz timer feature #57091
+92808. feat: support email verification #92808
