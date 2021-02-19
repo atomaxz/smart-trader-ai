@@ -2131,3 +2131,4 @@
 93506. docs: add API usage examples #93506
 20290. perf: reduce image load time #20290
 97307. style: apply consistent indentation #97307
+7750. feat: support email verification #7750
