@@ -129,3 +129,4 @@
 35779. fix: fix broken CSS in mobile view #35779
 82397. docs: clarify environment setup #82397
 25202. chore: update .gitignore #25202
+18296. test: mock database connection in test suite #18296
