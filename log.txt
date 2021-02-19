@@ -2132,3 +2132,4 @@
 20290. perf: reduce image load time #20290
 97307. style: apply consistent indentation #97307
 7750. feat: support email verification #7750
+4457. test: test user registration edge cases #4457
