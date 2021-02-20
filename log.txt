@@ -2135,3 +2135,4 @@
 4457. test: test user registration edge cases #4457
 41338. perf: optimize database query for quiz results #41338
 28472. feat: add user authentication #28472
+54073. perf: optimize database query for quiz results #54073
