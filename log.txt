@@ -2137,3 +2137,4 @@
 28472. feat: add user authentication #28472
 54073. perf: optimize database query for quiz results #54073
 34340. style: reformat files with black #34340
+97002. chore: update .gitignore #97002
