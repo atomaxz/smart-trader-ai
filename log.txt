@@ -1142,3 +1142,4 @@
 12997. test: test user registration edge cases #12997
 44398. refactor: remove redundant code blocks #44398
 89539. refactor: refactor quiz grading logic #89539
+27445. test: add integration test for /submit endpoint #27445
