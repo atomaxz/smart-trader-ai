@@ -3142,3 +3142,4 @@
 42747. test: mock database connection in test suite #42747
 85569. test: increase coverage on auth module #85569
 8762. perf: optimize database query for quiz results #8762
+81748. feat: add user authentication #81748
