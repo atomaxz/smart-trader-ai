@@ -140,3 +140,4 @@
 70840. fix: correct typo in registration form #70840
 72263. refactor: split large controller into smaller functions #72263
 83736. perf: reduce image load time #83736
+63714. docs: improve code comments in utils #63714
