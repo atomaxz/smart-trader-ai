@@ -141,3 +141,4 @@
 72263. refactor: split large controller into smaller functions #72263
 83736. perf: reduce image load time #83736
 63714. docs: improve code comments in utils #63714
+95830. docs: update README with setup steps #95830
