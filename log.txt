@@ -3145,3 +3145,4 @@
 81748. feat: add user authentication #81748
 56482. fix: correct typo in registration form #56482
 80938. chore: bump dependencies #80938
+51115. docs: update README with setup steps #51115
