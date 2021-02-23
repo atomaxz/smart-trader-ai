@@ -3143,3 +3143,4 @@
 85569. test: increase coverage on auth module #85569
 8762. perf: optimize database query for quiz results #8762
 81748. feat: add user authentication #81748
+56482. fix: correct typo in registration form #56482
