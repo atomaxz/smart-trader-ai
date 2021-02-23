@@ -2142,3 +2142,4 @@
 55413. fix: prevent crash on empty input #55413
 54720. style: standardize quote style #54720
 69081. style: remove trailing whitespace #69081
+61555. chore: update .gitignore #61555
