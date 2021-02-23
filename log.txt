@@ -1145,3 +1145,4 @@
 27445. test: add integration test for /submit endpoint #27445
 35109. perf: lazy-load components #35109
 7293. docs: add API usage examples #7293
+60231. feat: support email verification #60231
