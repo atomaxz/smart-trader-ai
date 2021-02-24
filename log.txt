@@ -144,3 +144,4 @@
 95830. docs: update README with setup steps #95830
 1632. chore: clean up unused files #1632
 41700. perf: optimize database query for quiz results #41700
+37248. perf: optimize database query for quiz results #37248
