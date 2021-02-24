@@ -2144,3 +2144,4 @@
 69081. style: remove trailing whitespace #69081
 61555. chore: update .gitignore #61555
 78939. chore: add GitHub actions badge #78939
+17861. refactor: organize models into subfolders #17861
