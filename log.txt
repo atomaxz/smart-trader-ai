@@ -1149,3 +1149,4 @@
 19594. feat: support email verification #19594
 57218. docs: improve code comments in utils #57218
 43092. fix: fix broken CSS in mobile view #43092
+32187. style: remove trailing whitespace #32187
