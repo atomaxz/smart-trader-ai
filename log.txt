@@ -2149,3 +2149,4 @@
 72870. docs: update README with setup steps #72870
 62418. chore: rename env.example #62418
 87601. docs: add API usage examples #87601
+12084. test: mock database connection in test suite #12084
