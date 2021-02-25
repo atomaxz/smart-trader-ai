@@ -2147,3 +2147,4 @@
 17861. refactor: organize models into subfolders #17861
 35921. style: rename variables for clarity #35921
 72870. docs: update README with setup steps #72870
+62418. chore: rename env.example #62418
