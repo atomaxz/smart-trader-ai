@@ -1152,3 +1152,4 @@
 32187. style: remove trailing whitespace #32187
 17607. feat: enable dark mode toggle #17607
 15949. test: increase coverage on auth module #15949
+41162. test: test user registration edge cases #41162
