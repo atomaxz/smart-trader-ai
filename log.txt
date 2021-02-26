@@ -1155,3 +1155,4 @@
 41162. test: test user registration edge cases #41162
 66118. style: standardize quote style #66118
 42729. style: standardize quote style #42729
+38089. chore: bump dependencies #38089
