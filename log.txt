@@ -2150,3 +2150,4 @@
 62418. chore: rename env.example #62418
 87601. docs: add API usage examples #87601
 12084. test: mock database connection in test suite #12084
+49587. fix: fix broken CSS in mobile view #49587
