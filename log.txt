@@ -2155,3 +2155,4 @@
 4052. perf: lazy-load components #4052
 23029. refactor: remove redundant code blocks #23029
 16548. feat: add user authentication #16548
+98900. fix: prevent crash on empty input #98900
