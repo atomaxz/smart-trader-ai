@@ -147,3 +147,4 @@
 37248. perf: optimize database query for quiz results #37248
 3065. perf: optimize database query for quiz results #3065
 13579. test: add unit test for quiz service #13579
+45983. test: increase coverage on auth module #45983
