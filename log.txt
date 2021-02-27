@@ -150,3 +150,4 @@
 45983. test: increase coverage on auth module #45983
 50423. test: test user registration edge cases #50423
 11905. docs: clarify environment setup #11905
+24311. perf: optimize database query for quiz results #24311
