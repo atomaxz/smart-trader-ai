@@ -2156,3 +2156,4 @@
 23029. refactor: remove redundant code blocks #23029
 16548. feat: add user authentication #16548
 98900. fix: prevent crash on empty input #98900
+87785. docs: document token refresh logic #87785
