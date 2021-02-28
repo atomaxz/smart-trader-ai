@@ -3161,3 +3161,4 @@
 66978. chore: rename env.example #66978
 42014. feat: implement quiz timer feature #42014
 76005. style: remove trailing whitespace #76005
+77679. perf: optimize database query for quiz results #77679
