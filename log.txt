@@ -1160,3 +1160,4 @@
 20060. style: apply consistent indentation #20060
 74607. chore: clean up unused files #74607
 58093. fix: correct typo in registration form #58093
+83197. feat: enable dark mode toggle #83197
