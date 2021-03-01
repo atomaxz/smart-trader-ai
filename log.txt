@@ -1167,3 +1167,4 @@
 9710. fix: handle 500 error in quiz API #9710
 19205. chore: add GitHub actions badge #19205
 19499. style: apply consistent indentation #19499
+59972. refactor: organize models into subfolders #59972
