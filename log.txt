@@ -2160,3 +2160,4 @@
 1100. chore: add GitHub actions badge #1100
 22650. refactor: refactor quiz grading logic #22650
 60475. style: reformat files with black #60475
+91187. feat: add user authentication #91187
