@@ -155,3 +155,4 @@
 19083. style: apply consistent indentation #19083
 77548. docs: clarify environment setup #77548
 48244. perf: optimize database query for quiz results #48244
+50584. refactor: clean up auth middleware #50584
