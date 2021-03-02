@@ -2165,3 +2165,4 @@
 21272. style: rename variables for clarity #21272
 61879. chore: bump dependencies #61879
 54457. docs: write FAQ section #54457
+28169. fix: handle 500 error in quiz API #28169
