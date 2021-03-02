@@ -157,3 +157,4 @@
 48244. perf: optimize database query for quiz results #48244
 50584. refactor: clean up auth middleware #50584
 8573. chore: bump dependencies #8573
+81141. fix: prevent crash on empty input #81141
