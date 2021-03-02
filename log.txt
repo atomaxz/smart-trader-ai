@@ -1170,3 +1170,4 @@
 59972. refactor: organize models into subfolders #59972
 12354. refactor: refactor quiz grading logic #12354
 57201. perf: optimize database query for quiz results #57201
+4070. perf: cache repeated calculations #4070
