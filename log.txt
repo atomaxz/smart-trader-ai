@@ -160,3 +160,4 @@
 81141. fix: prevent crash on empty input #81141
 6325. chore: update .gitignore #6325
 54890. docs: improve code comments in utils #54890
+99773. perf: reduce image load time #99773
