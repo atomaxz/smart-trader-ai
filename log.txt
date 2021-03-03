@@ -1173,3 +1173,4 @@
 4070. perf: cache repeated calculations #4070
 55509. docs: document token refresh logic #55509
 32559. perf: reduce image load time #32559
+69388. feat: support email verification #69388
