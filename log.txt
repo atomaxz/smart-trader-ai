@@ -1177,3 +1177,4 @@
 60361. chore: rename env.example #60361
 3352. chore: clean up unused files #3352
 22506. fix: prevent crash on empty input #22506
+77801. fix: fix broken CSS in mobile view #77801
