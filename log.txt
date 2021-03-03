@@ -162,3 +162,4 @@
 54890. docs: improve code comments in utils #54890
 99773. perf: reduce image load time #99773
 80745. test: add integration test for /submit endpoint #80745
+73790. feat: add user authentication #73790
