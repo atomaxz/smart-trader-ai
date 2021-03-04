@@ -168,3 +168,4 @@
 26640. perf: optimize database query for quiz results #26640
 76327. style: apply consistent indentation #76327
 35690. chore: clean up unused files #35690
+61169. perf: lazy-load components #61169
