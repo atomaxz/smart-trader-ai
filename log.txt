@@ -1178,3 +1178,4 @@
 3352. chore: clean up unused files #3352
 22506. fix: prevent crash on empty input #22506
 77801. fix: fix broken CSS in mobile view #77801
+67310. fix: correct typo in registration form #67310
