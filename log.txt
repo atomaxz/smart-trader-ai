@@ -164,3 +164,4 @@
 80745. test: add integration test for /submit endpoint #80745
 73790. feat: add user authentication #73790
 71826. perf: lazy-load components #71826
+10645. perf: reduce image load time #10645
