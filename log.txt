@@ -2171,3 +2171,4 @@
 54039. refactor: organize models into subfolders #54039
 75828. fix: correct typo in registration form #75828
 66482. test: test user registration edge cases #66482
+2196. chore: bump dependencies #2196
