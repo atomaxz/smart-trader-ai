@@ -2172,3 +2172,4 @@
 75828. fix: correct typo in registration form #75828
 66482. test: test user registration edge cases #66482
 2196. chore: bump dependencies #2196
+15241. docs: update README with setup steps #15241
