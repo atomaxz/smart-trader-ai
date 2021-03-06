@@ -3176,3 +3176,4 @@
 85098. test: add integration test for /submit endpoint #85098
 45654. fix: resolve issue with date parsing #45654
 70869. refactor: clean up auth middleware #70869
+77172. fix: fix broken CSS in mobile view #77172
