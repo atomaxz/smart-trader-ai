@@ -3179,3 +3179,4 @@
 77172. fix: fix broken CSS in mobile view #77172
 97888. refactor: remove redundant code blocks #97888
 72643. style: apply consistent indentation #72643
+61751. refactor: clean up auth middleware #61751
