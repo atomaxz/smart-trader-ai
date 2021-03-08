@@ -3185,3 +3185,4 @@
 72298. style: apply consistent indentation #72298
 57932. docs: update README with setup steps #57932
 44856. refactor: clean up auth middleware #44856
+26557. chore: update .gitignore #26557
