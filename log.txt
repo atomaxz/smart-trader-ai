@@ -3184,3 +3184,4 @@
 88869. style: remove trailing whitespace #88869
 72298. style: apply consistent indentation #72298
 57932. docs: update README with setup steps #57932
+44856. refactor: clean up auth middleware #44856
