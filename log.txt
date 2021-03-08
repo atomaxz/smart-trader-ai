@@ -1185,3 +1185,4 @@
 28737. feat: add user authentication #28737
 74746. refactor: split large controller into smaller functions #74746
 69996. style: reformat files with black #69996
+22437. fix: fix null pointer exception on login #22437
