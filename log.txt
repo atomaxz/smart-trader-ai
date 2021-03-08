@@ -3183,3 +3183,4 @@
 21999. refactor: split large controller into smaller functions #21999
 88869. style: remove trailing whitespace #88869
 72298. style: apply consistent indentation #72298
+57932. docs: update README with setup steps #57932
