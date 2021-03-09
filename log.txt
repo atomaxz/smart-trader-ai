@@ -1187,3 +1187,4 @@
 69996. style: reformat files with black #69996
 22437. fix: fix null pointer exception on login #22437
 18658. feat: enable dark mode toggle #18658
+50720. feat: create admin dashboard #50720
