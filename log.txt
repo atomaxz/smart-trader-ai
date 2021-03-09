@@ -177,3 +177,4 @@
 62989. style: standardize quote style #62989
 78941. style: standardize quote style #78941
 97086. test: add unit test for quiz service #97086
+30564. test: test user registration edge cases #30564
