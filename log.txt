@@ -1189,3 +1189,4 @@
 18658. feat: enable dark mode toggle #18658
 50720. feat: create admin dashboard #50720
 90423. chore: rename env.example #90423
+12615. refactor: organize models into subfolders #12615
