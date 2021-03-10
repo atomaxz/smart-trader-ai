@@ -3189,3 +3189,4 @@
 88247. feat: implement quiz timer feature #88247
 16799. refactor: refactor quiz grading logic #16799
 50231. fix: correct typo in registration form #50231
+68405. test: increase coverage on auth module #68405
