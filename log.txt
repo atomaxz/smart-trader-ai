@@ -179,3 +179,4 @@
 97086. test: add unit test for quiz service #97086
 30564. test: test user registration edge cases #30564
 60344. docs: improve code comments in utils #60344
+13769. docs: write FAQ section #13769
