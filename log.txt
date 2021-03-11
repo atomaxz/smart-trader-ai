@@ -3192,3 +3192,4 @@
 68405. test: increase coverage on auth module #68405
 23648. docs: add API usage examples #23648
 23297. docs: document token refresh logic #23297
+32403. style: remove trailing whitespace #32403
