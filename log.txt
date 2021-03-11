@@ -3193,3 +3193,4 @@
 23648. docs: add API usage examples #23648
 23297. docs: document token refresh logic #23297
 32403. style: remove trailing whitespace #32403
+54528. feat: support email verification #54528
