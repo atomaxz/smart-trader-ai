@@ -184,3 +184,4 @@
 95045. style: apply consistent indentation #95045
 47494. test: add unit test for quiz service #47494
 23441. feat: implement quiz timer feature #23441
+29041. test: increase coverage on auth module #29041
