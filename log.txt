@@ -182,3 +182,4 @@
 13769. docs: write FAQ section #13769
 51948. fix: fix broken CSS in mobile view #51948
 95045. style: apply consistent indentation #95045
+47494. test: add unit test for quiz service #47494
