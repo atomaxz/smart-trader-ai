@@ -3195,3 +3195,4 @@
 32403. style: remove trailing whitespace #32403
 54528. feat: support email verification #54528
 19568. docs: clarify environment setup #19568
+65313. fix: fix null pointer exception on login #65313
