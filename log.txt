@@ -2186,3 +2186,4 @@
 64648. docs: write FAQ section #64648
 99287. chore: rename env.example #99287
 4154. docs: improve code comments in utils #4154
+70282. test: test user registration edge cases #70282
