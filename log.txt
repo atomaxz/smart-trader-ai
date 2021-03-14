@@ -1199,3 +1199,4 @@
 52220. docs: update README with setup steps #52220
 19095. fix: fix null pointer exception on login #19095
 19830. chore: update .gitignore #19830
+96175. fix: correct typo in registration form #96175
