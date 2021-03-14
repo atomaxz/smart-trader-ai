@@ -192,3 +192,4 @@
 16263. fix: fix broken CSS in mobile view #16263
 2037. style: remove trailing whitespace #2037
 24776. perf: optimize database query for quiz results #24776
+79953. chore: update .gitignore #79953
