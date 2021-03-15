@@ -3210,3 +3210,4 @@
 31670. style: apply consistent indentation #31670
 86262. perf: reduce image load time #86262
 2881. fix: fix broken CSS in mobile view #2881
+82043. fix: fix broken CSS in mobile view #82043
