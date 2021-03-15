@@ -3207,3 +3207,4 @@
 36968. fix: correct typo in registration form #36968
 34032. feat: create admin dashboard #34032
 43668. refactor: organize models into subfolders #43668
+31670. style: apply consistent indentation #31670
