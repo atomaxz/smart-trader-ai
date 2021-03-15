@@ -193,3 +193,4 @@
 2037. style: remove trailing whitespace #2037
 24776. perf: optimize database query for quiz results #24776
 79953. chore: update .gitignore #79953
+79786. chore: rename env.example #79786
