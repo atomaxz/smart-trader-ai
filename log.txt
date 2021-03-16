@@ -1202,3 +1202,4 @@
 96175. fix: correct typo in registration form #96175
 4155. refactor: remove redundant code blocks #4155
 91663. feat: add user authentication #91663
+83472. docs: clarify environment setup #83472
