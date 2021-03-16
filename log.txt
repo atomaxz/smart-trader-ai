@@ -3212,3 +3212,4 @@
 2881. fix: fix broken CSS in mobile view #2881
 82043. fix: fix broken CSS in mobile view #82043
 26683. style: standardize quote style #26683
+99494. fix: resolve issue with date parsing #99494
