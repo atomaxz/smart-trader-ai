@@ -1204,3 +1204,4 @@
 91663. feat: add user authentication #91663
 83472. docs: clarify environment setup #83472
 83615. style: apply consistent indentation #83615
+38678. docs: update README with setup steps #38678
