@@ -195,3 +195,4 @@
 79953. chore: update .gitignore #79953
 79786. chore: rename env.example #79786
 25851. fix: prevent crash on empty input #25851
+91589. docs: clarify environment setup #91589
