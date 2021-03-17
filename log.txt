@@ -198,3 +198,4 @@
 91589. docs: clarify environment setup #91589
 28451. style: reformat files with black #28451
 22411. test: add integration test for /submit endpoint #22411
+57279. perf: optimize database query for quiz results #57279
