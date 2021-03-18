@@ -1208,3 +1208,4 @@
 10070. perf: reduce image load time #10070
 42763. chore: bump dependencies #42763
 36817. feat: implement quiz timer feature #36817
+22331. perf: lazy-load components #22331
