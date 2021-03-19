@@ -1210,3 +1210,4 @@
 36817. feat: implement quiz timer feature #36817
 22331. perf: lazy-load components #22331
 96923. refactor: split large controller into smaller functions #96923
+28348. docs: update README with setup steps #28348
