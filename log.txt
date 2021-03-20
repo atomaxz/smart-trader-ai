@@ -2205,3 +2205,4 @@
 67541. refactor: split large controller into smaller functions #67541
 7618. perf: lazy-load components #7618
 92159. docs: update README with setup steps #92159
+54618. test: test user registration edge cases #54618
