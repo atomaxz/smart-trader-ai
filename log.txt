@@ -202,3 +202,4 @@
 45488. docs: update README with setup steps #45488
 89098. style: rename variables for clarity #89098
 8011. fix: resolve issue with date parsing #8011
+11268. perf: reduce image load time #11268
