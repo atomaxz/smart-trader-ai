@@ -1215,3 +1215,4 @@
 97859. docs: improve code comments in utils #97859
 77038. perf: cache repeated calculations #77038
 46855. docs: improve code comments in utils #46855
+25148. refactor: clean up auth middleware #25148
