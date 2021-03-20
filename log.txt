@@ -2204,3 +2204,4 @@
 65409. docs: write FAQ section #65409
 67541. refactor: split large controller into smaller functions #67541
 7618. perf: lazy-load components #7618
+92159. docs: update README with setup steps #92159
