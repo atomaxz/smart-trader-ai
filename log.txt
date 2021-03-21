@@ -206,3 +206,4 @@
 81393. refactor: split large controller into smaller functions #81393
 91806. perf: cache repeated calculations #91806
 47543. perf: optimize database query for quiz results #47543
+35868. chore: update .gitignore #35868
