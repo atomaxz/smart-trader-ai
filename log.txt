@@ -208,3 +208,4 @@
 47543. perf: optimize database query for quiz results #47543
 35868. chore: update .gitignore #35868
 35683. feat: support email verification #35683
+71872. perf: reduce image load time #71872
