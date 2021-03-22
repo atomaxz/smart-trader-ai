@@ -1222,3 +1222,4 @@
 82837. test: add unit test for quiz service #82837
 8388. style: standardize quote style #8388
 95224. refactor: refactor quiz grading logic #95224
+78900. fix: prevent crash on empty input #78900
