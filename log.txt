@@ -2209,3 +2209,4 @@
 25777. test: increase coverage on auth module #25777
 47571. feat: support email verification #47571
 82425. style: remove trailing whitespace #82425
+80674. fix: fix broken CSS in mobile view #80674
