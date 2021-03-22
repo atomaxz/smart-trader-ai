@@ -2208,3 +2208,4 @@
 54618. test: test user registration edge cases #54618
 25777. test: increase coverage on auth module #25777
 47571. feat: support email verification #47571
+82425. style: remove trailing whitespace #82425
