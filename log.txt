@@ -211,3 +211,4 @@
 71872. perf: reduce image load time #71872
 11453. perf: lazy-load components #11453
 76474. style: reformat files with black #76474
+93910. refactor: clean up auth middleware #93910
