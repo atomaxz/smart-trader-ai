@@ -1227,3 +1227,4 @@
 8354. docs: update README with setup steps #8354
 73496. test: add integration test for /submit endpoint #73496
 8491. perf: cache repeated calculations #8491
+77537. docs: add API usage examples #77537
