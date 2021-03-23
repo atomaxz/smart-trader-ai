@@ -2212,3 +2212,4 @@
 80674. fix: fix broken CSS in mobile view #80674
 35025. docs: document token refresh logic #35025
 81407. docs: clarify environment setup #81407
+86500. refactor: clean up auth middleware #86500
