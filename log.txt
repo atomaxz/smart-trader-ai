@@ -213,3 +213,4 @@
 76474. style: reformat files with black #76474
 93910. refactor: clean up auth middleware #93910
 90901. chore: bump dependencies #90901
+26474. test: add integration test for /submit endpoint #26474
