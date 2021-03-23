@@ -1225,3 +1225,4 @@
 78900. fix: prevent crash on empty input #78900
 64015. docs: write FAQ section #64015
 8354. docs: update README with setup steps #8354
+73496. test: add integration test for /submit endpoint #73496
