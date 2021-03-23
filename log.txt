@@ -216,3 +216,4 @@
 26474. test: add integration test for /submit endpoint #26474
 93824. chore: add GitHub actions badge #93824
 29831. docs: add API usage examples #29831
+30100. test: increase coverage on auth module #30100
