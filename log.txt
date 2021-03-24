@@ -218,3 +218,4 @@
 29831. docs: add API usage examples #29831
 30100. test: increase coverage on auth module #30100
 92650. perf: lazy-load components #92650
+83734. docs: document token refresh logic #83734
