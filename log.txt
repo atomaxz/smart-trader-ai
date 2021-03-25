@@ -219,3 +219,4 @@
 30100. test: increase coverage on auth module #30100
 92650. perf: lazy-load components #92650
 83734. docs: document token refresh logic #83734
+4080. feat: add export to CSV option #4080
