@@ -1235,3 +1235,4 @@
 76661. test: test user registration edge cases #76661
 21198. test: increase coverage on auth module #21198
 40372. fix: fix broken CSS in mobile view #40372
+89546. test: test user registration edge cases #89546
