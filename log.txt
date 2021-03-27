@@ -1238,3 +1238,4 @@
 89546. test: test user registration edge cases #89546
 75839. fix: prevent crash on empty input #75839
 32034. style: standardize quote style #32034
+36782. style: apply consistent indentation #36782
