@@ -223,3 +223,4 @@
 15452. chore: clean up unused files #15452
 78895. docs: clarify environment setup #78895
 90236. docs: write FAQ section #90236
+61361. fix: prevent crash on empty input #61361
