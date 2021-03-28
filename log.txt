@@ -1242,3 +1242,4 @@
 38579. chore: clean up unused files #38579
 23278. chore: clean up unused files #23278
 90970. refactor: organize models into subfolders #90970
+75623. style: reformat files with black #75623
