@@ -3228,3 +3228,4 @@
 3329. fix: fix null pointer exception on login #3329
 87852. test: increase coverage on auth module #87852
 6261. fix: correct typo in registration form #6261
+35882. chore: add GitHub actions badge #35882
