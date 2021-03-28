@@ -2226,3 +2226,4 @@
 76786. chore: bump dependencies #76786
 22242. docs: write FAQ section #22242
 2339. feat: create admin dashboard #2339
+6851. style: reformat files with black #6851
