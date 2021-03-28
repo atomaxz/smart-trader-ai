@@ -3227,3 +3227,4 @@
 59356. feat: create admin dashboard #59356
 3329. fix: fix null pointer exception on login #3329
 87852. test: increase coverage on auth module #87852
+6261. fix: correct typo in registration form #6261
