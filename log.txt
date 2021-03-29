@@ -3229,3 +3229,4 @@
 87852. test: increase coverage on auth module #87852
 6261. fix: correct typo in registration form #6261
 35882. chore: add GitHub actions badge #35882
+32659. feat: enable dark mode toggle #32659
