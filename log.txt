@@ -1251,3 +1251,4 @@
 61439. perf: reduce image load time #61439
 4092. chore: add GitHub actions badge #4092
 11229. chore: bump dependencies #11229
+32657. feat: support email verification #32657
