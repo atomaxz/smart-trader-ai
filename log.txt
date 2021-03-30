@@ -1247,3 +1247,4 @@
 48945. perf: lazy-load components #48945
 11725. test: add integration test for /submit endpoint #11725
 92194. refactor: organize models into subfolders #92194
+98451. feat: support email verification #98451
