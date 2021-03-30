@@ -3233,3 +3233,4 @@
 32455. test: mock database connection in test suite #32455
 47405. chore: update .gitignore #47405
 29425. test: test user registration edge cases #29425
+95173. refactor: organize models into subfolders #95173
