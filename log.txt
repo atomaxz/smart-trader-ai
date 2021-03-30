@@ -230,3 +230,4 @@
 95378. chore: rename env.example #95378
 25443. style: rename variables for clarity #25443
 95104. style: standardize quote style #95104
+0716. test: test user registration edge cases #716
