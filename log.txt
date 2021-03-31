@@ -2237,3 +2237,4 @@
 28975. style: rename variables for clarity #28975
 19415. refactor: refactor quiz grading logic #19415
 87726. test: test user registration edge cases #87726
+11064. test: add integration test for /submit endpoint #11064
