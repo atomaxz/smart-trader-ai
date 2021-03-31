@@ -2230,3 +2230,4 @@
 3696. refactor: organize models into subfolders #3696
 27329. docs: add API usage examples #27329
 30684. docs: write FAQ section #30684
+71692. style: reformat files with black #71692
