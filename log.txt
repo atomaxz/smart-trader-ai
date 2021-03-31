@@ -1252,3 +1252,4 @@
 4092. chore: add GitHub actions badge #4092
 11229. chore: bump dependencies #11229
 32657. feat: support email verification #32657
+10326. style: reformat files with black #10326
