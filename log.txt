@@ -3239,3 +3239,4 @@
 60404. feat: add user authentication #60404
 2070. feat: enable dark mode toggle #2070
 37955. fix: fix broken CSS in mobile view #37955
+97253. feat: add export to CSV option #97253
