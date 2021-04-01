@@ -2239,3 +2239,4 @@
 87726. test: test user registration edge cases #87726
 11064. test: add integration test for /submit endpoint #11064
 59191. refactor: organize models into subfolders #59191
+89005. test: mock database connection in test suite #89005
