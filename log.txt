@@ -237,3 +237,4 @@
 31113. feat: support email verification #31113
 5456. fix: prevent crash on empty input #5456
 76079. perf: cache repeated calculations #76079
+52738. perf: reduce image load time #52738
