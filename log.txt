@@ -235,3 +235,4 @@
 53993. chore: clean up unused files #53993
 50668. refactor: remove redundant code blocks #50668
 31113. feat: support email verification #31113
+5456. fix: prevent crash on empty input #5456
