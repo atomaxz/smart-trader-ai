@@ -244,3 +244,4 @@
 90293. docs: document token refresh logic #90293
 49427. refactor: clean up auth middleware #49427
 5365. feat: support email verification #5365
+5239. feat: add user authentication #5239
