@@ -2245,3 +2245,4 @@
 1227. feat: add user authentication #1227
 18539. chore: rename env.example #18539
 60095. docs: write FAQ section #60095
+68618. chore: bump dependencies #68618
