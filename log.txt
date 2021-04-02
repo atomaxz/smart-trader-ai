@@ -3242,3 +3242,4 @@
 97253. feat: add export to CSV option #97253
 61209. perf: optimize database query for quiz results #61209
 17103. fix: correct typo in registration form #17103
+79270. test: increase coverage on auth module #79270
