@@ -242,3 +242,4 @@
 73705. refactor: organize models into subfolders #73705
 27655. chore: update .gitignore #27655
 90293. docs: document token refresh logic #90293
+49427. refactor: clean up auth middleware #49427
