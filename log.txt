@@ -2248,3 +2248,4 @@
 68618. chore: bump dependencies #68618
 32419. style: apply consistent indentation #32419
 64135. test: increase coverage on auth module #64135
+59439. feat: create admin dashboard #59439
