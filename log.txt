@@ -3246,3 +3246,4 @@
 51667. feat: add export to CSV option #51667
 87275. feat: implement quiz timer feature #87275
 47919. fix: resolve issue with date parsing #47919
+8978. perf: lazy-load components #8978
