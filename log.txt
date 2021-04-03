@@ -2247,3 +2247,4 @@
 60095. docs: write FAQ section #60095
 68618. chore: bump dependencies #68618
 32419. style: apply consistent indentation #32419
+64135. test: increase coverage on auth module #64135
