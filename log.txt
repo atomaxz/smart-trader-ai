@@ -245,3 +245,4 @@
 49427. refactor: clean up auth middleware #49427
 5365. feat: support email verification #5365
 5239. feat: add user authentication #5239
+91742. style: remove trailing whitespace #91742
