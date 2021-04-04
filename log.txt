@@ -251,3 +251,4 @@
 78540. test: increase coverage on auth module #78540
 20747. fix: prevent crash on empty input #20747
 86391. fix: fix broken CSS in mobile view #86391
+46142. style: reformat files with black #46142
