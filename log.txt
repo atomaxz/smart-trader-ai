@@ -253,3 +253,4 @@
 86391. fix: fix broken CSS in mobile view #86391
 46142. style: reformat files with black #46142
 25554. chore: update .gitignore #25554
+17568. docs: update README with setup steps #17568
