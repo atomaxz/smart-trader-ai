@@ -256,3 +256,4 @@
 17568. docs: update README with setup steps #17568
 67133. perf: reduce image load time #67133
 99619. refactor: split large controller into smaller functions #99619
+8666. style: standardize quote style #8666
