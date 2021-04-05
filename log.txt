@@ -1264,3 +1264,4 @@
 60509. docs: add API usage examples #60509
 3445. chore: add GitHub actions badge #3445
 50831. style: rename variables for clarity #50831
+37168. fix: prevent crash on empty input #37168
