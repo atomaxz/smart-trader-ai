@@ -2252,3 +2252,4 @@
 3644. style: rename variables for clarity #3644
 29075. test: add integration test for /submit endpoint #29075
 65201. fix: fix broken CSS in mobile view #65201
+51941. test: test user registration edge cases #51941
