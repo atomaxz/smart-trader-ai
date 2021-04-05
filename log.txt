@@ -2254,3 +2254,4 @@
 65201. fix: fix broken CSS in mobile view #65201
 51941. test: test user registration edge cases #51941
 91959. fix: fix null pointer exception on login #91959
+48615. chore: add GitHub actions badge #48615
