@@ -260,3 +260,4 @@
 55285. docs: document token refresh logic #55285
 47809. fix: correct typo in registration form #47809
 90720. fix: handle 500 error in quiz API #90720
+52926. docs: clarify environment setup #52926
