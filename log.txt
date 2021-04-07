@@ -1270,3 +1270,4 @@
 5004. chore: clean up unused files #5004
 18043. perf: cache repeated calculations #18043
 92743. docs: write FAQ section #92743
+38103. test: test user registration edge cases #38103
