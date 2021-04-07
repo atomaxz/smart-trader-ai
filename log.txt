@@ -261,3 +261,4 @@
 47809. fix: correct typo in registration form #47809
 90720. fix: handle 500 error in quiz API #90720
 52926. docs: clarify environment setup #52926
+12263. fix: prevent crash on empty input #12263
