@@ -1271,3 +1271,4 @@
 18043. perf: cache repeated calculations #18043
 92743. docs: write FAQ section #92743
 38103. test: test user registration edge cases #38103
+8657. perf: optimize database query for quiz results #8657
