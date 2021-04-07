@@ -1269,3 +1269,4 @@
 37509. chore: clean up unused files #37509
 5004. chore: clean up unused files #5004
 18043. perf: cache repeated calculations #18043
+92743. docs: write FAQ section #92743
