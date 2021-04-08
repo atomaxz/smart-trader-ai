@@ -2261,3 +2261,4 @@
 56013. feat: add user authentication #56013
 94405. fix: correct typo in registration form #94405
 32251. docs: write FAQ section #32251
+2618. test: increase coverage on auth module #2618
