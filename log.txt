@@ -265,3 +265,4 @@
 77252. test: add integration test for /submit endpoint #77252
 41630. test: mock database connection in test suite #41630
 2851. docs: write FAQ section #2851
+76006. test: increase coverage on auth module #76006
