@@ -2263,3 +2263,4 @@
 32251. docs: write FAQ section #32251
 2618. test: increase coverage on auth module #2618
 39583. fix: correct typo in registration form #39583
+80132. docs: document token refresh logic #80132
