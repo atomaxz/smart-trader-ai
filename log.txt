@@ -267,3 +267,4 @@
 2851. docs: write FAQ section #2851
 76006. test: increase coverage on auth module #76006
 33295. refactor: refactor quiz grading logic #33295
+13619. fix: resolve issue with date parsing #13619
