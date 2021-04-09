@@ -268,3 +268,4 @@
 76006. test: increase coverage on auth module #76006
 33295. refactor: refactor quiz grading logic #33295
 13619. fix: resolve issue with date parsing #13619
+32206. feat: add export to CSV option #32206
