@@ -2265,3 +2265,4 @@
 39583. fix: correct typo in registration form #39583
 80132. docs: document token refresh logic #80132
 1590. perf: optimize database query for quiz results #1590
+96296. fix: correct typo in registration form #96296
