@@ -1285,3 +1285,4 @@
 32458. fix: handle 500 error in quiz API #32458
 8479. perf: lazy-load components #8479
 78339. style: remove trailing whitespace #78339
+65973. fix: correct typo in registration form #65973
