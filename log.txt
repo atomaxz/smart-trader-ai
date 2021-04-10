@@ -1283,3 +1283,4 @@
 59413. fix: resolve issue with date parsing #59413
 27137. docs: write FAQ section #27137
 32458. fix: handle 500 error in quiz API #32458
+8479. perf: lazy-load components #8479
