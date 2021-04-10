@@ -2269,3 +2269,4 @@
 27608. feat: add user authentication #27608
 5225. test: add unit test for quiz service #5225
 24987. feat: support email verification #24987
+55684. test: increase coverage on auth module #55684
