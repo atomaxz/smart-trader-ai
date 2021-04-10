@@ -1282,3 +1282,4 @@
 28453. docs: clarify environment setup #28453
 59413. fix: resolve issue with date parsing #59413
 27137. docs: write FAQ section #27137
+32458. fix: handle 500 error in quiz API #32458
