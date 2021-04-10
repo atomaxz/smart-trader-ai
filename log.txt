@@ -2267,3 +2267,4 @@
 1590. perf: optimize database query for quiz results #1590
 96296. fix: correct typo in registration form #96296
 27608. feat: add user authentication #27608
+5225. test: add unit test for quiz service #5225
