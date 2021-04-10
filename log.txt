@@ -2268,3 +2268,4 @@
 96296. fix: correct typo in registration form #96296
 27608. feat: add user authentication #27608
 5225. test: add unit test for quiz service #5225
+24987. feat: support email verification #24987
