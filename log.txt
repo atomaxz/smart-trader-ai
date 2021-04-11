@@ -2273,3 +2273,4 @@
 28726. chore: bump dependencies #28726
 11756. refactor: split large controller into smaller functions #11756
 70015. style: standardize quote style #70015
+66692. fix: fix null pointer exception on login #66692
