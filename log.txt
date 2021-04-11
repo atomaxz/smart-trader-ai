@@ -1286,3 +1286,4 @@
 8479. perf: lazy-load components #8479
 78339. style: remove trailing whitespace #78339
 65973. fix: correct typo in registration form #65973
+38427. docs: improve code comments in utils #38427
