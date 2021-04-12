@@ -275,3 +275,4 @@
 9765. test: add integration test for /submit endpoint #9765
 17222. fix: fix null pointer exception on login #17222
 75925. docs: write FAQ section #75925
+68452. test: add integration test for /submit endpoint #68452
