@@ -1290,3 +1290,4 @@
 18754. refactor: split large controller into smaller functions #18754
 82464. perf: reduce image load time #82464
 66182. docs: write FAQ section #66182
+9329. refactor: split large controller into smaller functions #9329
