@@ -1289,3 +1289,4 @@
 38427. docs: improve code comments in utils #38427
 18754. refactor: split large controller into smaller functions #18754
 82464. perf: reduce image load time #82464
+66182. docs: write FAQ section #66182
