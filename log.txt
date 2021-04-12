@@ -3265,3 +3265,4 @@
 33175. docs: add API usage examples #33175
 20049. style: reformat files with black #20049
 80889. perf: lazy-load components #80889
+37255. chore: add GitHub actions badge #37255
