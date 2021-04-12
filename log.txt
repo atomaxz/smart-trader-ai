@@ -3267,3 +3267,4 @@
 80889. perf: lazy-load components #80889
 37255. chore: add GitHub actions badge #37255
 30118. test: increase coverage on auth module #30118
+84336. refactor: split large controller into smaller functions #84336
