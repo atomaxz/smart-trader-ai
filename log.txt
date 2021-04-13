@@ -3268,3 +3268,4 @@
 37255. chore: add GitHub actions badge #37255
 30118. test: increase coverage on auth module #30118
 84336. refactor: split large controller into smaller functions #84336
+88044. perf: reduce image load time #88044
