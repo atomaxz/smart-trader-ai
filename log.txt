@@ -1294,3 +1294,4 @@
 96906. style: standardize quote style #96906
 65197. fix: prevent crash on empty input #65197
 3548. test: test user registration edge cases #3548
+90540. fix: correct typo in registration form #90540
