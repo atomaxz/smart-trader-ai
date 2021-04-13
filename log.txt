@@ -2276,3 +2276,4 @@
 66692. fix: fix null pointer exception on login #66692
 3212. docs: add API usage examples #3212
 17620. test: add unit test for quiz service #17620
+28553. refactor: split large controller into smaller functions #28553
