@@ -1292,3 +1292,4 @@
 66182. docs: write FAQ section #66182
 9329. refactor: split large controller into smaller functions #9329
 96906. style: standardize quote style #96906
+65197. fix: prevent crash on empty input #65197
