@@ -1291,3 +1291,4 @@
 82464. perf: reduce image load time #82464
 66182. docs: write FAQ section #66182
 9329. refactor: split large controller into smaller functions #9329
+96906. style: standardize quote style #96906
