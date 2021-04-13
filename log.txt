@@ -1293,3 +1293,4 @@
 9329. refactor: split large controller into smaller functions #9329
 96906. style: standardize quote style #96906
 65197. fix: prevent crash on empty input #65197
+3548. test: test user registration edge cases #3548
