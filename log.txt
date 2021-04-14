@@ -2280,3 +2280,4 @@
 31479. chore: add GitHub actions badge #31479
 79070. feat: create admin dashboard #79070
 36980. refactor: remove redundant code blocks #36980
+61301. fix: prevent crash on empty input #61301
