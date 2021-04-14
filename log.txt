@@ -1296,3 +1296,4 @@
 3548. test: test user registration edge cases #3548
 90540. fix: correct typo in registration form #90540
 18330. test: mock database connection in test suite #18330
+10764. refactor: remove redundant code blocks #10764
