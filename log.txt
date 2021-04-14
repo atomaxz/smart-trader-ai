@@ -280,3 +280,4 @@
 97567. docs: improve code comments in utils #97567
 61872. docs: update README with setup steps #61872
 54141. fix: fix broken CSS in mobile view #54141
+76273. docs: write FAQ section #76273
