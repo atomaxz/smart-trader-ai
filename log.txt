@@ -1299,3 +1299,4 @@
 10764. refactor: remove redundant code blocks #10764
 51895. test: test user registration edge cases #51895
 50913. style: rename variables for clarity #50913
+53402. fix: fix null pointer exception on login #53402
