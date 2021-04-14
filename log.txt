@@ -2281,3 +2281,4 @@
 79070. feat: create admin dashboard #79070
 36980. refactor: remove redundant code blocks #36980
 61301. fix: prevent crash on empty input #61301
+61295. refactor: organize models into subfolders #61295
