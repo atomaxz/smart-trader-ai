@@ -2277,3 +2277,4 @@
 3212. docs: add API usage examples #3212
 17620. test: add unit test for quiz service #17620
 28553. refactor: split large controller into smaller functions #28553
+31479. chore: add GitHub actions badge #31479
