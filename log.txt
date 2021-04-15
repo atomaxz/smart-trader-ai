@@ -282,3 +282,4 @@
 54141. fix: fix broken CSS in mobile view #54141
 76273. docs: write FAQ section #76273
 75546. chore: update .gitignore #75546
+33222. style: apply consistent indentation #33222
