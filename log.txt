@@ -283,3 +283,4 @@
 76273. docs: write FAQ section #76273
 75546. chore: update .gitignore #75546
 33222. style: apply consistent indentation #33222
+62771. chore: add GitHub actions badge #62771
