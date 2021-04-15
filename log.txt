@@ -3275,3 +3275,4 @@
 56744. fix: resolve issue with date parsing #56744
 12954. style: standardize quote style #12954
 76715. docs: add API usage examples #76715
+8440. fix: fix broken CSS in mobile view #8440
