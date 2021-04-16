@@ -1302,3 +1302,4 @@
 53402. fix: fix null pointer exception on login #53402
 13982. perf: cache repeated calculations #13982
 11885. refactor: remove redundant code blocks #11885
+44527. style: remove trailing whitespace #44527
