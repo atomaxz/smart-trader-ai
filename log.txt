@@ -3281,3 +3281,4 @@
 37545. perf: optimize database query for quiz results #37545
 2586. fix: prevent crash on empty input #2586
 59382. feat: enable dark mode toggle #59382
+77706. test: increase coverage on auth module #77706
