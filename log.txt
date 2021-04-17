@@ -1308,3 +1308,4 @@
 89206. feat: support email verification #89206
 10446. feat: add user authentication #10446
 82721. fix: prevent crash on empty input #82721
+67370. fix: handle 500 error in quiz API #67370
