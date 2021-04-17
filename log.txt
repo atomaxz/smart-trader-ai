@@ -3279,3 +3279,4 @@
 86563. style: rename variables for clarity #86563
 53442. style: reformat files with black #53442
 37545. perf: optimize database query for quiz results #37545
+2586. fix: prevent crash on empty input #2586
