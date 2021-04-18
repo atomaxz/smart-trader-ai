@@ -3284,3 +3284,4 @@
 77706. test: increase coverage on auth module #77706
 46168. feat: add user authentication #46168
 7781. fix: correct typo in registration form #7781
+75444. style: apply consistent indentation #75444
