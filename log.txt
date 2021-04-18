@@ -3283,3 +3283,4 @@
 59382. feat: enable dark mode toggle #59382
 77706. test: increase coverage on auth module #77706
 46168. feat: add user authentication #46168
+7781. fix: correct typo in registration form #7781
