@@ -293,3 +293,4 @@
 13320. feat: add user authentication #13320
 43270. test: add unit test for quiz service #43270
 69904. perf: lazy-load components #69904
+76102. test: increase coverage on auth module #76102
