@@ -3289,3 +3289,4 @@
 19022. docs: write FAQ section #19022
 69222. fix: handle 500 error in quiz API #69222
 24306. fix: prevent crash on empty input #24306
+86500. refactor: clean up auth middleware #86500
