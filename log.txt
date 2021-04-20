@@ -3292,3 +3292,4 @@
 86500. refactor: clean up auth middleware #86500
 34734. perf: optimize database query for quiz results #34734
 34034. chore: update .gitignore #34034
+25837. chore: clean up unused files #25837
