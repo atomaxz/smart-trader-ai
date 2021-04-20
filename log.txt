@@ -2297,3 +2297,4 @@
 40048. chore: update .gitignore #40048
 51137. chore: clean up unused files #51137
 22982. docs: write FAQ section #22982
+21289. test: increase coverage on auth module #21289
