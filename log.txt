@@ -3299,3 +3299,4 @@
 60521. fix: prevent crash on empty input #60521
 72001. perf: lazy-load components #72001
 74390. test: increase coverage on auth module #74390
+88275. style: reformat files with black #88275
