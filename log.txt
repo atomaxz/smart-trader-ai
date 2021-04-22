@@ -3301,3 +3301,4 @@
 74390. test: increase coverage on auth module #74390
 88275. style: reformat files with black #88275
 64168. docs: update README with setup steps #64168
+43395. fix: correct typo in registration form #43395
