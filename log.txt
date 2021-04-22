@@ -3300,3 +3300,4 @@
 72001. perf: lazy-load components #72001
 74390. test: increase coverage on auth module #74390
 88275. style: reformat files with black #88275
+64168. docs: update README with setup steps #64168
