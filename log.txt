@@ -2304,3 +2304,4 @@
 40877. fix: fix null pointer exception on login #40877
 1398. test: test user registration edge cases #1398
 99565. docs: clarify environment setup #99565
+20580. refactor: refactor quiz grading logic #20580
