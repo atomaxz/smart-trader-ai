@@ -3307,3 +3307,4 @@
 72164. feat: create admin dashboard #72164
 46108. perf: reduce image load time #46108
 88822. fix: prevent crash on empty input #88822
+44117. perf: lazy-load components #44117
