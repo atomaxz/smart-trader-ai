@@ -1323,3 +1323,4 @@
 47315. test: mock database connection in test suite #47315
 87777. feat: add export to CSV option #87777
 91843. style: rename variables for clarity #91843
+18955. perf: cache repeated calculations #18955
