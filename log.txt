@@ -1324,3 +1324,4 @@
 87777. feat: add export to CSV option #87777
 91843. style: rename variables for clarity #91843
 18955. perf: cache repeated calculations #18955
+83581. refactor: organize models into subfolders #83581
