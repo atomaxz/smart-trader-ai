@@ -3312,3 +3312,4 @@
 83448. chore: rename env.example #83448
 7584. docs: write FAQ section #7584
 86297. fix: resolve issue with date parsing #86297
+54597. perf: lazy-load components #54597
