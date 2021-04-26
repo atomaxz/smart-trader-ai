@@ -1328,3 +1328,4 @@
 97200. fix: handle 500 error in quiz API #97200
 54014. style: standardize quote style #54014
 40353. perf: optimize database query for quiz results #40353
+40981. perf: cache repeated calculations #40981
