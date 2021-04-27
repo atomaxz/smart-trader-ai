@@ -3316,3 +3316,4 @@
 21242. feat: add export to CSV option #21242
 44798. feat: enable dark mode toggle #44798
 7816. fix: correct typo in registration form #7816
+66691. chore: update .gitignore #66691
