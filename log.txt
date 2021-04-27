@@ -3317,3 +3317,4 @@
 44798. feat: enable dark mode toggle #44798
 7816. fix: correct typo in registration form #7816
 66691. chore: update .gitignore #66691
+46476. test: test user registration edge cases #46476
