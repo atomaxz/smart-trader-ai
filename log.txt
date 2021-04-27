@@ -1332,3 +1332,4 @@
 45443. docs: document token refresh logic #45443
 73587. docs: clarify environment setup #73587
 37926. fix: correct typo in registration form #37926
+6458. test: increase coverage on auth module #6458
