@@ -313,3 +313,4 @@
 8923. docs: clarify environment setup #8923
 73016. perf: optimize database query for quiz results #73016
 14887. style: reformat files with black #14887
+27996. docs: update README with setup steps #27996
