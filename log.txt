@@ -309,3 +309,4 @@
 44324. perf: reduce image load time #44324
 45358. perf: reduce image load time #45358
 55972. perf: lazy-load components #55972
+24590. style: remove trailing whitespace #24590
