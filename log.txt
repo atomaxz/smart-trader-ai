@@ -1335,3 +1335,4 @@
 6458. test: increase coverage on auth module #6458
 73507. style: apply consistent indentation #73507
 86969. chore: bump dependencies #86969
+46009. feat: add user authentication #46009
