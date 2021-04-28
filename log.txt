@@ -3320,3 +3320,4 @@
 46476. test: test user registration edge cases #46476
 40642. perf: reduce image load time #40642
 26078. fix: handle 500 error in quiz API #26078
+86251. fix: resolve issue with date parsing #86251
