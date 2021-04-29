@@ -2315,3 +2315,4 @@
 41221. fix: resolve issue with date parsing #41221
 68791. chore: update .gitignore #68791
 13516. chore: rename env.example #13516
+42603. docs: write FAQ section #42603
