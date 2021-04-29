@@ -3322,3 +3322,4 @@
 26078. fix: handle 500 error in quiz API #26078
 86251. fix: resolve issue with date parsing #86251
 11315. fix: prevent crash on empty input #11315
+74225. test: test user registration edge cases #74225
