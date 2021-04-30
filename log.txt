@@ -1341,3 +1341,4 @@
 74264. chore: add GitHub actions badge #74264
 19838. test: add unit test for quiz service #19838
 98714. style: rename variables for clarity #98714
+57047. refactor: organize models into subfolders #57047
