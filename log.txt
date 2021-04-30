@@ -2317,3 +2317,4 @@
 13516. chore: rename env.example #13516
 42603. docs: write FAQ section #42603
 7843. refactor: organize models into subfolders #7843
+18174. fix: fix broken CSS in mobile view #18174
