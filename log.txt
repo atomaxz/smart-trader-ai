@@ -319,3 +319,4 @@
 2874. feat: support email verification #2874
 96950. style: rename variables for clarity #96950
 70272. docs: document token refresh logic #70272
+28815. test: test user registration edge cases #28815
