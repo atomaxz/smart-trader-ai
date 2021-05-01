@@ -3326,3 +3326,4 @@
 39954. chore: clean up unused files #39954
 99293. perf: optimize database query for quiz results #99293
 15182. perf: reduce image load time #15182
+5947. test: test user registration edge cases #5947
