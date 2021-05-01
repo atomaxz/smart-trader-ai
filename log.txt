@@ -1345,3 +1345,4 @@
 58479. feat: support email verification #58479
 52123. docs: clarify environment setup #52123
 78563. test: increase coverage on auth module #78563
+54465. test: increase coverage on auth module #54465
