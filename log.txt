@@ -320,3 +320,4 @@
 96950. style: rename variables for clarity #96950
 70272. docs: document token refresh logic #70272
 28815. test: test user registration edge cases #28815
+71222. test: add unit test for quiz service #71222
