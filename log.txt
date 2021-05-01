@@ -3330,3 +3330,4 @@
 85938. docs: add API usage examples #85938
 30559. feat: create admin dashboard #30559
 81466. refactor: split large controller into smaller functions #81466
+35188. test: increase coverage on auth module #35188
