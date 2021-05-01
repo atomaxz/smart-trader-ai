@@ -2320,3 +2320,4 @@
 18174. fix: fix broken CSS in mobile view #18174
 90154. style: apply consistent indentation #90154
 94176. fix: correct typo in registration form #94176
+59370. docs: update README with setup steps #59370
