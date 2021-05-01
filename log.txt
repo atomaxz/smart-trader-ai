@@ -3331,3 +3331,4 @@
 30559. feat: create admin dashboard #30559
 81466. refactor: split large controller into smaller functions #81466
 35188. test: increase coverage on auth module #35188
+27752. docs: update README with setup steps #27752
