@@ -1344,3 +1344,4 @@
 57047. refactor: organize models into subfolders #57047
 58479. feat: support email verification #58479
 52123. docs: clarify environment setup #52123
+78563. test: increase coverage on auth module #78563
