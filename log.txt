@@ -3334,3 +3334,4 @@
 27752. docs: update README with setup steps #27752
 41440. refactor: organize models into subfolders #41440
 25187. refactor: organize models into subfolders #25187
+12498. test: test user registration edge cases #12498
