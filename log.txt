@@ -3336,3 +3336,4 @@
 25187. refactor: organize models into subfolders #25187
 12498. test: test user registration edge cases #12498
 82194. feat: create admin dashboard #82194
+50552. docs: update README with setup steps #50552
