@@ -1351,3 +1351,4 @@
 0662. docs: clarify environment setup #662
 12221. docs: improve code comments in utils #12221
 30291. test: test user registration edge cases #30291
+28193. fix: handle 500 error in quiz API #28193
