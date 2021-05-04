@@ -3337,3 +3337,4 @@
 12498. test: test user registration edge cases #12498
 82194. feat: create admin dashboard #82194
 50552. docs: update README with setup steps #50552
+63184. perf: reduce image load time #63184
