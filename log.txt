@@ -2325,3 +2325,4 @@
 34694. docs: add API usage examples #34694
 94055. perf: optimize database query for quiz results #94055
 12763. chore: rename env.example #12763
+68733. chore: bump dependencies #68733
