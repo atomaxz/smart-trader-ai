@@ -3338,3 +3338,4 @@
 82194. feat: create admin dashboard #82194
 50552. docs: update README with setup steps #50552
 63184. perf: reduce image load time #63184
+2337. docs: update README with setup steps #2337
