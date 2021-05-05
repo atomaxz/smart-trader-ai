@@ -1353,3 +1353,4 @@
 30291. test: test user registration edge cases #30291
 28193. fix: handle 500 error in quiz API #28193
 93176. chore: bump dependencies #93176
+99621. docs: add API usage examples #99621
