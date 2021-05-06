@@ -3340,3 +3340,4 @@
 63184. perf: reduce image load time #63184
 2337. docs: update README with setup steps #2337
 14209. style: apply consistent indentation #14209
+63662. chore: clean up unused files #63662
