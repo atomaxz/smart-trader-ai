@@ -333,3 +333,4 @@
 63385. chore: add GitHub actions badge #63385
 26528. test: add unit test for quiz service #26528
 89518. feat: enable dark mode toggle #89518
+3209. refactor: clean up auth middleware #3209
