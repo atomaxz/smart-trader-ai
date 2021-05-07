@@ -332,3 +332,4 @@
 33604. feat: support email verification #33604
 63385. chore: add GitHub actions badge #63385
 26528. test: add unit test for quiz service #26528
+89518. feat: enable dark mode toggle #89518
