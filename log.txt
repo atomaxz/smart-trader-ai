@@ -334,3 +334,4 @@
 26528. test: add unit test for quiz service #26528
 89518. feat: enable dark mode toggle #89518
 3209. refactor: clean up auth middleware #3209
+35011. feat: add user authentication #35011
