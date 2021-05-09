@@ -338,3 +338,4 @@
 67115. chore: rename env.example #67115
 15831. style: rename variables for clarity #15831
 80604. docs: improve code comments in utils #80604
+12587. feat: support email verification #12587
