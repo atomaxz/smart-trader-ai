@@ -340,3 +340,4 @@
 80604. docs: improve code comments in utils #80604
 12587. feat: support email verification #12587
 80682. fix: correct typo in registration form #80682
+92948. fix: fix broken CSS in mobile view #92948
