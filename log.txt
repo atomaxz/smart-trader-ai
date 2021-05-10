@@ -341,3 +341,4 @@
 12587. feat: support email verification #12587
 80682. fix: correct typo in registration form #80682
 92948. fix: fix broken CSS in mobile view #92948
+24507. test: increase coverage on auth module #24507
