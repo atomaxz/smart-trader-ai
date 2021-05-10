@@ -1359,3 +1359,4 @@
 18175. perf: cache repeated calculations #18175
 33129. feat: enable dark mode toggle #33129
 79533. refactor: organize models into subfolders #79533
+87998. feat: enable dark mode toggle #87998
