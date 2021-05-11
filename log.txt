@@ -3349,3 +3349,4 @@
 15878. docs: write FAQ section #15878
 15075. chore: update .gitignore #15075
 6665. style: apply consistent indentation #6665
+70689. fix: fix broken CSS in mobile view #70689
