@@ -1361,3 +1361,4 @@
 79533. refactor: organize models into subfolders #79533
 87998. feat: enable dark mode toggle #87998
 85036. refactor: split large controller into smaller functions #85036
+94470. perf: reduce image load time #94470
