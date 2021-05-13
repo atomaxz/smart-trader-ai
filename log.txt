@@ -345,3 +345,4 @@
 50215. perf: lazy-load components #50215
 57350. perf: reduce image load time #57350
 15270. test: add integration test for /submit endpoint #15270
+55090. feat: support email verification #55090
