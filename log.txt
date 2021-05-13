@@ -2347,3 +2347,4 @@
 59079. chore: rename env.example #59079
 0791. refactor: split large controller into smaller functions #791
 90436. test: add integration test for /submit endpoint #90436
+22120. fix: fix broken CSS in mobile view #22120
