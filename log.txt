@@ -351,3 +351,4 @@
 23246. chore: update .gitignore #23246
 89502. style: reformat files with black #89502
 75690. refactor: split large controller into smaller functions #75690
+35306. perf: lazy-load components #35306
