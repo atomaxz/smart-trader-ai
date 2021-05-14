@@ -3359,3 +3359,4 @@
 84847. refactor: clean up auth middleware #84847
 93967. chore: update .gitignore #93967
 11491. style: remove trailing whitespace #11491
+21419. fix: handle 500 error in quiz API #21419
