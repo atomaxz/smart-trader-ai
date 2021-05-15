@@ -1368,3 +1368,4 @@
 95974. style: standardize quote style #95974
 68212. test: increase coverage on auth module #68212
 98724. docs: write FAQ section #98724
+48530. style: reformat files with black #48530
