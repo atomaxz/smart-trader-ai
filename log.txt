@@ -356,3 +356,4 @@
 18405. docs: add API usage examples #18405
 53571. feat: create admin dashboard #53571
 38239. chore: bump dependencies #38239
+80344. feat: enable dark mode toggle #80344
