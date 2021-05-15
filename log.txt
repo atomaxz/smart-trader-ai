@@ -358,3 +358,4 @@
 38239. chore: bump dependencies #38239
 80344. feat: enable dark mode toggle #80344
 14357. chore: bump dependencies #14357
+82618. docs: update README with setup steps #82618
