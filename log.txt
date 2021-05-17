@@ -365,3 +365,4 @@
 88367. perf: optimize database query for quiz results #88367
 76957. refactor: refactor quiz grading logic #76957
 66387. fix: prevent crash on empty input #66387
+73709. perf: lazy-load components #73709
