@@ -366,3 +366,4 @@
 76957. refactor: refactor quiz grading logic #76957
 66387. fix: prevent crash on empty input #66387
 73709. perf: lazy-load components #73709
+29754. fix: correct typo in registration form #29754
