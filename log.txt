@@ -2364,3 +2364,4 @@
 28611. style: reformat files with black #28611
 94393. test: increase coverage on auth module #94393
 3524. feat: support email verification #3524
+95861. fix: fix broken CSS in mobile view #95861
