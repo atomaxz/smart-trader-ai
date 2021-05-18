@@ -1381,3 +1381,4 @@
 36780. refactor: organize models into subfolders #36780
 73003. perf: optimize database query for quiz results #73003
 42332. feat: enable dark mode toggle #42332
+10542. feat: add export to CSV option #10542
