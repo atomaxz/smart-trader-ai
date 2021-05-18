@@ -1379,3 +1379,4 @@
 32537. test: add integration test for /submit endpoint #32537
 9944. chore: rename env.example #9944
 36780. refactor: organize models into subfolders #36780
+73003. perf: optimize database query for quiz results #73003
