@@ -2363,3 +2363,4 @@
 18682. chore: update .gitignore #18682
 28611. style: reformat files with black #28611
 94393. test: increase coverage on auth module #94393
+3524. feat: support email verification #3524
