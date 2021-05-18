@@ -3371,3 +3371,4 @@
 85767. feat: enable dark mode toggle #85767
 36959. refactor: organize models into subfolders #36959
 17826. test: increase coverage on auth module #17826
+73141. test: mock database connection in test suite #73141
