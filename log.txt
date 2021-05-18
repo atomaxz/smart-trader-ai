@@ -2362,3 +2362,4 @@
 71012. fix: handle 500 error in quiz API #71012
 18682. chore: update .gitignore #18682
 28611. style: reformat files with black #28611
+94393. test: increase coverage on auth module #94393
