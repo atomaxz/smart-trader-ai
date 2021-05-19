@@ -1384,3 +1384,4 @@
 10542. feat: add export to CSV option #10542
 4756. style: standardize quote style #4756
 47092. docs: add API usage examples #47092
+24990. chore: add GitHub actions badge #24990
