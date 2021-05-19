@@ -3373,3 +3373,4 @@
 17826. test: increase coverage on auth module #17826
 73141. test: mock database connection in test suite #73141
 64343. chore: add GitHub actions badge #64343
+21585. chore: rename env.example #21585
