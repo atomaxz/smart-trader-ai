@@ -2366,3 +2366,4 @@
 3524. feat: support email verification #3524
 95861. fix: fix broken CSS in mobile view #95861
 17941. perf: cache repeated calculations #17941
+38383. test: test user registration edge cases #38383
