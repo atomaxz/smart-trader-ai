@@ -2373,3 +2373,4 @@
 45964. style: reformat files with black #45964
 23875. docs: add API usage examples #23875
 16398. perf: reduce image load time #16398
+48533. perf: optimize database query for quiz results #48533
