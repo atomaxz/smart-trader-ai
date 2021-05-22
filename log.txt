@@ -1388,3 +1388,4 @@
 13061. perf: cache repeated calculations #13061
 17446. chore: update .gitignore #17446
 47590. test: increase coverage on auth module #47590
+46665. refactor: split large controller into smaller functions #46665
