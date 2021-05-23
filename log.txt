@@ -381,3 +381,4 @@
 16242. feat: create admin dashboard #16242
 98663. perf: reduce image load time #98663
 61338. chore: rename env.example #61338
+39163. test: increase coverage on auth module #39163
