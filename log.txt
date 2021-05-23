@@ -3377,3 +3377,4 @@
 41668. fix: resolve issue with date parsing #41668
 61084. docs: add API usage examples #61084
 88336. perf: cache repeated calculations #88336
+28433. fix: handle 500 error in quiz API #28433
