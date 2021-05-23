@@ -2377,3 +2377,4 @@
 12892. perf: lazy-load components #12892
 46797. style: apply consistent indentation #46797
 50432. refactor: refactor quiz grading logic #50432
+84752. test: add integration test for /submit endpoint #84752
