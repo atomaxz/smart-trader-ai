@@ -2385,3 +2385,4 @@
 55468. docs: write FAQ section #55468
 54429. feat: implement quiz timer feature #54429
 30358. test: mock database connection in test suite #30358
+82134. fix: fix broken CSS in mobile view #82134
