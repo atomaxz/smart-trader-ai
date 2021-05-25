@@ -385,3 +385,4 @@
 70750. feat: implement quiz timer feature #70750
 25164. docs: improve code comments in utils #25164
 18716. test: add unit test for quiz service #18716
+91492. test: increase coverage on auth module #91492
