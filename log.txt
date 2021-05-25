@@ -3382,3 +3382,4 @@
 82995. refactor: remove redundant code blocks #82995
 49863. test: test user registration edge cases #49863
 55620. docs: improve code comments in utils #55620
+99113. test: test user registration edge cases #99113
