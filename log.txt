@@ -2390,3 +2390,4 @@
 26092. test: mock database connection in test suite #26092
 91455. style: remove trailing whitespace #91455
 7405. fix: fix broken CSS in mobile view #7405
+11249. docs: add API usage examples #11249
