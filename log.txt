@@ -3380,3 +3380,4 @@
 28433. fix: handle 500 error in quiz API #28433
 38232. feat: create admin dashboard #38232
 82995. refactor: remove redundant code blocks #82995
+49863. test: test user registration edge cases #49863
