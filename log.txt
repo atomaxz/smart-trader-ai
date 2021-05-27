@@ -395,3 +395,4 @@
 2557. perf: reduce image load time #2557
 70823. refactor: remove redundant code blocks #70823
 77069. test: add unit test for quiz service #77069
+4517. refactor: clean up auth middleware #4517
