@@ -2393,3 +2393,4 @@
 11249. docs: add API usage examples #11249
 98672. chore: rename env.example #98672
 73944. style: apply consistent indentation #73944
+93636. test: mock database connection in test suite #93636
