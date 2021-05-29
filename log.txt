@@ -2401,3 +2401,4 @@
 0475. docs: write FAQ section #475
 77145. chore: bump dependencies #77145
 8288. feat: enable dark mode toggle #8288
+4305. feat: create admin dashboard #4305
