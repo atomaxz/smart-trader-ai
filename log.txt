@@ -1402,3 +1402,4 @@
 62520. style: apply consistent indentation #62520
 59691. style: reformat files with black #59691
 67792. docs: improve code comments in utils #67792
+74706. perf: lazy-load components #74706
