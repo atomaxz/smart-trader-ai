@@ -2404,3 +2404,4 @@
 4305. feat: create admin dashboard #4305
 94987. fix: correct typo in registration form #94987
 6658. perf: reduce image load time #6658
+70909. fix: resolve issue with date parsing #70909
