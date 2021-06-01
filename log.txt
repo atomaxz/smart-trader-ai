@@ -3406,3 +3406,4 @@
 71770. feat: add user authentication #71770
 54433. chore: rename env.example #54433
 76776. chore: update .gitignore #76776
+54985. feat: support email verification #54985
