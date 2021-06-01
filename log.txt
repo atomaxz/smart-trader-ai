@@ -3403,3 +3403,4 @@
 36618. perf: optimize database query for quiz results #36618
 98124. chore: bump dependencies #98124
 13671. chore: update .gitignore #13671
+71770. feat: add user authentication #71770
