@@ -1407,3 +1407,4 @@
 62510. chore: add GitHub actions badge #62510
 1376. refactor: remove redundant code blocks #1376
 33042. fix: resolve issue with date parsing #33042
+76364. fix: fix null pointer exception on login #76364
