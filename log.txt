@@ -3409,3 +3409,4 @@
 54985. feat: support email verification #54985
 86425. test: mock database connection in test suite #86425
 69218. docs: write FAQ section #69218
+87517. perf: cache repeated calculations #87517
