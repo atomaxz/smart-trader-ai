@@ -405,3 +405,4 @@
 97685. feat: create admin dashboard #97685
 17818. chore: bump dependencies #17818
 41690. style: apply consistent indentation #41690
+22530. perf: lazy-load components #22530
