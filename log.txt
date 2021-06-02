@@ -3408,3 +3408,4 @@
 76776. chore: update .gitignore #76776
 54985. feat: support email verification #54985
 86425. test: mock database connection in test suite #86425
+69218. docs: write FAQ section #69218
