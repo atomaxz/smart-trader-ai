@@ -406,3 +406,4 @@
 17818. chore: bump dependencies #17818
 41690. style: apply consistent indentation #41690
 22530. perf: lazy-load components #22530
+54757. perf: lazy-load components #54757
