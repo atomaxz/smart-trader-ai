@@ -1413,3 +1413,4 @@
 53301. test: test user registration edge cases #53301
 31465. chore: rename env.example #31465
 20343. fix: fix null pointer exception on login #20343
+15268. chore: update .gitignore #15268
