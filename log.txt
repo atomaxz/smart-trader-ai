@@ -407,3 +407,4 @@
 41690. style: apply consistent indentation #41690
 22530. perf: lazy-load components #22530
 54757. perf: lazy-load components #54757
+24849. perf: reduce image load time #24849
