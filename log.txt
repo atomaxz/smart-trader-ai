@@ -413,3 +413,4 @@
 3270. feat: add user authentication #3270
 31288. test: add unit test for quiz service #31288
 59711. fix: fix broken CSS in mobile view #59711
+78039. style: standardize quote style #78039
