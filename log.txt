@@ -1417,3 +1417,4 @@
 3837. fix: fix broken CSS in mobile view #3837
 69863. perf: reduce image load time #69863
 75863. style: apply consistent indentation #75863
+90563. perf: cache repeated calculations #90563
