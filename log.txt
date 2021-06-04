@@ -411,3 +411,4 @@
 61836. style: remove trailing whitespace #61836
 33131. test: increase coverage on auth module #33131
 3270. feat: add user authentication #3270
+31288. test: add unit test for quiz service #31288
