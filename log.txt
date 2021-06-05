@@ -3417,3 +3417,4 @@
 6151. docs: improve code comments in utils #6151
 23029. refactor: remove redundant code blocks #23029
 63526. style: rename variables for clarity #63526
+9443. perf: lazy-load components #9443
