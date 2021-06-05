@@ -415,3 +415,4 @@
 59711. fix: fix broken CSS in mobile view #59711
 78039. style: standardize quote style #78039
 10486. test: increase coverage on auth module #10486
+14600. perf: lazy-load components #14600
