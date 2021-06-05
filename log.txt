@@ -3421,3 +3421,4 @@
 25677. feat: enable dark mode toggle #25677
 70517. fix: resolve issue with date parsing #70517
 29194. fix: handle 500 error in quiz API #29194
+89745. feat: add user authentication #89745
