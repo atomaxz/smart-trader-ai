@@ -2415,3 +2415,4 @@
 41003. refactor: split large controller into smaller functions #41003
 86319. test: add unit test for quiz service #86319
 1993. chore: add GitHub actions badge #1993
+44990. docs: write FAQ section #44990
