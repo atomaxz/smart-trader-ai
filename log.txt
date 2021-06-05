@@ -414,3 +414,4 @@
 31288. test: add unit test for quiz service #31288
 59711. fix: fix broken CSS in mobile view #59711
 78039. style: standardize quote style #78039
+10486. test: increase coverage on auth module #10486
