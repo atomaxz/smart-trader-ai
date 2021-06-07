@@ -1420,3 +1420,4 @@
 90563. perf: cache repeated calculations #90563
 72507. feat: implement quiz timer feature #72507
 88435. perf: reduce image load time #88435
+2202. chore: clean up unused files #2202
