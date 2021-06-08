@@ -3427,3 +3427,4 @@
 58713. docs: clarify environment setup #58713
 97696. perf: lazy-load components #97696
 42832. perf: optimize database query for quiz results #42832
+6365. test: increase coverage on auth module #6365
