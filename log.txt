@@ -3426,3 +3426,4 @@
 81895. refactor: refactor quiz grading logic #81895
 58713. docs: clarify environment setup #58713
 97696. perf: lazy-load components #97696
+42832. perf: optimize database query for quiz results #42832
