@@ -3425,3 +3425,4 @@
 66731. test: add integration test for /submit endpoint #66731
 81895. refactor: refactor quiz grading logic #81895
 58713. docs: clarify environment setup #58713
+97696. perf: lazy-load components #97696
