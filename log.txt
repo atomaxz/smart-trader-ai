@@ -1423,3 +1423,4 @@
 2202. chore: clean up unused files #2202
 87754. refactor: refactor quiz grading logic #87754
 61067. chore: clean up unused files #61067
+37296. test: mock database connection in test suite #37296
