@@ -2423,3 +2423,4 @@
 64331. refactor: clean up auth middleware #64331
 81702. feat: support email verification #81702
 57294. fix: prevent crash on empty input #57294
+49098. refactor: organize models into subfolders #49098
