@@ -3430,3 +3430,4 @@
 6365. test: increase coverage on auth module #6365
 92899. style: apply consistent indentation #92899
 91808. feat: add export to CSV option #91808
+92114. perf: optimize database query for quiz results #92114
