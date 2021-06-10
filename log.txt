@@ -429,3 +429,4 @@
 46126. perf: lazy-load components #46126
 52520. feat: create admin dashboard #52520
 60171. docs: write FAQ section #60171
+41418. style: remove trailing whitespace #41418
