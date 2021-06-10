@@ -432,3 +432,4 @@
 41418. style: remove trailing whitespace #41418
 57193. test: increase coverage on auth module #57193
 76566. refactor: organize models into subfolders #76566
+82468. test: add unit test for quiz service #82468
