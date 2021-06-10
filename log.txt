@@ -3436,3 +3436,4 @@
 63020. style: remove trailing whitespace #63020
 42361. chore: clean up unused files #42361
 67724. feat: enable dark mode toggle #67724
+83709. refactor: organize models into subfolders #83709
