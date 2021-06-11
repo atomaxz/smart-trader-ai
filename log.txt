@@ -1434,3 +1434,4 @@
 55628. docs: add API usage examples #55628
 95129. chore: add GitHub actions badge #95129
 15371. feat: add export to CSV option #15371
+52268. fix: correct typo in registration form #52268
