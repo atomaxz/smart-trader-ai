@@ -2431,3 +2431,4 @@
 28413. chore: rename env.example #28413
 47441. perf: lazy-load components #47441
 73409. docs: update README with setup steps #73409
+16364. test: test user registration edge cases #16364
