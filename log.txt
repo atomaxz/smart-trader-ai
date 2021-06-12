@@ -2432,3 +2432,4 @@
 47441. perf: lazy-load components #47441
 73409. docs: update README with setup steps #73409
 16364. test: test user registration edge cases #16364
+1660. perf: lazy-load components #1660
