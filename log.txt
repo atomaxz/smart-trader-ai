@@ -2430,3 +2430,4 @@
 69243. test: increase coverage on auth module #69243
 28413. chore: rename env.example #28413
 47441. perf: lazy-load components #47441
+73409. docs: update README with setup steps #73409
