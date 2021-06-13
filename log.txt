@@ -1437,3 +1437,4 @@
 52268. fix: correct typo in registration form #52268
 55703. perf: lazy-load components #55703
 30588. chore: add GitHub actions badge #30588
+61922. chore: bump dependencies #61922
