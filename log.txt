@@ -1439,3 +1439,4 @@
 30588. chore: add GitHub actions badge #30588
 61922. chore: bump dependencies #61922
 30550. docs: document token refresh logic #30550
+80090. docs: update README with setup steps #80090
