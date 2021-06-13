@@ -438,3 +438,4 @@
 19187. test: add integration test for /submit endpoint #19187
 36956. chore: clean up unused files #36956
 10250. fix: correct typo in registration form #10250
+6049. chore: add GitHub actions badge #6049
