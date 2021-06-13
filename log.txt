@@ -2439,3 +2439,4 @@
 56671. feat: add export to CSV option #56671
 72528. style: apply consistent indentation #72528
 55772. style: remove trailing whitespace #55772
+43611. refactor: clean up auth middleware #43611
