@@ -3445,3 +3445,4 @@
 92129. refactor: refactor quiz grading logic #92129
 19415. refactor: refactor quiz grading logic #19415
 5603. test: add unit test for quiz service #5603
+46398. perf: cache repeated calculations #46398
