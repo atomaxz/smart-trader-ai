@@ -441,3 +441,4 @@
 6049. chore: add GitHub actions badge #6049
 29472. refactor: refactor quiz grading logic #29472
 78811. chore: add GitHub actions badge #78811
+80070. test: test user registration edge cases #80070
