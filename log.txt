@@ -1442,3 +1442,4 @@
 80090. docs: update README with setup steps #80090
 60899. perf: lazy-load components #60899
 1123. fix: prevent crash on empty input #1123
+16339. feat: add export to CSV option #16339
