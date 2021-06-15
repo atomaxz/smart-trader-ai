@@ -444,3 +444,4 @@
 80070. test: test user registration edge cases #80070
 12094. perf: optimize database query for quiz results #12094
 47627. fix: correct typo in registration form #47627
+49084. feat: add user authentication #49084
