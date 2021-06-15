@@ -3450,3 +3450,4 @@
 22972. perf: reduce image load time #22972
 57234. docs: write FAQ section #57234
 43818. style: reformat files with black #43818
+63920. docs: clarify environment setup #63920
