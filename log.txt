@@ -2443,3 +2443,4 @@
 94164. docs: document token refresh logic #94164
 73775. docs: add API usage examples #73775
 69386. chore: add GitHub actions badge #69386
+2346. fix: fix broken CSS in mobile view #2346
