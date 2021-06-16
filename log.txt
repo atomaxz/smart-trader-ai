@@ -446,3 +446,4 @@
 47627. fix: correct typo in registration form #47627
 49084. feat: add user authentication #49084
 79881. chore: rename env.example #79881
+61174. style: reformat files with black #61174
