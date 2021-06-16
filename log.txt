@@ -1447,3 +1447,4 @@
 38751. refactor: clean up auth middleware #38751
 74946. perf: reduce image load time #74946
 85596. feat: support email verification #85596
+99510. test: add integration test for /submit endpoint #99510
