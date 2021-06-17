@@ -3453,3 +3453,4 @@
 63920. docs: clarify environment setup #63920
 97781. perf: reduce image load time #97781
 84419. feat: add export to CSV option #84419
+0757. refactor: organize models into subfolders #757
