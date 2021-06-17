@@ -447,3 +447,4 @@
 49084. feat: add user authentication #49084
 79881. chore: rename env.example #79881
 61174. style: reformat files with black #61174
+56270. fix: handle 500 error in quiz API #56270
