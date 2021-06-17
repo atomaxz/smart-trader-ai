@@ -1450,3 +1450,4 @@
 99510. test: add integration test for /submit endpoint #99510
 98641. fix: prevent crash on empty input #98641
 35359. style: standardize quote style #35359
+60459. style: remove trailing whitespace #60459
