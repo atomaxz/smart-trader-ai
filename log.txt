@@ -450,3 +450,4 @@
 56270. fix: handle 500 error in quiz API #56270
 38202. refactor: split large controller into smaller functions #38202
 86012. style: reformat files with black #86012
+65414. refactor: remove redundant code blocks #65414
