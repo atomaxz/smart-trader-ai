@@ -2453,3 +2453,4 @@
 7795. style: reformat files with black #7795
 27599. refactor: remove redundant code blocks #27599
 88813. docs: clarify environment setup #88813
+90093. perf: optimize database query for quiz results #90093
