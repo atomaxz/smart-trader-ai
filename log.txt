@@ -3459,3 +3459,4 @@
 42470. style: remove trailing whitespace #42470
 17786. style: reformat files with black #17786
 84078. perf: cache repeated calculations #84078
+28857. style: rename variables for clarity #28857
