@@ -3463,3 +3463,4 @@
 54236. test: mock database connection in test suite #54236
 50985. fix: fix null pointer exception on login #50985
 66495. style: remove trailing whitespace #66495
+2132. chore: rename env.example #2132
