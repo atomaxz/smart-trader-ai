@@ -1462,3 +1462,4 @@
 93538. docs: update README with setup steps #93538
 78072. chore: rename env.example #78072
 17385. fix: prevent crash on empty input #17385
+84047. chore: rename env.example #84047
