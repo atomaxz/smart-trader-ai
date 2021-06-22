@@ -2463,3 +2463,4 @@
 66844. docs: write FAQ section #66844
 80298. chore: update .gitignore #80298
 94981. perf: cache repeated calculations #94981
+75410. test: test user registration edge cases #75410
