@@ -455,3 +455,4 @@
 6862. style: rename variables for clarity #6862
 71883. fix: fix null pointer exception on login #71883
 61640. refactor: clean up auth middleware #61640
+30993. docs: update README with setup steps #30993
