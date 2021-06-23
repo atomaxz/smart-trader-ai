@@ -457,3 +457,4 @@
 61640. refactor: clean up auth middleware #61640
 30993. docs: update README with setup steps #30993
 79623. feat: add user authentication #79623
+46573. refactor: clean up auth middleware #46573
