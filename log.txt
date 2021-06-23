@@ -1467,3 +1467,4 @@
 80251. docs: write FAQ section #80251
 50038. feat: add export to CSV option #50038
 85718. fix: fix null pointer exception on login #85718
+26103. refactor: remove redundant code blocks #26103
