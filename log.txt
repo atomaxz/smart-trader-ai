@@ -459,3 +459,4 @@
 79623. feat: add user authentication #79623
 46573. refactor: clean up auth middleware #46573
 47935. feat: implement quiz timer feature #47935
+88659. feat: support email verification #88659
