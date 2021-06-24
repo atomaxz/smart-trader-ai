@@ -2469,3 +2469,4 @@
 33287. chore: bump dependencies #33287
 22790. perf: optimize database query for quiz results #22790
 71806. refactor: organize models into subfolders #71806
+19984. test: increase coverage on auth module #19984
