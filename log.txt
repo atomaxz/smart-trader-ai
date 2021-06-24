@@ -1470,3 +1470,4 @@
 26103. refactor: remove redundant code blocks #26103
 52536. fix: fix broken CSS in mobile view #52536
 26605. chore: add GitHub actions badge #26605
+98318. style: remove trailing whitespace #98318
