@@ -466,3 +466,4 @@
 41204. perf: reduce image load time #41204
 56913. feat: implement quiz timer feature #56913
 59016. fix: correct typo in registration form #59016
+97149. docs: write FAQ section #97149
