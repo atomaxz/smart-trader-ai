@@ -2471,3 +2471,4 @@
 71806. refactor: organize models into subfolders #71806
 19984. test: increase coverage on auth module #19984
 16172. feat: add user authentication #16172
+29608. fix: correct typo in registration form #29608
