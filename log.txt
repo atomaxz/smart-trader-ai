@@ -2473,3 +2473,4 @@
 16172. feat: add user authentication #16172
 29608. fix: correct typo in registration form #29608
 81886. perf: cache repeated calculations #81886
+28162. docs: update README with setup steps #28162
