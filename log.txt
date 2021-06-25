@@ -471,3 +471,4 @@
 17278. feat: implement quiz timer feature #17278
 61877. refactor: split large controller into smaller functions #61877
 16760. docs: document token refresh logic #16760
+6422. feat: add user authentication #6422
