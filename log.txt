@@ -2477,3 +2477,4 @@
 54305. test: add integration test for /submit endpoint #54305
 76841. fix: resolve issue with date parsing #76841
 82294. test: add unit test for quiz service #82294
+44389. perf: optimize database query for quiz results #44389
