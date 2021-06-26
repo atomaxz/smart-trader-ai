@@ -1480,3 +1480,4 @@
 17844. style: remove trailing whitespace #17844
 24716. chore: add GitHub actions badge #24716
 1724. fix: handle 500 error in quiz API #1724
+11353. refactor: split large controller into smaller functions #11353
