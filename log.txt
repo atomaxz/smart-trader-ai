@@ -1477,3 +1477,4 @@
 77892. feat: add user authentication #77892
 64143. perf: lazy-load components #64143
 89226. refactor: clean up auth middleware #89226
+17844. style: remove trailing whitespace #17844
