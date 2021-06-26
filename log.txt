@@ -2475,3 +2475,4 @@
 81886. perf: cache repeated calculations #81886
 28162. docs: update README with setup steps #28162
 54305. test: add integration test for /submit endpoint #54305
+76841. fix: resolve issue with date parsing #76841
