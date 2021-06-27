@@ -3481,3 +3481,4 @@
 12175. perf: lazy-load components #12175
 26178. feat: implement quiz timer feature #26178
 66539. perf: reduce image load time #66539
+32452. test: increase coverage on auth module #32452
