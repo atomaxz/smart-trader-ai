@@ -1482,3 +1482,4 @@
 1724. fix: handle 500 error in quiz API #1724
 11353. refactor: split large controller into smaller functions #11353
 11516. style: rename variables for clarity #11516
+1552. perf: lazy-load components #1552
