@@ -3483,3 +3483,4 @@
 66539. perf: reduce image load time #66539
 32452. test: increase coverage on auth module #32452
 64832. chore: bump dependencies #64832
+49298. test: increase coverage on auth module #49298
