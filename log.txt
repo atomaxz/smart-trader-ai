@@ -3484,3 +3484,4 @@
 32452. test: increase coverage on auth module #32452
 64832. chore: bump dependencies #64832
 49298. test: increase coverage on auth module #49298
+9286. style: apply consistent indentation #9286
