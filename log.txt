@@ -2479,3 +2479,4 @@
 82294. test: add unit test for quiz service #82294
 44389. perf: optimize database query for quiz results #44389
 78676. test: add unit test for quiz service #78676
+13191. test: mock database connection in test suite #13191
