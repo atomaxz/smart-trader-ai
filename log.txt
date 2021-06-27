@@ -473,3 +473,4 @@
 16760. docs: document token refresh logic #16760
 6422. feat: add user authentication #6422
 69315. test: add unit test for quiz service #69315
+97054. fix: fix broken CSS in mobile view #97054
