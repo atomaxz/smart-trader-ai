@@ -2481,3 +2481,4 @@
 78676. test: add unit test for quiz service #78676
 13191. test: mock database connection in test suite #13191
 38554. style: standardize quote style #38554
+89890. test: add integration test for /submit endpoint #89890
