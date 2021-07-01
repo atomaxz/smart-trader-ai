@@ -479,3 +479,4 @@
 98054. test: mock database connection in test suite #98054
 8435. perf: reduce image load time #8435
 27813. fix: resolve issue with date parsing #27813
+29190. style: standardize quote style #29190
