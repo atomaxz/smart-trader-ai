@@ -2496,3 +2496,4 @@
 43087. fix: prevent crash on empty input #43087
 90371. feat: implement quiz timer feature #90371
 1664. chore: clean up unused files #1664
+0950. test: mock database connection in test suite #950
