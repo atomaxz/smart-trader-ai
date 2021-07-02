@@ -1492,3 +1492,4 @@
 49507. test: test user registration edge cases #49507
 40519. feat: create admin dashboard #40519
 23402. test: add integration test for /submit endpoint #23402
+58834. perf: optimize database query for quiz results #58834
