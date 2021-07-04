@@ -3502,3 +3502,4 @@
 40524. chore: clean up unused files #40524
 1930. docs: add API usage examples #1930
 84285. perf: reduce image load time #84285
+57864. chore: bump dependencies #57864
