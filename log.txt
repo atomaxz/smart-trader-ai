@@ -2507,3 +2507,4 @@
 47525. perf: reduce image load time #47525
 11902. refactor: remove redundant code blocks #11902
 30786. feat: create admin dashboard #30786
+83317. perf: optimize database query for quiz results #83317
