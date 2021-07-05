@@ -3504,3 +3504,4 @@
 84285. perf: reduce image load time #84285
 57864. chore: bump dependencies #57864
 36111. feat: support email verification #36111
+86417. refactor: clean up auth middleware #86417
