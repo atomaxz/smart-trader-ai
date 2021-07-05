@@ -1502,3 +1502,4 @@
 92656. refactor: remove redundant code blocks #92656
 99255. perf: cache repeated calculations #99255
 1329. refactor: clean up auth middleware #1329
+29178. test: test user registration edge cases #29178
