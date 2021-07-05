@@ -2509,3 +2509,4 @@
 30786. feat: create admin dashboard #30786
 83317. perf: optimize database query for quiz results #83317
 8329. chore: bump dependencies #8329
+41187. fix: fix null pointer exception on login #41187
