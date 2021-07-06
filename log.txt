@@ -488,3 +488,4 @@
 21245. test: add unit test for quiz service #21245
 26347. refactor: split large controller into smaller functions #26347
 99369. style: apply consistent indentation #99369
+44060. feat: add user authentication #44060
