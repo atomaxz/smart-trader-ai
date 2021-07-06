@@ -2511,3 +2511,4 @@
 8329. chore: bump dependencies #8329
 41187. fix: fix null pointer exception on login #41187
 41266. fix: fix broken CSS in mobile view #41266
+27365. test: test user registration edge cases #27365
