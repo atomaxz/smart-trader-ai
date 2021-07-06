@@ -3505,3 +3505,4 @@
 57864. chore: bump dependencies #57864
 36111. feat: support email verification #36111
 86417. refactor: clean up auth middleware #86417
+5988. chore: update .gitignore #5988
