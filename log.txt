@@ -490,3 +490,4 @@
 99369. style: apply consistent indentation #99369
 44060. feat: add user authentication #44060
 84057. fix: prevent crash on empty input #84057
+60222. perf: optimize database query for quiz results #60222
