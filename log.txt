@@ -2513,3 +2513,4 @@
 41266. fix: fix broken CSS in mobile view #41266
 27365. test: test user registration edge cases #27365
 31599. perf: reduce image load time #31599
+19422. style: standardize quote style #19422
