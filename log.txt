@@ -1505,3 +1505,4 @@
 29178. test: test user registration edge cases #29178
 88518. refactor: refactor quiz grading logic #88518
 99878. fix: fix null pointer exception on login #99878
+37286. fix: handle 500 error in quiz API #37286
