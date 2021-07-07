@@ -2514,3 +2514,4 @@
 27365. test: test user registration edge cases #27365
 31599. perf: reduce image load time #31599
 19422. style: standardize quote style #19422
+3869. feat: add export to CSV option #3869
