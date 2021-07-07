@@ -1507,3 +1507,4 @@
 99878. fix: fix null pointer exception on login #99878
 37286. fix: handle 500 error in quiz API #37286
 31270. docs: improve code comments in utils #31270
+86324. fix: resolve issue with date parsing #86324
