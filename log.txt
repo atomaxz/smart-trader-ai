@@ -493,3 +493,4 @@
 60222. perf: optimize database query for quiz results #60222
 31520. docs: document token refresh logic #31520
 78345. fix: prevent crash on empty input #78345
+3625. docs: update README with setup steps #3625
