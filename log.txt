@@ -2519,3 +2519,4 @@
 5097. style: apply consistent indentation #5097
 80745. test: add integration test for /submit endpoint #80745
 64016. test: add integration test for /submit endpoint #64016
+63606. fix: prevent crash on empty input #63606
