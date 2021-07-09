@@ -1512,3 +1512,4 @@
 94607. fix: fix null pointer exception on login #94607
 91637. style: apply consistent indentation #91637
 86993. docs: write FAQ section #86993
+1716. fix: fix broken CSS in mobile view #1716
