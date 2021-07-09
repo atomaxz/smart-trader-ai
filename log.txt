@@ -2520,3 +2520,4 @@
 80745. test: add integration test for /submit endpoint #80745
 64016. test: add integration test for /submit endpoint #64016
 63606. fix: prevent crash on empty input #63606
+77752. fix: resolve issue with date parsing #77752
