@@ -495,3 +495,4 @@
 78345. fix: prevent crash on empty input #78345
 3625. docs: update README with setup steps #3625
 8235. perf: reduce image load time #8235
+88906. docs: update README with setup steps #88906
