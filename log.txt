@@ -1513,3 +1513,4 @@
 91637. style: apply consistent indentation #91637
 86993. docs: write FAQ section #86993
 1716. fix: fix broken CSS in mobile view #1716
+52116. feat: enable dark mode toggle #52116
