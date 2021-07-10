@@ -2525,3 +2525,4 @@
 61111. test: mock database connection in test suite #61111
 29696. fix: prevent crash on empty input #29696
 41571. chore: add GitHub actions badge #41571
+63143. fix: fix null pointer exception on login #63143
