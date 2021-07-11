@@ -3515,3 +3515,4 @@
 77273. test: add unit test for quiz service #77273
 50294. style: standardize quote style #50294
 18424. perf: reduce image load time #18424
+94417. feat: support email verification #94417
