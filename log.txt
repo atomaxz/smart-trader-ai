@@ -499,3 +499,4 @@
 88619. fix: fix broken CSS in mobile view #88619
 84236. feat: add user authentication #84236
 28593. refactor: refactor quiz grading logic #28593
+22536. test: add integration test for /submit endpoint #22536
