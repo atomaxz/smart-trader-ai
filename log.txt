@@ -501,3 +501,4 @@
 28593. refactor: refactor quiz grading logic #28593
 22536. test: add integration test for /submit endpoint #22536
 49207. perf: cache repeated calculations #49207
+63998. fix: fix null pointer exception on login #63998
