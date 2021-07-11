@@ -3518,3 +3518,4 @@
 94417. feat: support email verification #94417
 33750. test: add unit test for quiz service #33750
 39864. fix: fix null pointer exception on login #39864
+96177. fix: handle 500 error in quiz API #96177
