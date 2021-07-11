@@ -2527,3 +2527,4 @@
 41571. chore: add GitHub actions badge #41571
 63143. fix: fix null pointer exception on login #63143
 53223. docs: update README with setup steps #53223
+97025. fix: fix null pointer exception on login #97025
