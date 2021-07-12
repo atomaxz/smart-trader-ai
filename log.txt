@@ -2529,3 +2529,4 @@
 53223. docs: update README with setup steps #53223
 97025. fix: fix null pointer exception on login #97025
 96879. test: add integration test for /submit endpoint #96879
+5470. test: mock database connection in test suite #5470
