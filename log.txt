@@ -2531,3 +2531,4 @@
 96879. test: add integration test for /submit endpoint #96879
 5470. test: mock database connection in test suite #5470
 97433. perf: cache repeated calculations #97433
+18194. feat: support email verification #18194
