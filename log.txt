@@ -1522,3 +1522,4 @@
 59823. perf: lazy-load components #59823
 95058. fix: correct typo in registration form #95058
 66466. perf: lazy-load components #66466
+94290. feat: add user authentication #94290
