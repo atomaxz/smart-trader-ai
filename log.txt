@@ -1519,3 +1519,4 @@
 46657. docs: clarify environment setup #46657
 27065. chore: rename env.example #27065
 50761. docs: update README with setup steps #50761
+59823. perf: lazy-load components #59823
