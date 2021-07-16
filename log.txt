@@ -1526,3 +1526,4 @@
 89689. test: mock database connection in test suite #89689
 17294. perf: lazy-load components #17294
 60962. style: standardize quote style #60962
+94561. refactor: refactor quiz grading logic #94561
