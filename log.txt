@@ -3524,3 +3524,4 @@
 94299. fix: prevent crash on empty input #94299
 86602. style: standardize quote style #86602
 38901. test: test user registration edge cases #38901
+61367. perf: lazy-load components #61367
