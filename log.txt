@@ -520,3 +520,4 @@
 67317. refactor: organize models into subfolders #67317
 77748. chore: add GitHub actions badge #77748
 94338. refactor: clean up auth middleware #94338
+12277. docs: update README with setup steps #12277
