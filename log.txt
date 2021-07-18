@@ -1530,3 +1530,4 @@
 95517. perf: cache repeated calculations #95517
 60514. chore: bump dependencies #60514
 95114. style: reformat files with black #95114
+25333. test: mock database connection in test suite #25333
