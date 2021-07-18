@@ -2541,3 +2541,4 @@
 85161. fix: handle 500 error in quiz API #85161
 60869. refactor: split large controller into smaller functions #60869
 84934. feat: add export to CSV option #84934
+6528. feat: add user authentication #6528
