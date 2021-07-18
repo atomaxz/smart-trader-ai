@@ -523,3 +523,4 @@
 12277. docs: update README with setup steps #12277
 83252. fix: prevent crash on empty input #83252
 74030. chore: clean up unused files #74030
+39725. perf: lazy-load components #39725
