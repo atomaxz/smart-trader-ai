@@ -2544,3 +2544,4 @@
 6528. feat: add user authentication #6528
 37481. perf: lazy-load components #37481
 40358. test: test user registration edge cases #40358
+80061. feat: create admin dashboard #80061
