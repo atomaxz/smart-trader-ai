@@ -532,3 +532,4 @@
 91134. docs: clarify environment setup #91134
 74380. style: apply consistent indentation #74380
 50502. perf: lazy-load components #50502
+76131. perf: lazy-load components #76131
