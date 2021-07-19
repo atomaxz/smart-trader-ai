@@ -2543,3 +2543,4 @@
 84934. feat: add export to CSV option #84934
 6528. feat: add user authentication #6528
 37481. perf: lazy-load components #37481
+40358. test: test user registration edge cases #40358
