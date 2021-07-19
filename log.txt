@@ -1532,3 +1532,4 @@
 95114. style: reformat files with black #95114
 25333. test: mock database connection in test suite #25333
 41799. fix: fix null pointer exception on login #41799
+91680. test: increase coverage on auth module #91680
