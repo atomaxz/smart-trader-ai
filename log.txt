@@ -3533,3 +3533,4 @@
 22697. style: apply consistent indentation #22697
 48012. chore: bump dependencies #48012
 65231. refactor: organize models into subfolders #65231
+82437. chore: update .gitignore #82437
