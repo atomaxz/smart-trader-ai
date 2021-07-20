@@ -1534,3 +1534,4 @@
 41799. fix: fix null pointer exception on login #41799
 91680. test: increase coverage on auth module #91680
 39017. docs: add API usage examples #39017
+70014. refactor: organize models into subfolders #70014
