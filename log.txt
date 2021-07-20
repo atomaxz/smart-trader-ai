@@ -2548,3 +2548,4 @@
 91554. perf: reduce image load time #91554
 73752. test: add unit test for quiz service #73752
 69659. perf: cache repeated calculations #69659
+43368. perf: optimize database query for quiz results #43368
