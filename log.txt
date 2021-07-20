@@ -3532,3 +3532,4 @@
 51579. docs: clarify environment setup #51579
 22697. style: apply consistent indentation #22697
 48012. chore: bump dependencies #48012
+65231. refactor: organize models into subfolders #65231
