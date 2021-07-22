@@ -2555,3 +2555,4 @@
 95901. feat: implement quiz timer feature #95901
 25185. test: test user registration edge cases #25185
 32501. feat: implement quiz timer feature #32501
+27717. feat: add user authentication #27717
