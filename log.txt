@@ -539,3 +539,4 @@
 14369. style: remove trailing whitespace #14369
 0393. docs: add API usage examples #393
 67605. chore: add GitHub actions badge #67605
+72090. fix: prevent crash on empty input #72090
