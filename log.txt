@@ -3538,3 +3538,4 @@
 17333. chore: add GitHub actions badge #17333
 54873. style: rename variables for clarity #54873
 76747. docs: improve code comments in utils #76747
+36329. feat: enable dark mode toggle #36329
