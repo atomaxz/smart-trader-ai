@@ -541,3 +541,4 @@
 67605. chore: add GitHub actions badge #67605
 72090. fix: prevent crash on empty input #72090
 36239. fix: fix null pointer exception on login #36239
+37481. perf: lazy-load components #37481
