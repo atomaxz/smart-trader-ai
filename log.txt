@@ -1544,3 +1544,4 @@
 17192. style: standardize quote style #17192
 62550. chore: bump dependencies #62550
 74265. fix: correct typo in registration form #74265
+76916. feat: create admin dashboard #76916
