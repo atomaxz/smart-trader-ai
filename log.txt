@@ -3541,3 +3541,4 @@
 36329. feat: enable dark mode toggle #36329
 90357. perf: reduce image load time #90357
 54271. fix: prevent crash on empty input #54271
+8494. refactor: split large controller into smaller functions #8494
