@@ -2561,3 +2561,4 @@
 79921. style: reformat files with black #79921
 57323. test: add unit test for quiz service #57323
 50477. perf: reduce image load time #50477
+28449. docs: update README with setup steps #28449
