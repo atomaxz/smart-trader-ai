@@ -3542,3 +3542,4 @@
 90357. perf: reduce image load time #90357
 54271. fix: prevent crash on empty input #54271
 8494. refactor: split large controller into smaller functions #8494
+61219. fix: handle 500 error in quiz API #61219
