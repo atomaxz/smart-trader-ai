@@ -1554,3 +1554,4 @@
 0868. feat: support email verification #868
 51948. fix: fix broken CSS in mobile view #51948
 13547. chore: add GitHub actions badge #13547
+76126. chore: update .gitignore #76126
