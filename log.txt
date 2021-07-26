@@ -3544,3 +3544,4 @@
 8494. refactor: split large controller into smaller functions #8494
 61219. fix: handle 500 error in quiz API #61219
 36023. fix: prevent crash on empty input #36023
+25472. feat: add user authentication #25472
