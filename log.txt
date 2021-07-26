@@ -543,3 +543,4 @@
 36239. fix: fix null pointer exception on login #36239
 37481. perf: lazy-load components #37481
 90067. refactor: split large controller into smaller functions #90067
+82336. fix: fix broken CSS in mobile view #82336
