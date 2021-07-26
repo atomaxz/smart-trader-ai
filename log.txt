@@ -546,3 +546,4 @@
 82336. fix: fix broken CSS in mobile view #82336
 84278. test: mock database connection in test suite #84278
 38321. docs: write FAQ section #38321
+14123. docs: improve code comments in utils #14123
