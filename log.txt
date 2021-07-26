@@ -1551,3 +1551,4 @@
 56948. test: mock database connection in test suite #56948
 43453. fix: resolve issue with date parsing #43453
 59979. docs: document token refresh logic #59979
+0868. feat: support email verification #868
