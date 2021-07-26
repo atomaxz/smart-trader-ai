@@ -547,3 +547,4 @@
 84278. test: mock database connection in test suite #84278
 38321. docs: write FAQ section #38321
 14123. docs: improve code comments in utils #14123
+13694. style: remove trailing whitespace #13694
