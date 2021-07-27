@@ -3546,3 +3546,4 @@
 36023. fix: prevent crash on empty input #36023
 25472. feat: add user authentication #25472
 16491. chore: rename env.example #16491
+33682. style: remove trailing whitespace #33682
