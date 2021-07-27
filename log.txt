@@ -1556,3 +1556,4 @@
 13547. chore: add GitHub actions badge #13547
 76126. chore: update .gitignore #76126
 56093. docs: write FAQ section #56093
+42170. test: mock database connection in test suite #42170
