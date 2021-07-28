@@ -1562,3 +1562,4 @@
 17995. test: increase coverage on auth module #17995
 79023. docs: write FAQ section #79023
 66432. chore: add GitHub actions badge #66432
+40847. docs: clarify environment setup #40847
