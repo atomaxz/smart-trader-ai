@@ -549,3 +549,4 @@
 14123. docs: improve code comments in utils #14123
 13694. style: remove trailing whitespace #13694
 85282. perf: optimize database query for quiz results #85282
+39491. perf: reduce image load time #39491
