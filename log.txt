@@ -1559,3 +1559,4 @@
 42170. test: mock database connection in test suite #42170
 95697. refactor: organize models into subfolders #95697
 82591. test: test user registration edge cases #82591
+17995. test: increase coverage on auth module #17995
