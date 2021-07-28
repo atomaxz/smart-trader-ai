@@ -3548,3 +3548,4 @@
 16491. chore: rename env.example #16491
 33682. style: remove trailing whitespace #33682
 94950. feat: support email verification #94950
+87102. test: increase coverage on auth module #87102
