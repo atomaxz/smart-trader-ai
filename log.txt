@@ -1563,3 +1563,4 @@
 79023. docs: write FAQ section #79023
 66432. chore: add GitHub actions badge #66432
 40847. docs: clarify environment setup #40847
+61352. test: add integration test for /submit endpoint #61352
