@@ -3550,3 +3550,4 @@
 94950. feat: support email verification #94950
 87102. test: increase coverage on auth module #87102
 48893. test: test user registration edge cases #48893
+74642. chore: bump dependencies #74642
