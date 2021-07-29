@@ -1567,3 +1567,4 @@
 43843. fix: fix null pointer exception on login #43843
 67491. chore: add GitHub actions badge #67491
 70055. docs: improve code comments in utils #70055
+14671. refactor: clean up auth middleware #14671
