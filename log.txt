@@ -3552,3 +3552,4 @@
 48893. test: test user registration edge cases #48893
 74642. chore: bump dependencies #74642
 96482. refactor: organize models into subfolders #96482
+4363. perf: lazy-load components #4363
