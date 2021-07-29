@@ -2565,3 +2565,4 @@
 55757. docs: write FAQ section #55757
 82670. feat: add export to CSV option #82670
 11635. perf: optimize database query for quiz results #11635
+52145. test: add integration test for /submit endpoint #52145
