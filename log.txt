@@ -2569,3 +2569,4 @@
 76692. chore: rename env.example #76692
 92862. perf: reduce image load time #92862
 14766. docs: add API usage examples #14766
+27758. chore: update .gitignore #27758
