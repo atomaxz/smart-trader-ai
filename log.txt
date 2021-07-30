@@ -3557,3 +3557,4 @@
 89338. docs: clarify environment setup #89338
 92710. refactor: organize models into subfolders #92710
 32899. feat: create admin dashboard #32899
+77070. docs: update README with setup steps #77070
