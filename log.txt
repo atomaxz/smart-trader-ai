@@ -3558,3 +3558,4 @@
 92710. refactor: organize models into subfolders #92710
 32899. feat: create admin dashboard #32899
 77070. docs: update README with setup steps #77070
+37002. test: mock database connection in test suite #37002
