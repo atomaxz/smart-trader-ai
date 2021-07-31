@@ -2571,3 +2571,4 @@
 14766. docs: add API usage examples #14766
 27758. chore: update .gitignore #27758
 39208. fix: fix broken CSS in mobile view #39208
+45025. test: mock database connection in test suite #45025
