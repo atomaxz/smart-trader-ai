@@ -3565,3 +3565,4 @@
 2479. fix: correct typo in registration form #2479
 90941. fix: handle 500 error in quiz API #90941
 20353. chore: update .gitignore #20353
+97776. refactor: clean up auth middleware #97776
