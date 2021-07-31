@@ -2573,3 +2573,4 @@
 39208. fix: fix broken CSS in mobile view #39208
 45025. test: mock database connection in test suite #45025
 95714. refactor: remove redundant code blocks #95714
+0348. style: reformat files with black #348
