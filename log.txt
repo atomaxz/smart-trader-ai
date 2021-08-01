@@ -2574,3 +2574,4 @@
 45025. test: mock database connection in test suite #45025
 95714. refactor: remove redundant code blocks #95714
 0348. style: reformat files with black #348
+25821. refactor: organize models into subfolders #25821
