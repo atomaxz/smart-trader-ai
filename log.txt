@@ -560,3 +560,4 @@
 6467. perf: reduce image load time #6467
 23872. docs: improve code comments in utils #23872
 96552. docs: add API usage examples #96552
+11410. perf: cache repeated calculations #11410
