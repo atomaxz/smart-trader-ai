@@ -1575,3 +1575,4 @@
 62248. feat: implement quiz timer feature #62248
 34501. style: remove trailing whitespace #34501
 24519. test: test user registration edge cases #24519
+44138. fix: prevent crash on empty input #44138
