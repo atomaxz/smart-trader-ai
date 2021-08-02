@@ -2579,3 +2579,4 @@
 38915. chore: bump dependencies #38915
 80518. perf: cache repeated calculations #80518
 14058. chore: add GitHub actions badge #14058
+11870. fix: prevent crash on empty input #11870
