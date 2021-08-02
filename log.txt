@@ -3569,3 +3569,4 @@
 96664. style: standardize quote style #96664
 28157. docs: add API usage examples #28157
 37474. fix: fix null pointer exception on login #37474
+50584. refactor: clean up auth middleware #50584
