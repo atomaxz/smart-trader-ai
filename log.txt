@@ -2578,3 +2578,4 @@
 30932. fix: fix null pointer exception on login #30932
 38915. chore: bump dependencies #38915
 80518. perf: cache repeated calculations #80518
+14058. chore: add GitHub actions badge #14058
