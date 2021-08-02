@@ -1577,3 +1577,4 @@
 24519. test: test user registration edge cases #24519
 44138. fix: prevent crash on empty input #44138
 90324. feat: add export to CSV option #90324
+77788. refactor: refactor quiz grading logic #77788
