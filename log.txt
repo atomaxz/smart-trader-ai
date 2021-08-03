@@ -2583,3 +2583,4 @@
 12028. docs: document token refresh logic #12028
 84591. test: mock database connection in test suite #84591
 38878. perf: lazy-load components #38878
+16058. chore: bump dependencies #16058
