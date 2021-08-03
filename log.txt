@@ -1579,3 +1579,4 @@
 90324. feat: add export to CSV option #90324
 77788. refactor: refactor quiz grading logic #77788
 66674. docs: write FAQ section #66674
+88826. perf: lazy-load components #88826
