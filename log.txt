@@ -3574,3 +3574,4 @@
 5429. docs: update README with setup steps #5429
 31827. chore: rename env.example #31827
 99771. docs: write FAQ section #99771
+1406. chore: rename env.example #1406
