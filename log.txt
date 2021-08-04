@@ -3577,3 +3577,4 @@
 1406. chore: rename env.example #1406
 34460. feat: support email verification #34460
 6775. chore: bump dependencies #6775
+1355. chore: add GitHub actions badge #1355
