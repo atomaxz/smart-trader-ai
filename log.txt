@@ -1583,3 +1583,4 @@
 81658. feat: add user authentication #81658
 95233. test: test user registration edge cases #95233
 74701. fix: resolve issue with date parsing #74701
+77172. fix: fix broken CSS in mobile view #77172
