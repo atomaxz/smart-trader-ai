@@ -2587,3 +2587,4 @@
 55575. style: reformat files with black #55575
 44887. feat: add export to CSV option #44887
 16459. refactor: clean up auth middleware #16459
+56079. test: test user registration edge cases #56079
