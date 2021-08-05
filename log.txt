@@ -1585,3 +1585,4 @@
 74701. fix: resolve issue with date parsing #74701
 77172. fix: fix broken CSS in mobile view #77172
 26462. test: increase coverage on auth module #26462
+68945. chore: update .gitignore #68945
