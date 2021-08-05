@@ -2588,3 +2588,4 @@
 44887. feat: add export to CSV option #44887
 16459. refactor: clean up auth middleware #16459
 56079. test: test user registration edge cases #56079
+59109. feat: support email verification #59109
