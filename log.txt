@@ -568,3 +568,4 @@
 13908. feat: add export to CSV option #13908
 14143. refactor: clean up auth middleware #14143
 29722. feat: create admin dashboard #29722
+52633. feat: support email verification #52633
