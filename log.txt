@@ -571,3 +571,4 @@
 52633. feat: support email verification #52633
 38810. perf: reduce image load time #38810
 29689. style: remove trailing whitespace #29689
+64316. style: reformat files with black #64316
