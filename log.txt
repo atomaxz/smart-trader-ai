@@ -569,3 +569,4 @@
 14143. refactor: clean up auth middleware #14143
 29722. feat: create admin dashboard #29722
 52633. feat: support email verification #52633
+38810. perf: reduce image load time #38810
