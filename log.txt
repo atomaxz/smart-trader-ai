@@ -2590,3 +2590,4 @@
 56079. test: test user registration edge cases #56079
 59109. feat: support email verification #59109
 41666. feat: create admin dashboard #41666
+55560. fix: fix null pointer exception on login #55560
