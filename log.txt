@@ -1592,3 +1592,4 @@
 48600. feat: implement quiz timer feature #48600
 65787. feat: implement quiz timer feature #65787
 44960. test: test user registration edge cases #44960
+41043. fix: fix broken CSS in mobile view #41043
