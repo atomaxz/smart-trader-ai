@@ -3583,3 +3583,4 @@
 64917. fix: prevent crash on empty input #64917
 2894. feat: create admin dashboard #2894
 18738. test: add integration test for /submit endpoint #18738
+90687. fix: fix null pointer exception on login #90687
