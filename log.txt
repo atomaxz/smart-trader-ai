@@ -573,3 +573,4 @@
 29689. style: remove trailing whitespace #29689
 64316. style: reformat files with black #64316
 46790. perf: reduce image load time #46790
+94979. test: increase coverage on auth module #94979
