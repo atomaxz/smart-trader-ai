@@ -575,3 +575,4 @@
 46790. perf: reduce image load time #46790
 94979. test: increase coverage on auth module #94979
 45653. fix: prevent crash on empty input #45653
+15238. chore: add GitHub actions badge #15238
