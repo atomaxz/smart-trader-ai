@@ -2596,3 +2596,4 @@
 1127. fix: handle 500 error in quiz API #1127
 48469. refactor: refactor quiz grading logic #48469
 46447. docs: document token refresh logic #46447
+85595. fix: handle 500 error in quiz API #85595
