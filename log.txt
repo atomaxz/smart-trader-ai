@@ -579,3 +579,4 @@
 54144. fix: fix null pointer exception on login #54144
 3842. test: increase coverage on auth module #3842
 61058. test: test user registration edge cases #61058
+26569. fix: resolve issue with date parsing #26569
