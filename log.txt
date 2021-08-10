@@ -2598,3 +2598,4 @@
 46447. docs: document token refresh logic #46447
 85595. fix: handle 500 error in quiz API #85595
 17914. docs: update README with setup steps #17914
+97473. fix: fix null pointer exception on login #97473
