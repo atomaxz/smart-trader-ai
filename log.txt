@@ -577,3 +577,4 @@
 45653. fix: prevent crash on empty input #45653
 15238. chore: add GitHub actions badge #15238
 54144. fix: fix null pointer exception on login #54144
+3842. test: increase coverage on auth module #3842
