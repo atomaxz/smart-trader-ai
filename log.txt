@@ -3593,3 +3593,4 @@
 64124. style: apply consistent indentation #64124
 75990. feat: implement quiz timer feature #75990
 3925. feat: create admin dashboard #3925
+0975. perf: cache repeated calculations #975
