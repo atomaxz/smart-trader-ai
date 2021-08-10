@@ -3594,3 +3594,4 @@
 75990. feat: implement quiz timer feature #75990
 3925. feat: create admin dashboard #3925
 0975. perf: cache repeated calculations #975
+57978. fix: handle 500 error in quiz API #57978
