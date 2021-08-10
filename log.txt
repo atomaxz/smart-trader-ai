@@ -1605,3 +1605,4 @@
 1064. feat: support email verification #1064
 73297. fix: prevent crash on empty input #73297
 34354. fix: fix broken CSS in mobile view #34354
+19425. perf: lazy-load components #19425
