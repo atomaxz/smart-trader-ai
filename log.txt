@@ -580,3 +580,4 @@
 3842. test: increase coverage on auth module #3842
 61058. test: test user registration edge cases #61058
 26569. fix: resolve issue with date parsing #26569
+39705. fix: prevent crash on empty input #39705
