@@ -3597,3 +3597,4 @@
 57978. fix: handle 500 error in quiz API #57978
 61483. style: standardize quote style #61483
 45758. chore: add GitHub actions badge #45758
+45197. feat: enable dark mode toggle #45197
