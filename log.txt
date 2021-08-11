@@ -583,3 +583,4 @@
 39705. fix: prevent crash on empty input #39705
 3906. fix: fix broken CSS in mobile view #3906
 9601. refactor: remove redundant code blocks #9601
+80165. docs: document token refresh logic #80165
