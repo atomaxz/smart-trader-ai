@@ -2601,3 +2601,4 @@
 97473. fix: fix null pointer exception on login #97473
 42163. style: remove trailing whitespace #42163
 97819. refactor: organize models into subfolders #97819
+13842. fix: prevent crash on empty input #13842
