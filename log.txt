@@ -2603,3 +2603,4 @@
 97819. refactor: organize models into subfolders #97819
 13842. fix: prevent crash on empty input #13842
 19962. feat: support email verification #19962
+33776. chore: add GitHub actions badge #33776
