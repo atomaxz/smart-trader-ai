@@ -3600,3 +3600,4 @@
 45197. feat: enable dark mode toggle #45197
 48307. refactor: split large controller into smaller functions #48307
 23388. chore: add GitHub actions badge #23388
+44142. docs: update README with setup steps #44142
