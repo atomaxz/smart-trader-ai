@@ -1614,3 +1614,4 @@
 51239. style: reformat files with black #51239
 36696. docs: document token refresh logic #36696
 25621. chore: bump dependencies #25621
+28935. test: mock database connection in test suite #28935
