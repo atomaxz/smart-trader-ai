@@ -2605,3 +2605,4 @@
 19962. feat: support email verification #19962
 33776. chore: add GitHub actions badge #33776
 87581. fix: correct typo in registration form #87581
+47691. style: apply consistent indentation #47691
