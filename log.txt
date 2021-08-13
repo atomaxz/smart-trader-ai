@@ -1618,3 +1618,4 @@
 41326. perf: optimize database query for quiz results #41326
 56928. style: reformat files with black #56928
 75420. docs: clarify environment setup #75420
+33936. chore: add GitHub actions badge #33936
