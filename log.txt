@@ -2607,3 +2607,4 @@
 87581. fix: correct typo in registration form #87581
 47691. style: apply consistent indentation #47691
 17740. chore: add GitHub actions badge #17740
+30119. fix: fix broken CSS in mobile view #30119
