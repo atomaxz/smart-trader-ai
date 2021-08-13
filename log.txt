@@ -3603,3 +3603,4 @@
 44142. docs: update README with setup steps #44142
 5220. chore: update .gitignore #5220
 28110. perf: cache repeated calculations #28110
+97856. perf: lazy-load components #97856
