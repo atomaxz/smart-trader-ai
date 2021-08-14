@@ -2610,3 +2610,4 @@
 30119. fix: fix broken CSS in mobile view #30119
 39877. docs: clarify environment setup #39877
 2212. fix: prevent crash on empty input #2212
+51946. docs: document token refresh logic #51946
