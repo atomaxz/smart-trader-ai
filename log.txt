@@ -587,3 +587,4 @@
 37404. style: rename variables for clarity #37404
 32265. perf: reduce image load time #32265
 89941. chore: add GitHub actions badge #89941
+41358. style: reformat files with black #41358
