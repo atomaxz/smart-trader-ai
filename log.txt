@@ -1619,3 +1619,4 @@
 56928. style: reformat files with black #56928
 75420. docs: clarify environment setup #75420
 33936. chore: add GitHub actions badge #33936
+10031. perf: lazy-load components #10031
