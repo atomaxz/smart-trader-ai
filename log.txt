@@ -591,3 +591,4 @@
 20501. perf: cache repeated calculations #20501
 44638. chore: add GitHub actions badge #44638
 4653. feat: enable dark mode toggle #4653
+25095. test: increase coverage on auth module #25095
