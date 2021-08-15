@@ -3610,3 +3610,4 @@
 35920. docs: add API usage examples #35920
 32990. refactor: remove redundant code blocks #32990
 72219. chore: clean up unused files #72219
+1176. feat: support email verification #1176
