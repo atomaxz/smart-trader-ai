@@ -2612,3 +2612,4 @@
 2212. fix: prevent crash on empty input #2212
 51946. docs: document token refresh logic #51946
 81780. perf: optimize database query for quiz results #81780
+47804. fix: correct typo in registration form #47804
