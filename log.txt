@@ -590,3 +590,4 @@
 41358. style: reformat files with black #41358
 20501. perf: cache repeated calculations #20501
 44638. chore: add GitHub actions badge #44638
+4653. feat: enable dark mode toggle #4653
