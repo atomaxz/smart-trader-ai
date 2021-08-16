@@ -594,3 +594,4 @@
 25095. test: increase coverage on auth module #25095
 53220. docs: update README with setup steps #53220
 38878. perf: lazy-load components #38878
+87002. docs: document token refresh logic #87002
