@@ -1626,3 +1626,4 @@
 21460. chore: rename env.example #21460
 83647. docs: document token refresh logic #83647
 19101. fix: fix null pointer exception on login #19101
+47816. perf: lazy-load components #47816
