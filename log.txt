@@ -593,3 +593,4 @@
 4653. feat: enable dark mode toggle #4653
 25095. test: increase coverage on auth module #25095
 53220. docs: update README with setup steps #53220
+38878. perf: lazy-load components #38878
