@@ -3612,3 +3612,4 @@
 72219. chore: clean up unused files #72219
 1176. feat: support email verification #1176
 69188. docs: clarify environment setup #69188
+59236. test: mock database connection in test suite #59236
