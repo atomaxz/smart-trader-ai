@@ -2615,3 +2615,4 @@
 47804. fix: correct typo in registration form #47804
 17141. fix: fix broken CSS in mobile view #17141
 40064. test: add unit test for quiz service #40064
+10651. chore: clean up unused files #10651
