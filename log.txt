@@ -601,3 +601,4 @@
 19315. docs: write FAQ section #19315
 94443. docs: update README with setup steps #94443
 15816. style: remove trailing whitespace #15816
+48445. style: reformat files with black #48445
