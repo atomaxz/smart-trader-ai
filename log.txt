@@ -3618,3 +3618,4 @@
 71336. fix: fix broken CSS in mobile view #71336
 1484. test: test user registration edge cases #1484
 18178. refactor: refactor quiz grading logic #18178
+70280. perf: lazy-load components #70280
