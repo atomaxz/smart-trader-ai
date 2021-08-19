@@ -3620,3 +3620,4 @@
 18178. refactor: refactor quiz grading logic #18178
 70280. perf: lazy-load components #70280
 13516. chore: rename env.example #13516
+3048. fix: handle 500 error in quiz API #3048
