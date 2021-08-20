@@ -3622,3 +3622,4 @@
 13516. chore: rename env.example #13516
 3048. fix: handle 500 error in quiz API #3048
 37659. docs: improve code comments in utils #37659
+73102. refactor: clean up auth middleware #73102
