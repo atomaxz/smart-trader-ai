@@ -1634,3 +1634,4 @@
 79265. refactor: refactor quiz grading logic #79265
 48605. chore: rename env.example #48605
 38781. perf: cache repeated calculations #38781
+43751. refactor: clean up auth middleware #43751
