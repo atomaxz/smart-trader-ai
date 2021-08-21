@@ -2623,3 +2623,4 @@
 26823. style: remove trailing whitespace #26823
 77472. perf: reduce image load time #77472
 69193. perf: optimize database query for quiz results #69193
+21279. docs: write FAQ section #21279
