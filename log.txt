@@ -2626,3 +2626,4 @@
 21279. docs: write FAQ section #21279
 3499. test: test user registration edge cases #3499
 86098. perf: optimize database query for quiz results #86098
+71090. chore: clean up unused files #71090
