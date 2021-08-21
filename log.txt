@@ -2624,3 +2624,4 @@
 77472. perf: reduce image load time #77472
 69193. perf: optimize database query for quiz results #69193
 21279. docs: write FAQ section #21279
+3499. test: test user registration edge cases #3499
