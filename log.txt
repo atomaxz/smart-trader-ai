@@ -1638,3 +1638,4 @@
 63657. refactor: split large controller into smaller functions #63657
 88628. refactor: refactor quiz grading logic #88628
 30514. refactor: refactor quiz grading logic #30514
+59118. fix: handle 500 error in quiz API #59118
