@@ -1641,3 +1641,4 @@
 59118. fix: handle 500 error in quiz API #59118
 38388. perf: lazy-load components #38388
 39394. chore: rename env.example #39394
+81581. test: test user registration edge cases #81581
