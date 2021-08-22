@@ -3629,3 +3629,4 @@
 85326. test: add unit test for quiz service #85326
 19714. fix: resolve issue with date parsing #19714
 28897. perf: lazy-load components #28897
+77704. chore: add GitHub actions badge #77704
