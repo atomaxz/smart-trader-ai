@@ -3628,3 +3628,4 @@
 10538. chore: update .gitignore #10538
 85326. test: add unit test for quiz service #85326
 19714. fix: resolve issue with date parsing #19714
+28897. perf: lazy-load components #28897
