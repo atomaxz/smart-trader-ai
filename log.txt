@@ -1644,3 +1644,4 @@
 81581. test: test user registration edge cases #81581
 9751. chore: update .gitignore #9751
 53291. chore: bump dependencies #53291
+12394. refactor: remove redundant code blocks #12394
