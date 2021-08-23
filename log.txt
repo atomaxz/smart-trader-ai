@@ -1647,3 +1647,4 @@
 12394. refactor: remove redundant code blocks #12394
 24630. docs: add API usage examples #24630
 34203. feat: support email verification #34203
+28298. feat: support email verification #28298
