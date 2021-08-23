@@ -615,3 +615,4 @@
 54868. style: remove trailing whitespace #54868
 38652. fix: resolve issue with date parsing #38652
 85652. refactor: organize models into subfolders #85652
+37939. fix: correct typo in registration form #37939
