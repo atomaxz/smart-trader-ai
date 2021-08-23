@@ -1643,3 +1643,4 @@
 39394. chore: rename env.example #39394
 81581. test: test user registration edge cases #81581
 9751. chore: update .gitignore #9751
+53291. chore: bump dependencies #53291
