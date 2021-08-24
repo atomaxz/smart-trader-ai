@@ -2638,3 +2638,4 @@
 90320. style: remove trailing whitespace #90320
 41353. test: add integration test for /submit endpoint #41353
 66663. test: increase coverage on auth module #66663
+52606. perf: lazy-load components #52606
