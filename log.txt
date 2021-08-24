@@ -623,3 +623,4 @@
 4140. perf: cache repeated calculations #4140
 14503. chore: clean up unused files #14503
 17706. chore: add GitHub actions badge #17706
+35519. feat: support email verification #35519
