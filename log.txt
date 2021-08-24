@@ -2639,3 +2639,4 @@
 41353. test: add integration test for /submit endpoint #41353
 66663. test: increase coverage on auth module #66663
 52606. perf: lazy-load components #52606
+61791. perf: reduce image load time #61791
