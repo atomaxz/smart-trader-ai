@@ -622,3 +622,4 @@
 15893. chore: bump dependencies #15893
 4140. perf: cache repeated calculations #4140
 14503. chore: clean up unused files #14503
+17706. chore: add GitHub actions badge #17706
