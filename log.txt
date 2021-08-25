@@ -3634,3 +3634,4 @@
 9663. chore: rename env.example #9663
 24629. chore: clean up unused files #24629
 18145. perf: cache repeated calculations #18145
+85738. perf: optimize database query for quiz results #85738
