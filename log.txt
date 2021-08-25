@@ -2642,3 +2642,4 @@
 61791. perf: reduce image load time #61791
 5650. style: rename variables for clarity #5650
 26275. fix: resolve issue with date parsing #26275
+45384. docs: clarify environment setup #45384
