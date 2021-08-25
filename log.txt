@@ -628,3 +628,4 @@
 89947. chore: clean up unused files #89947
 52854. perf: reduce image load time #52854
 39357. chore: bump dependencies #39357
+90226. test: test user registration edge cases #90226
