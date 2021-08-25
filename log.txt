@@ -629,3 +629,4 @@
 52854. perf: reduce image load time #52854
 39357. chore: bump dependencies #39357
 90226. test: test user registration edge cases #90226
+11837. fix: prevent crash on empty input #11837
