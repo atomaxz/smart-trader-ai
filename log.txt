@@ -2647,3 +2647,4 @@
 70833. test: add integration test for /submit endpoint #70833
 25066. fix: fix null pointer exception on login #25066
 0524. docs: document token refresh logic #524
+1618. perf: optimize database query for quiz results #1618
