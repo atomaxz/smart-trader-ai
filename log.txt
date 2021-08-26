@@ -2646,3 +2646,4 @@
 96376. style: remove trailing whitespace #96376
 70833. test: add integration test for /submit endpoint #70833
 25066. fix: fix null pointer exception on login #25066
+0524. docs: document token refresh logic #524
