@@ -2645,3 +2645,4 @@
 45384. docs: clarify environment setup #45384
 96376. style: remove trailing whitespace #96376
 70833. test: add integration test for /submit endpoint #70833
+25066. fix: fix null pointer exception on login #25066
