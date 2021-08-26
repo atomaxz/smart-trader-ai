@@ -2644,3 +2644,4 @@
 26275. fix: resolve issue with date parsing #26275
 45384. docs: clarify environment setup #45384
 96376. style: remove trailing whitespace #96376
+70833. test: add integration test for /submit endpoint #70833
