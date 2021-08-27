@@ -1654,3 +1654,4 @@
 15586. test: test user registration edge cases #15586
 15379. fix: prevent crash on empty input #15379
 80868. docs: improve code comments in utils #80868
+70911. perf: optimize database query for quiz results #70911
