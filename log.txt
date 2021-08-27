@@ -1652,3 +1652,4 @@
 96047. fix: resolve issue with date parsing #96047
 37108. refactor: remove redundant code blocks #37108
 15586. test: test user registration edge cases #15586
+15379. fix: prevent crash on empty input #15379
