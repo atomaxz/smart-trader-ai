@@ -3641,3 +3641,4 @@
 26464. docs: document token refresh logic #26464
 4126. chore: update .gitignore #4126
 39659. style: apply consistent indentation #39659
+51181. fix: prevent crash on empty input #51181
