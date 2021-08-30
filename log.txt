@@ -2657,3 +2657,4 @@
 91523. refactor: refactor quiz grading logic #91523
 11601. chore: bump dependencies #11601
 94750. refactor: organize models into subfolders #94750
+38054. perf: lazy-load components #38054
