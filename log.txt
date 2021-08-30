@@ -2659,3 +2659,4 @@
 94750. refactor: organize models into subfolders #94750
 38054. perf: lazy-load components #38054
 9915. fix: correct typo in registration form #9915
+65837. chore: add GitHub actions badge #65837
