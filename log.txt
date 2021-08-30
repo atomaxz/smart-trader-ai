@@ -1666,3 +1666,4 @@
 54172. docs: add API usage examples #54172
 23181. style: standardize quote style #23181
 97518. chore: update .gitignore #97518
+98587. perf: reduce image load time #98587
