@@ -2653,3 +2653,4 @@
 13843. fix: resolve issue with date parsing #13843
 34205. style: remove trailing whitespace #34205
 81991. test: increase coverage on auth module #81991
+62333. perf: optimize database query for quiz results #62333
