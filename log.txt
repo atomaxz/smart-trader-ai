@@ -3655,3 +3655,4 @@
 85869. fix: fix broken CSS in mobile view #85869
 5130. feat: create admin dashboard #5130
 5807. perf: lazy-load components #5807
+67236. feat: enable dark mode toggle #67236
