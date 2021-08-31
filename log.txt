@@ -3658,3 +3658,4 @@
 67236. feat: enable dark mode toggle #67236
 74148. feat: implement quiz timer feature #74148
 74430. docs: update README with setup steps #74430
+67351. fix: prevent crash on empty input #67351
