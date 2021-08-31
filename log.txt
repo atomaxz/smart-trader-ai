@@ -1669,3 +1669,4 @@
 98587. perf: reduce image load time #98587
 45832. docs: update README with setup steps #45832
 0628. docs: add API usage examples #628
+17623. chore: clean up unused files #17623
