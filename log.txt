@@ -3661,3 +3661,4 @@
 67351. fix: prevent crash on empty input #67351
 44036. perf: cache repeated calculations #44036
 77944. refactor: refactor quiz grading logic #77944
+97920. docs: write FAQ section #97920
