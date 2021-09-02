@@ -645,3 +645,4 @@
 32124. feat: create admin dashboard #32124
 3447. refactor: refactor quiz grading logic #3447
 5956. fix: handle 500 error in quiz API #5956
+66870. feat: enable dark mode toggle #66870
