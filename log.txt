@@ -2665,3 +2665,4 @@
 25907. fix: fix null pointer exception on login #25907
 94031. feat: support email verification #94031
 79428. fix: fix null pointer exception on login #79428
+49568. fix: fix broken CSS in mobile view #49568
