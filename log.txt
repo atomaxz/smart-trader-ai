@@ -3662,3 +3662,4 @@
 44036. perf: cache repeated calculations #44036
 77944. refactor: refactor quiz grading logic #77944
 97920. docs: write FAQ section #97920
+15172. feat: enable dark mode toggle #15172
