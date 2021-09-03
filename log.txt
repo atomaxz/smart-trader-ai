@@ -2668,3 +2668,4 @@
 49568. fix: fix broken CSS in mobile view #49568
 80565. refactor: remove redundant code blocks #80565
 1359. perf: cache repeated calculations #1359
+67103. fix: prevent crash on empty input #67103
