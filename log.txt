@@ -1674,3 +1674,4 @@
 61350. chore: rename env.example #61350
 12375. fix: handle 500 error in quiz API #12375
 38776. test: add unit test for quiz service #38776
+35152. docs: write FAQ section #35152
