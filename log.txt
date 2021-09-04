@@ -3668,3 +3668,4 @@
 97716. style: reformat files with black #97716
 44490. perf: lazy-load components #44490
 46376. docs: add API usage examples #46376
+15436. chore: update .gitignore #15436
