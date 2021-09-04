@@ -648,3 +648,4 @@
 66870. feat: enable dark mode toggle #66870
 6408. feat: add user authentication #6408
 99415. chore: clean up unused files #99415
+52817. docs: update README with setup steps #52817
