@@ -1678,3 +1678,4 @@
 28571. refactor: clean up auth middleware #28571
 87710. perf: reduce image load time #87710
 89933. style: apply consistent indentation #89933
+90904. perf: optimize database query for quiz results #90904
