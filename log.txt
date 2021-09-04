@@ -3669,3 +3669,4 @@
 44490. perf: lazy-load components #44490
 46376. docs: add API usage examples #46376
 15436. chore: update .gitignore #15436
+87378. test: increase coverage on auth module #87378
