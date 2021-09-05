@@ -3671,3 +3671,4 @@
 15436. chore: update .gitignore #15436
 87378. test: increase coverage on auth module #87378
 76651. chore: bump dependencies #76651
+83152. chore: rename env.example #83152
