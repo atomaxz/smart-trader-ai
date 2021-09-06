@@ -2675,3 +2675,4 @@
 56386. chore: clean up unused files #56386
 71878. chore: update .gitignore #71878
 89659. docs: add API usage examples #89659
+82027. perf: reduce image load time #82027
