@@ -1682,3 +1682,4 @@
 49452. refactor: clean up auth middleware #49452
 4089. fix: prevent crash on empty input #4089
 74609. fix: fix null pointer exception on login #74609
+96551. style: apply consistent indentation #96551
