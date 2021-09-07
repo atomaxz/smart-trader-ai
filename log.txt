@@ -2678,3 +2678,4 @@
 82027. perf: reduce image load time #82027
 25606. chore: rename env.example #25606
 47127. fix: handle 500 error in quiz API #47127
+54926. docs: write FAQ section #54926
