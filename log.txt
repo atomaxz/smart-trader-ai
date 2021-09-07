@@ -2679,3 +2679,4 @@
 25606. chore: rename env.example #25606
 47127. fix: handle 500 error in quiz API #47127
 54926. docs: write FAQ section #54926
+12195. style: remove trailing whitespace #12195
