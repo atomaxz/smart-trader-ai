@@ -3675,3 +3675,4 @@
 82641. docs: clarify environment setup #82641
 72824. chore: add GitHub actions badge #72824
 26686. test: mock database connection in test suite #26686
+96403. feat: create admin dashboard #96403
