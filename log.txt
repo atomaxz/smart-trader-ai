@@ -659,3 +659,4 @@
 86377. style: rename variables for clarity #86377
 80879. fix: handle 500 error in quiz API #80879
 46841. chore: update .gitignore #46841
+20905. feat: enable dark mode toggle #20905
