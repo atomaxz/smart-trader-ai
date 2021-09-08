@@ -1688,3 +1688,4 @@
 44855. fix: handle 500 error in quiz API #44855
 24046. feat: create admin dashboard #24046
 73933. perf: reduce image load time #73933
+58294. feat: enable dark mode toggle #58294
