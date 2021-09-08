@@ -2682,3 +2682,4 @@
 12195. style: remove trailing whitespace #12195
 87960. style: reformat files with black #87960
 22297. perf: cache repeated calculations #22297
+58663. test: increase coverage on auth module #58663
