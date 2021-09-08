@@ -658,3 +658,4 @@
 87647. style: standardize quote style #87647
 86377. style: rename variables for clarity #86377
 80879. fix: handle 500 error in quiz API #80879
+46841. chore: update .gitignore #46841
