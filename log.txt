@@ -3677,3 +3677,4 @@
 26686. test: mock database connection in test suite #26686
 96403. feat: create admin dashboard #96403
 67838. style: reformat files with black #67838
+89223. perf: lazy-load components #89223
