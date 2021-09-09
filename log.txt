@@ -2683,3 +2683,4 @@
 87960. style: reformat files with black #87960
 22297. perf: cache repeated calculations #22297
 58663. test: increase coverage on auth module #58663
+76702. docs: add API usage examples #76702
