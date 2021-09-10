@@ -2685,3 +2685,4 @@
 58663. test: increase coverage on auth module #58663
 76702. docs: add API usage examples #76702
 66402. refactor: clean up auth middleware #66402
+48183. perf: lazy-load components #48183
