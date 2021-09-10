@@ -664,3 +664,4 @@
 94144. docs: add API usage examples #94144
 63511. refactor: organize models into subfolders #63511
 31689. style: apply consistent indentation #31689
+82347. fix: correct typo in registration form #82347
