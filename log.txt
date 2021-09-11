@@ -670,3 +670,4 @@
 43670. feat: create admin dashboard #43670
 78389. test: mock database connection in test suite #78389
 8012. style: standardize quote style #8012
+18498. docs: document token refresh logic #18498
