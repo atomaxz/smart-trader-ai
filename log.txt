@@ -2687,3 +2687,4 @@
 66402. refactor: clean up auth middleware #66402
 48183. perf: lazy-load components #48183
 18847. style: standardize quote style #18847
+59004. feat: add user authentication #59004
