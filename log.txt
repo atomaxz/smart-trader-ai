@@ -669,3 +669,4 @@
 95462. style: standardize quote style #95462
 43670. feat: create admin dashboard #43670
 78389. test: mock database connection in test suite #78389
+8012. style: standardize quote style #8012
