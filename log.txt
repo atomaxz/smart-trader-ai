@@ -3684,3 +3684,4 @@
 85047. chore: add GitHub actions badge #85047
 49085. fix: prevent crash on empty input #49085
 82232. docs: add API usage examples #82232
+84848. perf: optimize database query for quiz results #84848
