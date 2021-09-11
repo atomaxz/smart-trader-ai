@@ -3683,3 +3683,4 @@
 44235. perf: cache repeated calculations #44235
 85047. chore: add GitHub actions badge #85047
 49085. fix: prevent crash on empty input #49085
+82232. docs: add API usage examples #82232
