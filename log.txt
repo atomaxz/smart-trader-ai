@@ -1699,3 +1699,4 @@
 44609. style: standardize quote style #44609
 52794. test: add unit test for quiz service #52794
 52359. docs: improve code comments in utils #52359
+2170. fix: fix broken CSS in mobile view #2170
