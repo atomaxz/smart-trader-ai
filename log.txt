@@ -2690,3 +2690,4 @@
 59004. feat: add user authentication #59004
 44096. feat: enable dark mode toggle #44096
 72589. chore: rename env.example #72589
+69753. chore: update .gitignore #69753
