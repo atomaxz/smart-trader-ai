@@ -674,3 +674,4 @@
 86026. test: add integration test for /submit endpoint #86026
 94421. perf: reduce image load time #94421
 99617. fix: fix broken CSS in mobile view #99617
+70543. refactor: organize models into subfolders #70543
