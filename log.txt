@@ -684,3 +684,4 @@
 17321. refactor: split large controller into smaller functions #17321
 84715. test: mock database connection in test suite #84715
 96362. docs: improve code comments in utils #96362
+10947. feat: enable dark mode toggle #10947
