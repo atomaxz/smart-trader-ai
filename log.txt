@@ -682,3 +682,4 @@
 91161. style: remove trailing whitespace #91161
 33675. fix: fix broken CSS in mobile view #33675
 17321. refactor: split large controller into smaller functions #17321
+84715. test: mock database connection in test suite #84715
