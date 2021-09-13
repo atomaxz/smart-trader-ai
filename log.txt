@@ -2692,3 +2692,4 @@
 72589. chore: rename env.example #72589
 69753. chore: update .gitignore #69753
 15725. fix: correct typo in registration form #15725
+10932. test: add unit test for quiz service #10932
