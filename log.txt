@@ -2694,3 +2694,4 @@
 15725. fix: correct typo in registration form #15725
 10932. test: add unit test for quiz service #10932
 48621. docs: write FAQ section #48621
+39653. feat: support email verification #39653
