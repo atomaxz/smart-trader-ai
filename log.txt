@@ -3692,3 +3692,4 @@
 55995. test: mock database connection in test suite #55995
 33141. fix: resolve issue with date parsing #33141
 8173. refactor: refactor quiz grading logic #8173
+78326. feat: create admin dashboard #78326
