@@ -3693,3 +3693,4 @@
 33141. fix: resolve issue with date parsing #33141
 8173. refactor: refactor quiz grading logic #8173
 78326. feat: create admin dashboard #78326
+0740. test: increase coverage on auth module #740
