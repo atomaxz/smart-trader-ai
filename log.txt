@@ -690,3 +690,4 @@
 27479. perf: lazy-load components #27479
 93460. perf: cache repeated calculations #93460
 75000. style: standardize quote style #75000
+65283. fix: handle 500 error in quiz API #65283
