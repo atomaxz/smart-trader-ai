@@ -1708,3 +1708,4 @@
 19804. docs: write FAQ section #19804
 36592. feat: support email verification #36592
 51094. docs: write FAQ section #51094
+18712. style: standardize quote style #18712
