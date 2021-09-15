@@ -3696,3 +3696,4 @@
 0740. test: increase coverage on auth module #740
 99183. style: rename variables for clarity #99183
 40797. fix: prevent crash on empty input #40797
+64857. refactor: organize models into subfolders #64857
