@@ -1706,3 +1706,4 @@
 18747. test: add unit test for quiz service #18747
 80706. refactor: refactor quiz grading logic #80706
 19804. docs: write FAQ section #19804
+36592. feat: support email verification #36592
