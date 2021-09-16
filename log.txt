@@ -692,3 +692,4 @@
 75000. style: standardize quote style #75000
 65283. fix: handle 500 error in quiz API #65283
 76393. feat: implement quiz timer feature #76393
+69070. refactor: split large controller into smaller functions #69070
