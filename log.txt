@@ -2702,3 +2702,4 @@
 49602. fix: resolve issue with date parsing #49602
 75962. style: apply consistent indentation #75962
 23126. docs: document token refresh logic #23126
+50249. fix: fix broken CSS in mobile view #50249
