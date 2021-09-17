@@ -1713,3 +1713,4 @@
 1747. perf: lazy-load components #1747
 90175. docs: clarify environment setup #90175
 4949. refactor: clean up auth middleware #4949
+65866. fix: fix null pointer exception on login #65866
