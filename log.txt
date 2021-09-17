@@ -2703,3 +2703,4 @@
 75962. style: apply consistent indentation #75962
 23126. docs: document token refresh logic #23126
 50249. fix: fix broken CSS in mobile view #50249
+35257. refactor: split large controller into smaller functions #35257
