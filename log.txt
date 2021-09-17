@@ -1712,3 +1712,4 @@
 82166. test: mock database connection in test suite #82166
 1747. perf: lazy-load components #1747
 90175. docs: clarify environment setup #90175
+4949. refactor: clean up auth middleware #4949
