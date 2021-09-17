@@ -695,3 +695,4 @@
 69070. refactor: split large controller into smaller functions #69070
 50277. docs: update README with setup steps #50277
 71499. perf: lazy-load components #71499
+22794. style: remove trailing whitespace #22794
