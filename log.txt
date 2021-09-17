@@ -1714,3 +1714,4 @@
 90175. docs: clarify environment setup #90175
 4949. refactor: clean up auth middleware #4949
 65866. fix: fix null pointer exception on login #65866
+50801. test: increase coverage on auth module #50801
