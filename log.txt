@@ -2707,3 +2707,4 @@
 6259. fix: fix broken CSS in mobile view #6259
 90361. fix: handle 500 error in quiz API #90361
 47418. docs: improve code comments in utils #47418
+22350. style: standardize quote style #22350
