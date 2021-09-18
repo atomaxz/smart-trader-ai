@@ -3703,3 +3703,4 @@
 54111. perf: reduce image load time #54111
 41759. refactor: remove redundant code blocks #41759
 9970. perf: cache repeated calculations #9970
+35982. test: increase coverage on auth module #35982
