@@ -1717,3 +1717,4 @@
 50801. test: increase coverage on auth module #50801
 15698. test: add integration test for /submit endpoint #15698
 96773. style: apply consistent indentation #96773
+68198. feat: support email verification #68198
