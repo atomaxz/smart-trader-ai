@@ -1716,3 +1716,4 @@
 65866. fix: fix null pointer exception on login #65866
 50801. test: increase coverage on auth module #50801
 15698. test: add integration test for /submit endpoint #15698
+96773. style: apply consistent indentation #96773
