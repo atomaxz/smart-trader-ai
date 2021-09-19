@@ -1720,3 +1720,4 @@
 68198. feat: support email verification #68198
 10029. docs: improve code comments in utils #10029
 82558. refactor: clean up auth middleware #82558
+0324. feat: enable dark mode toggle #324
