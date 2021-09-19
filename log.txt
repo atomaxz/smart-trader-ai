@@ -2711,3 +2711,4 @@
 55005. chore: add GitHub actions badge #55005
 98351. chore: bump dependencies #98351
 32091. fix: prevent crash on empty input #32091
+60689. fix: handle 500 error in quiz API #60689
