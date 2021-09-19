@@ -698,3 +698,4 @@
 22794. style: remove trailing whitespace #22794
 54756. feat: add user authentication #54756
 23233. refactor: refactor quiz grading logic #23233
+30792. test: increase coverage on auth module #30792
