@@ -3709,3 +3709,4 @@
 48065. chore: bump dependencies #48065
 61153. fix: fix null pointer exception on login #61153
 60225. feat: add user authentication #60225
+46631. fix: prevent crash on empty input #46631
