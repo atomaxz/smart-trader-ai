@@ -3707,3 +3707,4 @@
 93325. feat: enable dark mode toggle #93325
 96167. perf: lazy-load components #96167
 48065. chore: bump dependencies #48065
+61153. fix: fix null pointer exception on login #61153
