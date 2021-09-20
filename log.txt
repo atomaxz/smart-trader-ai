@@ -1727,3 +1727,4 @@
 85425. fix: fix null pointer exception on login #85425
 9737. chore: update .gitignore #9737
 84854. feat: add export to CSV option #84854
+86775. perf: optimize database query for quiz results #86775
