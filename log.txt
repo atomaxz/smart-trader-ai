@@ -3711,3 +3711,4 @@
 60225. feat: add user authentication #60225
 46631. fix: prevent crash on empty input #46631
 36787. feat: support email verification #36787
+76052. perf: reduce image load time #76052
