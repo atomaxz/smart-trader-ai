@@ -1732,3 +1732,4 @@
 47487. refactor: remove redundant code blocks #47487
 10477. style: rename variables for clarity #10477
 74925. fix: fix broken CSS in mobile view #74925
+19865. refactor: refactor quiz grading logic #19865
