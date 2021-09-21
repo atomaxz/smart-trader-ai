@@ -706,3 +706,4 @@
 23683. chore: clean up unused files #23683
 76255. feat: add user authentication #76255
 10402. style: apply consistent indentation #10402
+87029. chore: add GitHub actions badge #87029
