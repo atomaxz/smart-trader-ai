@@ -707,3 +707,4 @@
 76255. feat: add user authentication #76255
 10402. style: apply consistent indentation #10402
 87029. chore: add GitHub actions badge #87029
+46320. style: remove trailing whitespace #46320
