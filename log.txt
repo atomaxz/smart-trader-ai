@@ -711,3 +711,4 @@
 50833. refactor: remove redundant code blocks #50833
 94737. chore: add GitHub actions badge #94737
 35544. chore: add GitHub actions badge #35544
+75410. test: test user registration edge cases #75410
