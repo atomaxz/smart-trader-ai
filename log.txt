@@ -708,3 +708,4 @@
 10402. style: apply consistent indentation #10402
 87029. chore: add GitHub actions badge #87029
 46320. style: remove trailing whitespace #46320
+50833. refactor: remove redundant code blocks #50833
