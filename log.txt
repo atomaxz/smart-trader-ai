@@ -1733,3 +1733,4 @@
 10477. style: rename variables for clarity #10477
 74925. fix: fix broken CSS in mobile view #74925
 19865. refactor: refactor quiz grading logic #19865
+5993. fix: correct typo in registration form #5993
