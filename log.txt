@@ -2719,3 +2719,4 @@
 29053. chore: add GitHub actions badge #29053
 11878. fix: handle 500 error in quiz API #11878
 34996. test: test user registration edge cases #34996
+42528. refactor: clean up auth middleware #42528
