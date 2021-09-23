@@ -713,3 +713,4 @@
 35544. chore: add GitHub actions badge #35544
 75410. test: test user registration edge cases #75410
 34518. fix: handle 500 error in quiz API #34518
+62386. docs: update README with setup steps #62386
