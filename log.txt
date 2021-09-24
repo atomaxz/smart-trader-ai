@@ -716,3 +716,4 @@
 62386. docs: update README with setup steps #62386
 23440. style: standardize quote style #23440
 87665. perf: cache repeated calculations #87665
+90285. feat: enable dark mode toggle #90285
