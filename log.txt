@@ -1739,3 +1739,4 @@
 16312. chore: clean up unused files #16312
 65406. style: remove trailing whitespace #65406
 27538. chore: update .gitignore #27538
+72924. fix: handle 500 error in quiz API #72924
