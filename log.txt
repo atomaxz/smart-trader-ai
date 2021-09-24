@@ -718,3 +718,4 @@
 87665. perf: cache repeated calculations #87665
 90285. feat: enable dark mode toggle #90285
 98618. test: mock database connection in test suite #98618
+25385. style: reformat files with black #25385
