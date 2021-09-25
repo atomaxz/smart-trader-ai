@@ -2726,3 +2726,4 @@
 10290. perf: cache repeated calculations #10290
 72224. chore: add GitHub actions badge #72224
 97808. style: remove trailing whitespace #97808
+63925. style: reformat files with black #63925
