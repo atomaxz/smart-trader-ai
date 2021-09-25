@@ -2725,3 +2725,4 @@
 83154. chore: update .gitignore #83154
 10290. perf: cache repeated calculations #10290
 72224. chore: add GitHub actions badge #72224
+97808. style: remove trailing whitespace #97808
