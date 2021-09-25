@@ -722,3 +722,4 @@
 21654. perf: reduce image load time #21654
 20722. style: rename variables for clarity #20722
 47933. docs: improve code comments in utils #47933
+9887. style: apply consistent indentation #9887
