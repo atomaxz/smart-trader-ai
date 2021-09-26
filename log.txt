@@ -724,3 +724,4 @@
 47933. docs: improve code comments in utils #47933
 9887. style: apply consistent indentation #9887
 6626. feat: implement quiz timer feature #6626
+96542. test: increase coverage on auth module #96542
