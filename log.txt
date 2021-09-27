@@ -725,3 +725,4 @@
 9887. style: apply consistent indentation #9887
 6626. feat: implement quiz timer feature #6626
 96542. test: increase coverage on auth module #96542
+87756. refactor: split large controller into smaller functions #87756
