@@ -3723,3 +3723,4 @@
 82399. refactor: remove redundant code blocks #82399
 61297. chore: bump dependencies #61297
 58946. test: add unit test for quiz service #58946
+29198. fix: handle 500 error in quiz API #29198
