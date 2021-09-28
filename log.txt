@@ -1749,3 +1749,4 @@
 48255. chore: bump dependencies #48255
 3028. docs: add API usage examples #3028
 80115. fix: resolve issue with date parsing #80115
+72208. test: test user registration edge cases #72208
