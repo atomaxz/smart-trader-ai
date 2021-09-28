@@ -1746,3 +1746,4 @@
 81279. test: add integration test for /submit endpoint #81279
 25587. style: remove trailing whitespace #25587
 82417. docs: write FAQ section #82417
+48255. chore: bump dependencies #48255
