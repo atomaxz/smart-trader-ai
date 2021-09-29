@@ -3727,3 +3727,4 @@
 80479. refactor: refactor quiz grading logic #80479
 74835. style: reformat files with black #74835
 21981. perf: optimize database query for quiz results #21981
+68785. style: standardize quote style #68785
