@@ -730,3 +730,4 @@
 51917. refactor: remove redundant code blocks #51917
 22909. fix: resolve issue with date parsing #22909
 81164. fix: correct typo in registration form #81164
+39300. test: add integration test for /submit endpoint #39300
