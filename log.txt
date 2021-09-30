@@ -734,3 +734,4 @@
 95216. fix: fix null pointer exception on login #95216
 99153. test: add unit test for quiz service #99153
 59204. docs: update README with setup steps #59204
+66596. perf: reduce image load time #66596
