@@ -732,3 +732,4 @@
 81164. fix: correct typo in registration form #81164
 39300. test: add integration test for /submit endpoint #39300
 95216. fix: fix null pointer exception on login #95216
+99153. test: add unit test for quiz service #99153
