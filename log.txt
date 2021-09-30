@@ -1754,3 +1754,4 @@
 49305. chore: rename env.example #49305
 66150. chore: bump dependencies #66150
 49494. style: apply consistent indentation #49494
+10910. feat: support email verification #10910
