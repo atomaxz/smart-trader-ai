@@ -3731,3 +3731,4 @@
 98008. perf: reduce image load time #98008
 63292. refactor: clean up auth middleware #63292
 40233. refactor: clean up auth middleware #40233
+44690. test: mock database connection in test suite #44690
