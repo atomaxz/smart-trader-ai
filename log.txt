@@ -2739,3 +2739,4 @@
 82869. docs: write FAQ section #82869
 12559. refactor: organize models into subfolders #12559
 79729. test: test user registration edge cases #79729
+2451. chore: update .gitignore #2451
