@@ -1756,3 +1756,4 @@
 49494. style: apply consistent indentation #49494
 10910. feat: support email verification #10910
 50842. test: mock database connection in test suite #50842
+34212. chore: rename env.example #34212
