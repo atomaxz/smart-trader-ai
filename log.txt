@@ -1755,3 +1755,4 @@
 66150. chore: bump dependencies #66150
 49494. style: apply consistent indentation #49494
 10910. feat: support email verification #10910
+50842. test: mock database connection in test suite #50842
