@@ -3736,3 +3736,4 @@
 9924. docs: improve code comments in utils #9924
 42807. perf: optimize database query for quiz results #42807
 33221. style: rename variables for clarity #33221
+49477. chore: clean up unused files #49477
