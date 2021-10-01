@@ -1758,3 +1758,4 @@
 50842. test: mock database connection in test suite #50842
 34212. chore: rename env.example #34212
 52945. docs: document token refresh logic #52945
+57378. test: mock database connection in test suite #57378
