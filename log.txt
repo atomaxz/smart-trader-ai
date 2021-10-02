@@ -2746,3 +2746,4 @@
 65734. docs: clarify environment setup #65734
 17586. refactor: remove redundant code blocks #17586
 32800. feat: create admin dashboard #32800
+0145. fix: fix broken CSS in mobile view #145
