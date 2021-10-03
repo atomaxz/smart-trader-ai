@@ -2748,3 +2748,4 @@
 32800. feat: create admin dashboard #32800
 0145. fix: fix broken CSS in mobile view #145
 98470. style: reformat files with black #98470
+15159. test: increase coverage on auth module #15159
