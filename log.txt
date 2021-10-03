@@ -1765,3 +1765,4 @@
 89375. docs: add API usage examples #89375
 92051. refactor: remove redundant code blocks #92051
 90109. fix: correct typo in registration form #90109
+68331. fix: prevent crash on empty input #68331
