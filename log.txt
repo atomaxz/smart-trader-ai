@@ -3740,3 +3740,4 @@
 5382. refactor: split large controller into smaller functions #5382
 61880. chore: rename env.example #61880
 20795. chore: clean up unused files #20795
+1332. fix: prevent crash on empty input #1332
