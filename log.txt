@@ -2751,3 +2751,4 @@
 15159. test: increase coverage on auth module #15159
 6476. feat: add user authentication #6476
 34501. style: remove trailing whitespace #34501
+80252. fix: correct typo in registration form #80252
