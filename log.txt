@@ -741,3 +741,4 @@
 17345. style: standardize quote style #17345
 24726. refactor: clean up auth middleware #24726
 82584. perf: reduce image load time #82584
+97045. test: test user registration edge cases #97045
