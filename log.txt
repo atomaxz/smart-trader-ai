@@ -3745,3 +3745,4 @@
 16672. docs: add API usage examples #16672
 34933. refactor: refactor quiz grading logic #34933
 12698. chore: update .gitignore #12698
+8520. fix: fix null pointer exception on login #8520
