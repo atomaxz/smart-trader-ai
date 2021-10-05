@@ -748,3 +748,4 @@
 42765. docs: write FAQ section #42765
 23511. docs: add API usage examples #23511
 9863. test: add unit test for quiz service #9863
+8095. chore: bump dependencies #8095
