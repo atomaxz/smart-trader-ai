@@ -747,3 +747,4 @@
 6669. feat: enable dark mode toggle #6669
 42765. docs: write FAQ section #42765
 23511. docs: add API usage examples #23511
+9863. test: add unit test for quiz service #9863
