@@ -752,3 +752,4 @@
 72636. perf: cache repeated calculations #72636
 38403. fix: fix null pointer exception on login #38403
 69814. perf: lazy-load components #69814
+76048. feat: add export to CSV option #76048
