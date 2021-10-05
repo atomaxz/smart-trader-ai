@@ -1775,3 +1775,4 @@
 16856. feat: implement quiz timer feature #16856
 60006. chore: bump dependencies #60006
 51880. test: increase coverage on auth module #51880
+49067. chore: bump dependencies #49067
