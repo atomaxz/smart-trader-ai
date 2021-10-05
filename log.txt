@@ -2755,3 +2755,4 @@
 67088. perf: cache repeated calculations #67088
 48669. fix: fix broken CSS in mobile view #48669
 32297. chore: clean up unused files #32297
+3860. chore: rename env.example #3860
