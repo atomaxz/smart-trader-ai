@@ -745,3 +745,4 @@
 89052. refactor: remove redundant code blocks #89052
 33443. style: apply consistent indentation #33443
 6669. feat: enable dark mode toggle #6669
+42765. docs: write FAQ section #42765
