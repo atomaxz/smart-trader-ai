@@ -751,3 +751,4 @@
 8095. chore: bump dependencies #8095
 72636. perf: cache repeated calculations #72636
 38403. fix: fix null pointer exception on login #38403
+69814. perf: lazy-load components #69814
