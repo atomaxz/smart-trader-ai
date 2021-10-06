@@ -1776,3 +1776,4 @@
 60006. chore: bump dependencies #60006
 51880. test: increase coverage on auth module #51880
 49067. chore: bump dependencies #49067
+85436. perf: optimize database query for quiz results #85436
