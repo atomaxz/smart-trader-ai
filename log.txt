@@ -2759,3 +2759,4 @@
 27492. test: mock database connection in test suite #27492
 91245. docs: write FAQ section #91245
 44396. feat: implement quiz timer feature #44396
+53053. fix: prevent crash on empty input #53053
