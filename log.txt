@@ -1780,3 +1780,4 @@
 83755. docs: improve code comments in utils #83755
 7137. style: remove trailing whitespace #7137
 56810. fix: handle 500 error in quiz API #56810
+92736. refactor: clean up auth middleware #92736
