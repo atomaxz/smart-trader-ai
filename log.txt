@@ -755,3 +755,4 @@
 76048. feat: add export to CSV option #76048
 38217. fix: prevent crash on empty input #38217
 61441. style: apply consistent indentation #61441
+3871. fix: correct typo in registration form #3871
