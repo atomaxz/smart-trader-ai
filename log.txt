@@ -1784,3 +1784,4 @@
 78352. test: add unit test for quiz service #78352
 48362. perf: lazy-load components #48362
 73915. feat: implement quiz timer feature #73915
+54017. test: mock database connection in test suite #54017
