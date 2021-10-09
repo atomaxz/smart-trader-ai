@@ -1782,3 +1782,4 @@
 56810. fix: handle 500 error in quiz API #56810
 92736. refactor: clean up auth middleware #92736
 78352. test: add unit test for quiz service #78352
+48362. perf: lazy-load components #48362
