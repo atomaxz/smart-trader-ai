@@ -3757,3 +3757,4 @@
 17311. docs: update README with setup steps #17311
 37627. chore: update .gitignore #37627
 88491. test: mock database connection in test suite #88491
+78003. perf: optimize database query for quiz results #78003
