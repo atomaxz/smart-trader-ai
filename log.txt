@@ -773,3 +773,4 @@
 13644. perf: cache repeated calculations #13644
 78122. docs: clarify environment setup #78122
 85600. style: remove trailing whitespace #85600
+37565. perf: reduce image load time #37565
