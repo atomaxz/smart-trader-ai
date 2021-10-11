@@ -3765,3 +3765,4 @@
 33626. docs: write FAQ section #33626
 39254. perf: optimize database query for quiz results #39254
 12183. fix: prevent crash on empty input #12183
+35667. test: add unit test for quiz service #35667
