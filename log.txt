@@ -2768,3 +2768,4 @@
 96443. docs: update README with setup steps #96443
 13964. docs: document token refresh logic #13964
 81415. perf: reduce image load time #81415
+35522. style: remove trailing whitespace #35522
