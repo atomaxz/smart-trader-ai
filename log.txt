@@ -776,3 +776,4 @@
 37565. perf: reduce image load time #37565
 35925. refactor: remove redundant code blocks #35925
 62576. test: mock database connection in test suite #62576
+10012. fix: fix null pointer exception on login #10012
