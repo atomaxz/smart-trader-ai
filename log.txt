@@ -1796,3 +1796,4 @@
 49108. style: apply consistent indentation #49108
 9300. docs: add API usage examples #9300
 4551. test: increase coverage on auth module #4551
+7156. feat: support email verification #7156
