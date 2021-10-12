@@ -780,3 +780,4 @@
 12026. refactor: organize models into subfolders #12026
 20575. style: apply consistent indentation #20575
 30986. test: increase coverage on auth module #30986
+12243. perf: lazy-load components #12243
