@@ -3770,3 +3770,4 @@
 11214. chore: rename env.example #11214
 77852. test: increase coverage on auth module #77852
 10307. fix: handle 500 error in quiz API #10307
+57466. docs: document token refresh logic #57466
