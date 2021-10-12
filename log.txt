@@ -2772,3 +2772,4 @@
 12148. refactor: split large controller into smaller functions #12148
 20730. docs: add API usage examples #20730
 67730. refactor: split large controller into smaller functions #67730
+78711. perf: optimize database query for quiz results #78711
