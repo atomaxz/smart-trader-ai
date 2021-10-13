@@ -3774,3 +3774,4 @@
 6355. refactor: remove redundant code blocks #6355
 83153. style: apply consistent indentation #83153
 27900. refactor: organize models into subfolders #27900
+76561. fix: prevent crash on empty input #76561
