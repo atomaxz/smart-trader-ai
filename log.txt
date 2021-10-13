@@ -1797,3 +1797,4 @@
 9300. docs: add API usage examples #9300
 4551. test: increase coverage on auth module #4551
 7156. feat: support email verification #7156
+4653. feat: enable dark mode toggle #4653
