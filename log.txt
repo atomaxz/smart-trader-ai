@@ -2781,3 +2781,4 @@
 31904. feat: implement quiz timer feature #31904
 31897. test: add integration test for /submit endpoint #31897
 46159. style: remove trailing whitespace #46159
+43578. docs: write FAQ section #43578
