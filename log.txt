@@ -1799,3 +1799,4 @@
 7156. feat: support email verification #7156
 4653. feat: enable dark mode toggle #4653
 42458. test: add integration test for /submit endpoint #42458
+2615. fix: handle 500 error in quiz API #2615
