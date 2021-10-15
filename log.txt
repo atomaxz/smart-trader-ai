@@ -2785,3 +2785,4 @@
 33211. perf: optimize database query for quiz results #33211
 41185. chore: rename env.example #41185
 8898. feat: add user authentication #8898
+88413. refactor: clean up auth middleware #88413
