@@ -1802,3 +1802,4 @@
 2615. fix: handle 500 error in quiz API #2615
 34262. chore: bump dependencies #34262
 32026. perf: cache repeated calculations #32026
+46996. feat: enable dark mode toggle #46996
