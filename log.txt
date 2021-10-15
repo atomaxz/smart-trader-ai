@@ -784,3 +784,4 @@
 91344. refactor: remove redundant code blocks #91344
 91701. chore: bump dependencies #91701
 27881. fix: prevent crash on empty input #27881
+36260. style: reformat files with black #36260
