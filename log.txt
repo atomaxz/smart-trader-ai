@@ -1803,3 +1803,4 @@
 34262. chore: bump dependencies #34262
 32026. perf: cache repeated calculations #32026
 46996. feat: enable dark mode toggle #46996
+35813. fix: correct typo in registration form #35813
