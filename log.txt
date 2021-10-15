@@ -782,3 +782,4 @@
 30986. test: increase coverage on auth module #30986
 12243. perf: lazy-load components #12243
 91344. refactor: remove redundant code blocks #91344
+91701. chore: bump dependencies #91701
