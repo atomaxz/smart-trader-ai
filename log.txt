@@ -783,3 +783,4 @@
 12243. perf: lazy-load components #12243
 91344. refactor: remove redundant code blocks #91344
 91701. chore: bump dependencies #91701
+27881. fix: prevent crash on empty input #27881
