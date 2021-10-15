@@ -1805,3 +1805,4 @@
 46996. feat: enable dark mode toggle #46996
 35813. fix: correct typo in registration form #35813
 67086. chore: bump dependencies #67086
+71967. style: standardize quote style #71967
