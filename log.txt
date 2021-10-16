@@ -786,3 +786,4 @@
 27881. fix: prevent crash on empty input #27881
 36260. style: reformat files with black #36260
 13396. chore: update .gitignore #13396
+78193. chore: update .gitignore #78193
