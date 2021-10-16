@@ -3788,3 +3788,4 @@
 92647. test: mock database connection in test suite #92647
 82548. style: remove trailing whitespace #82548
 92078. style: standardize quote style #92078
+87704. test: increase coverage on auth module #87704
