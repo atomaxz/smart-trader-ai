@@ -1807,3 +1807,4 @@
 67086. chore: bump dependencies #67086
 71967. style: standardize quote style #71967
 6471. docs: update README with setup steps #6471
+83241. feat: support email verification #83241
