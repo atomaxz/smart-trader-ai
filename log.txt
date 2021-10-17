@@ -1808,3 +1808,4 @@
 71967. style: standardize quote style #71967
 6471. docs: update README with setup steps #6471
 83241. feat: support email verification #83241
+27093. feat: enable dark mode toggle #27093
