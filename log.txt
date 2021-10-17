@@ -2792,3 +2792,4 @@
 64840. docs: add API usage examples #64840
 25802. refactor: clean up auth middleware #25802
 72198. feat: add user authentication #72198
+31415. refactor: clean up auth middleware #31415
