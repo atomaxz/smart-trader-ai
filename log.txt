@@ -791,3 +791,4 @@
 6004. refactor: split large controller into smaller functions #6004
 12778. chore: bump dependencies #12778
 59535. feat: implement quiz timer feature #59535
+47437. docs: document token refresh logic #47437
