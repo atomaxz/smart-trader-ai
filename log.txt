@@ -3789,3 +3789,4 @@
 82548. style: remove trailing whitespace #82548
 92078. style: standardize quote style #92078
 87704. test: increase coverage on auth module #87704
+72468. chore: add GitHub actions badge #72468
