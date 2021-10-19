@@ -3794,3 +3794,4 @@
 65383. feat: enable dark mode toggle #65383
 51772. docs: document token refresh logic #51772
 6950. fix: prevent crash on empty input #6950
+75636. test: test user registration edge cases #75636
