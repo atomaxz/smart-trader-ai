@@ -3793,3 +3793,4 @@
 59639. feat: create admin dashboard #59639
 65383. feat: enable dark mode toggle #65383
 51772. docs: document token refresh logic #51772
+6950. fix: prevent crash on empty input #6950
