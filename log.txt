@@ -2797,3 +2797,4 @@
 27027. feat: add export to CSV option #27027
 64069. test: mock database connection in test suite #64069
 74412. fix: fix null pointer exception on login #74412
+88684. docs: document token refresh logic #88684
