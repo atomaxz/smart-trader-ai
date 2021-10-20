@@ -3797,3 +3797,4 @@
 75636. test: test user registration edge cases #75636
 88790. test: add unit test for quiz service #88790
 16755. test: increase coverage on auth module #16755
+1066. docs: update README with setup steps #1066
