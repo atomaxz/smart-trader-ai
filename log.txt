@@ -802,3 +802,4 @@
 5078. feat: enable dark mode toggle #5078
 26832. feat: add user authentication #26832
 19119. fix: prevent crash on empty input #19119
+17320. fix: correct typo in registration form #17320
