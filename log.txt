@@ -801,3 +801,4 @@
 72975. test: mock database connection in test suite #72975
 5078. feat: enable dark mode toggle #5078
 26832. feat: add user authentication #26832
+19119. fix: prevent crash on empty input #19119
