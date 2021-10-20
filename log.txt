@@ -3796,3 +3796,4 @@
 6950. fix: prevent crash on empty input #6950
 75636. test: test user registration edge cases #75636
 88790. test: add unit test for quiz service #88790
+16755. test: increase coverage on auth module #16755
