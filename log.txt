@@ -2800,3 +2800,4 @@
 88684. docs: document token refresh logic #88684
 14703. perf: optimize database query for quiz results #14703
 47391. feat: create admin dashboard #47391
+78746. feat: enable dark mode toggle #78746
