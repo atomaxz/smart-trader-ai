@@ -2798,3 +2798,4 @@
 64069. test: mock database connection in test suite #64069
 74412. fix: fix null pointer exception on login #74412
 88684. docs: document token refresh logic #88684
+14703. perf: optimize database query for quiz results #14703
