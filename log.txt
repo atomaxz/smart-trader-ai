@@ -800,3 +800,4 @@
 1867. feat: add export to CSV option #1867
 72975. test: mock database connection in test suite #72975
 5078. feat: enable dark mode toggle #5078
+26832. feat: add user authentication #26832
