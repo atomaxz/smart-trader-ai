@@ -1818,3 +1818,4 @@
 51525. perf: cache repeated calculations #51525
 95504. perf: reduce image load time #95504
 59024. chore: clean up unused files #59024
+97544. perf: reduce image load time #97544
