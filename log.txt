@@ -2803,3 +2803,4 @@
 78746. feat: enable dark mode toggle #78746
 79042. refactor: clean up auth middleware #79042
 42912. docs: add API usage examples #42912
+1363. chore: update .gitignore #1363
