@@ -1820,3 +1820,4 @@
 59024. chore: clean up unused files #59024
 97544. perf: reduce image load time #97544
 18634. fix: fix broken CSS in mobile view #18634
+48801. feat: add user authentication #48801
