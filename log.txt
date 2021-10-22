@@ -3803,3 +3803,4 @@
 97097. feat: create admin dashboard #97097
 2813. fix: handle 500 error in quiz API #2813
 5023. test: mock database connection in test suite #5023
+6337. perf: optimize database query for quiz results #6337
