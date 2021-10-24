@@ -1825,3 +1825,4 @@
 42166. refactor: refactor quiz grading logic #42166
 82131. refactor: remove redundant code blocks #82131
 42965. test: test user registration edge cases #42965
+36680. fix: correct typo in registration form #36680
