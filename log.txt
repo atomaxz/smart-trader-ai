@@ -3809,3 +3809,4 @@
 47530. feat: enable dark mode toggle #47530
 98030. chore: clean up unused files #98030
 36673. style: rename variables for clarity #36673
+42517. feat: create admin dashboard #42517
