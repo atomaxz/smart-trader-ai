@@ -3808,3 +3808,4 @@
 80650. feat: support email verification #80650
 47530. feat: enable dark mode toggle #47530
 98030. chore: clean up unused files #98030
+36673. style: rename variables for clarity #36673
