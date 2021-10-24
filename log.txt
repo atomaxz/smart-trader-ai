@@ -2810,3 +2810,4 @@
 94643. fix: prevent crash on empty input #94643
 26431. feat: enable dark mode toggle #26431
 37051. chore: clean up unused files #37051
+42544. test: increase coverage on auth module #42544
