@@ -1835,3 +1835,4 @@
 71524. perf: reduce image load time #71524
 29807. docs: update README with setup steps #29807
 23162. chore: update .gitignore #23162
+29113. feat: support email verification #29113
