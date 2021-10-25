@@ -1828,3 +1828,4 @@
 36680. fix: correct typo in registration form #36680
 67506. chore: add GitHub actions badge #67506
 15640. fix: fix broken CSS in mobile view #15640
+40956. docs: improve code comments in utils #40956
