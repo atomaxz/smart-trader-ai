@@ -1830,3 +1830,4 @@
 15640. fix: fix broken CSS in mobile view #15640
 40956. docs: improve code comments in utils #40956
 20774. style: reformat files with black #20774
+55817. style: apply consistent indentation #55817
