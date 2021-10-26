@@ -2817,3 +2817,4 @@
 23247. feat: support email verification #23247
 99385. fix: fix broken CSS in mobile view #99385
 20472. docs: update README with setup steps #20472
+80120. perf: cache repeated calculations #80120
