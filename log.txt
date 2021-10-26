@@ -3814,3 +3814,4 @@
 16582. test: mock database connection in test suite #16582
 70943. chore: update .gitignore #70943
 92296. chore: bump dependencies #92296
+74828. chore: rename env.example #74828
