@@ -817,3 +817,4 @@
 30239. style: remove trailing whitespace #30239
 49760. feat: enable dark mode toggle #49760
 76462. docs: clarify environment setup #76462
+81734. style: apply consistent indentation #81734
