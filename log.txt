@@ -1836,3 +1836,4 @@
 29807. docs: update README with setup steps #29807
 23162. chore: update .gitignore #23162
 29113. feat: support email verification #29113
+37022. refactor: clean up auth middleware #37022
