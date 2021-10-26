@@ -2815,3 +2815,4 @@
 76994. test: increase coverage on auth module #76994
 97511. style: apply consistent indentation #97511
 23247. feat: support email verification #23247
+99385. fix: fix broken CSS in mobile view #99385
