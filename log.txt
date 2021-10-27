@@ -2818,3 +2818,4 @@
 99385. fix: fix broken CSS in mobile view #99385
 20472. docs: update README with setup steps #20472
 80120. perf: cache repeated calculations #80120
+54031. fix: fix broken CSS in mobile view #54031
