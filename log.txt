@@ -3817,3 +3817,4 @@
 74828. chore: rename env.example #74828
 38160. feat: support email verification #38160
 16555. test: increase coverage on auth module #16555
+46404. style: rename variables for clarity #46404
