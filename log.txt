@@ -3818,3 +3818,4 @@
 38160. feat: support email verification #38160
 16555. test: increase coverage on auth module #16555
 46404. style: rename variables for clarity #46404
+20869. docs: improve code comments in utils #20869
