@@ -1840,3 +1840,4 @@
 23605. feat: implement quiz timer feature #23605
 25199. docs: document token refresh logic #25199
 19520. fix: fix broken CSS in mobile view #19520
+93513. test: mock database connection in test suite #93513
