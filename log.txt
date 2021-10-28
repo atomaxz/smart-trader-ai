@@ -1839,3 +1839,4 @@
 37022. refactor: clean up auth middleware #37022
 23605. feat: implement quiz timer feature #23605
 25199. docs: document token refresh logic #25199
+19520. fix: fix broken CSS in mobile view #19520
