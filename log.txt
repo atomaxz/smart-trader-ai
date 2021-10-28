@@ -2825,3 +2825,4 @@
 92617. test: increase coverage on auth module #92617
 84835. fix: correct typo in registration form #84835
 87825. style: reformat files with black #87825
+3598. fix: correct typo in registration form #3598
