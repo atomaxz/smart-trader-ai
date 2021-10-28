@@ -3820,3 +3820,4 @@
 46404. style: rename variables for clarity #46404
 20869. docs: improve code comments in utils #20869
 38106. fix: handle 500 error in quiz API #38106
+18834. fix: fix broken CSS in mobile view #18834
