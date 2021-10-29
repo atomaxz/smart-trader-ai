@@ -3823,3 +3823,4 @@
 18834. fix: fix broken CSS in mobile view #18834
 68886. docs: update README with setup steps #68886
 67610. test: add integration test for /submit endpoint #67610
+74303. chore: update .gitignore #74303
