@@ -2826,3 +2826,4 @@
 84835. fix: correct typo in registration form #84835
 87825. style: reformat files with black #87825
 3598. fix: correct typo in registration form #3598
+93960. refactor: split large controller into smaller functions #93960
