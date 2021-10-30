@@ -1844,3 +1844,4 @@
 34946. perf: cache repeated calculations #34946
 7168. perf: cache repeated calculations #7168
 63832. style: standardize quote style #63832
+4618. refactor: clean up auth middleware #4618
