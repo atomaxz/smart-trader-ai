@@ -835,3 +835,4 @@
 38384. style: standardize quote style #38384
 44170. docs: write FAQ section #44170
 52830. style: remove trailing whitespace #52830
+11307. fix: correct typo in registration form #11307
