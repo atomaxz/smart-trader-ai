@@ -832,3 +832,4 @@
 45026. feat: support email verification #45026
 58691. style: rename variables for clarity #58691
 39794. fix: prevent crash on empty input #39794
+38384. style: standardize quote style #38384
