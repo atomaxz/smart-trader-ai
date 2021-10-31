@@ -834,3 +834,4 @@
 39794. fix: prevent crash on empty input #39794
 38384. style: standardize quote style #38384
 44170. docs: write FAQ section #44170
+52830. style: remove trailing whitespace #52830
