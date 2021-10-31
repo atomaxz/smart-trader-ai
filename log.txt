@@ -836,3 +836,4 @@
 44170. docs: write FAQ section #44170
 52830. style: remove trailing whitespace #52830
 11307. fix: correct typo in registration form #11307
+12576. chore: rename env.example #12576
