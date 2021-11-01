@@ -837,3 +837,4 @@
 52830. style: remove trailing whitespace #52830
 11307. fix: correct typo in registration form #11307
 12576. chore: rename env.example #12576
+9811. test: add unit test for quiz service #9811
