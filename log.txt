@@ -3832,3 +3832,4 @@
 25083. refactor: refactor quiz grading logic #25083
 11957. refactor: split large controller into smaller functions #11957
 6854. style: standardize quote style #6854
+1966. feat: support email verification #1966
