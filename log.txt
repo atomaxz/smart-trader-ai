@@ -1850,3 +1850,4 @@
 97935. style: standardize quote style #97935
 97272. perf: cache repeated calculations #97272
 36966. test: increase coverage on auth module #36966
+91428. style: remove trailing whitespace #91428
