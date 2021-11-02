@@ -3837,3 +3837,4 @@
 33166. fix: fix broken CSS in mobile view #33166
 72944. docs: improve code comments in utils #72944
 70997. style: reformat files with black #70997
+87810. style: standardize quote style #87810
