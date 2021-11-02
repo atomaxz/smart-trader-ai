@@ -1849,3 +1849,4 @@
 18362. docs: improve code comments in utils #18362
 97935. style: standardize quote style #97935
 97272. perf: cache repeated calculations #97272
+36966. test: increase coverage on auth module #36966
