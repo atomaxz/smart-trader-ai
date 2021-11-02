@@ -842,3 +842,4 @@
 8063. refactor: organize models into subfolders #8063
 13127. style: rename variables for clarity #13127
 78037. feat: add user authentication #78037
+14008. refactor: clean up auth middleware #14008
