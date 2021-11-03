@@ -3841,3 +3841,4 @@
 13414. test: test user registration edge cases #13414
 99589. fix: fix null pointer exception on login #99589
 64242. test: add integration test for /submit endpoint #64242
+16561. chore: add GitHub actions badge #16561
