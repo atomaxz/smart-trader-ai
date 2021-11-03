@@ -844,3 +844,4 @@
 78037. feat: add user authentication #78037
 14008. refactor: clean up auth middleware #14008
 48202. style: remove trailing whitespace #48202
+56372. test: add unit test for quiz service #56372
