@@ -1852,3 +1852,4 @@
 36966. test: increase coverage on auth module #36966
 91428. style: remove trailing whitespace #91428
 58838. perf: reduce image load time #58838
+83893. style: standardize quote style #83893
