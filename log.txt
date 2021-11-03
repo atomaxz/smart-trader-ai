@@ -3839,3 +3839,4 @@
 70997. style: reformat files with black #70997
 87810. style: standardize quote style #87810
 13414. test: test user registration edge cases #13414
+99589. fix: fix null pointer exception on login #99589
