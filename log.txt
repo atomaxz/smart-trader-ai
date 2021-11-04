@@ -1853,3 +1853,4 @@
 91428. style: remove trailing whitespace #91428
 58838. perf: reduce image load time #58838
 83893. style: standardize quote style #83893
+69995. fix: handle 500 error in quiz API #69995
