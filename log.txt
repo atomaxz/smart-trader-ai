@@ -2840,3 +2840,4 @@
 25661. chore: rename env.example #25661
 77590. test: test user registration edge cases #77590
 24832. test: add unit test for quiz service #24832
+8485. chore: bump dependencies #8485
