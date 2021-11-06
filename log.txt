@@ -850,3 +850,4 @@
 74163. perf: lazy-load components #74163
 51093. style: reformat files with black #51093
 40254. style: reformat files with black #40254
+0562. perf: lazy-load components #562
