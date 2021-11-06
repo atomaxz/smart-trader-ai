@@ -2848,3 +2848,4 @@
 45179. style: apply consistent indentation #45179
 5534. feat: create admin dashboard #5534
 21433. feat: add export to CSV option #21433
+33447. test: mock database connection in test suite #33447
