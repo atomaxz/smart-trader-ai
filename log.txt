@@ -2851,3 +2851,4 @@
 33447. test: mock database connection in test suite #33447
 49002. feat: implement quiz timer feature #49002
 25855. feat: add export to CSV option #25855
+52481. chore: add GitHub actions badge #52481
