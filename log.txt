@@ -2852,3 +2852,4 @@
 49002. feat: implement quiz timer feature #49002
 25855. feat: add export to CSV option #25855
 52481. chore: add GitHub actions badge #52481
+86845. fix: prevent crash on empty input #86845
