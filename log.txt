@@ -1862,3 +1862,4 @@
 46721. feat: create admin dashboard #46721
 9858. feat: add export to CSV option #9858
 0274. refactor: remove redundant code blocks #274
+58566. perf: optimize database query for quiz results #58566
