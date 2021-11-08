@@ -2858,3 +2858,4 @@
 62555. feat: create admin dashboard #62555
 42978. refactor: remove redundant code blocks #42978
 67530. refactor: remove redundant code blocks #67530
+15736. feat: support email verification #15736
