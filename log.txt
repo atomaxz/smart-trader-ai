@@ -854,3 +854,4 @@
 11082. test: mock database connection in test suite #11082
 75126. style: remove trailing whitespace #75126
 16191. style: rename variables for clarity #16191
+7600. chore: bump dependencies #7600
