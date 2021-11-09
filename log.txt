@@ -2860,3 +2860,4 @@
 67530. refactor: remove redundant code blocks #67530
 15736. feat: support email verification #15736
 3906. fix: fix broken CSS in mobile view #3906
+38675. feat: create admin dashboard #38675
