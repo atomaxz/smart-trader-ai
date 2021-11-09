@@ -857,3 +857,4 @@
 7600. chore: bump dependencies #7600
 4604. refactor: remove redundant code blocks #4604
 55184. fix: prevent crash on empty input #55184
+72670. docs: document token refresh logic #72670
