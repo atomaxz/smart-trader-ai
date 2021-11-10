@@ -1868,3 +1868,4 @@
 98057. chore: add GitHub actions badge #98057
 14099. perf: optimize database query for quiz results #14099
 80671. fix: fix broken CSS in mobile view #80671
+38063. test: increase coverage on auth module #38063
