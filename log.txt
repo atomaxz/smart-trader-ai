@@ -1871,3 +1871,4 @@
 38063. test: increase coverage on auth module #38063
 0282. feat: support email verification #282
 26871. docs: document token refresh logic #26871
+90150. chore: bump dependencies #90150
