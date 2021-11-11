@@ -866,3 +866,4 @@
 76369. perf: lazy-load components #76369
 30436. style: standardize quote style #30436
 0624. fix: handle 500 error in quiz API #624
+7634. chore: update .gitignore #7634
