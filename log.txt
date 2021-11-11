@@ -3856,3 +3856,4 @@
 30599. chore: update .gitignore #30599
 13277. feat: enable dark mode toggle #13277
 39799. perf: cache repeated calculations #39799
+47578. perf: lazy-load components #47578
