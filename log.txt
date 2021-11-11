@@ -869,3 +869,4 @@
 7634. chore: update .gitignore #7634
 67544. docs: clarify environment setup #67544
 44725. feat: add user authentication #44725
+94586. fix: fix broken CSS in mobile view #94586
