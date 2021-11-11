@@ -1870,3 +1870,4 @@
 80671. fix: fix broken CSS in mobile view #80671
 38063. test: increase coverage on auth module #38063
 0282. feat: support email verification #282
+26871. docs: document token refresh logic #26871
