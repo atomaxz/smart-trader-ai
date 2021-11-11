@@ -868,3 +868,4 @@
 0624. fix: handle 500 error in quiz API #624
 7634. chore: update .gitignore #7634
 67544. docs: clarify environment setup #67544
+44725. feat: add user authentication #44725
