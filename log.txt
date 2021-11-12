@@ -2869,3 +2869,4 @@
 81308. style: apply consistent indentation #81308
 10606. test: add integration test for /submit endpoint #10606
 1861. feat: implement quiz timer feature #1861
+98592. perf: lazy-load components #98592
