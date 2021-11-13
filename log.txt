@@ -873,3 +873,4 @@
 27701. refactor: refactor quiz grading logic #27701
 34125. perf: reduce image load time #34125
 50177. docs: improve code comments in utils #50177
+66472. perf: reduce image load time #66472
