@@ -3864,3 +3864,4 @@
 99961. chore: add GitHub actions badge #99961
 75244. chore: rename env.example #75244
 18437. feat: support email verification #18437
+71799. style: remove trailing whitespace #71799
