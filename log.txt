@@ -3861,3 +3861,4 @@
 70674. refactor: refactor quiz grading logic #70674
 67881. refactor: organize models into subfolders #67881
 38346. test: add integration test for /submit endpoint #38346
+99961. chore: add GitHub actions badge #99961
