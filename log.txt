@@ -875,3 +875,4 @@
 50177. docs: improve code comments in utils #50177
 66472. perf: reduce image load time #66472
 11679. style: remove trailing whitespace #11679
+96614. fix: prevent crash on empty input #96614
