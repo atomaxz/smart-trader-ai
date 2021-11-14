@@ -2879,3 +2879,4 @@
 18224. fix: correct typo in registration form #18224
 30285. refactor: organize models into subfolders #30285
 59015. style: remove trailing whitespace #59015
+40384. refactor: refactor quiz grading logic #40384
