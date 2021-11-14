@@ -877,3 +877,4 @@
 11679. style: remove trailing whitespace #11679
 96614. fix: prevent crash on empty input #96614
 86824. docs: clarify environment setup #86824
+84770. chore: clean up unused files #84770
