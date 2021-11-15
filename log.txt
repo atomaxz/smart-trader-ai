@@ -2882,3 +2882,4 @@
 40384. refactor: refactor quiz grading logic #40384
 21585. chore: rename env.example #21585
 28350. fix: fix null pointer exception on login #28350
+33485. feat: support email verification #33485
