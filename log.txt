@@ -1880,3 +1880,4 @@
 91238. docs: add API usage examples #91238
 20656. test: increase coverage on auth module #20656
 38355. feat: enable dark mode toggle #38355
+8590. perf: lazy-load components #8590
