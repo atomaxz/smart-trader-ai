@@ -2887,3 +2887,4 @@
 97480. refactor: remove redundant code blocks #97480
 10690. docs: update README with setup steps #10690
 62688. style: remove trailing whitespace #62688
+60202. perf: reduce image load time #60202
