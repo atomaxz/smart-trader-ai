@@ -1884,3 +1884,4 @@
 19333. style: reformat files with black #19333
 89065. test: add integration test for /submit endpoint #89065
 26504. fix: fix broken CSS in mobile view #26504
+17930. style: apply consistent indentation #17930
