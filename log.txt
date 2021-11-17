@@ -883,3 +883,4 @@
 55871. refactor: split large controller into smaller functions #55871
 97984. docs: update README with setup steps #97984
 63890. perf: reduce image load time #63890
+79602. chore: clean up unused files #79602
