@@ -3880,3 +3880,4 @@
 70948. docs: update README with setup steps #70948
 79826. perf: cache repeated calculations #79826
 1840. feat: add export to CSV option #1840
+37615. test: increase coverage on auth module #37615
