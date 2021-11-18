@@ -884,3 +884,4 @@
 97984. docs: update README with setup steps #97984
 63890. perf: reduce image load time #63890
 79602. chore: clean up unused files #79602
+46552. perf: optimize database query for quiz results #46552
