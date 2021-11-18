@@ -1890,3 +1890,4 @@
 46731. chore: add GitHub actions badge #46731
 57390. test: add integration test for /submit endpoint #57390
 65546. test: mock database connection in test suite #65546
+41775. feat: support email verification #41775
