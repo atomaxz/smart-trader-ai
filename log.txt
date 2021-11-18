@@ -1893,3 +1893,4 @@
 41775. feat: support email verification #41775
 98324. test: mock database connection in test suite #98324
 74373. feat: add export to CSV option #74373
+81840. test: add unit test for quiz service #81840
