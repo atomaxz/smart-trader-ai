@@ -3883,3 +3883,4 @@
 37615. test: increase coverage on auth module #37615
 84329. chore: clean up unused files #84329
 20253. style: rename variables for clarity #20253
+36155. chore: add GitHub actions badge #36155
