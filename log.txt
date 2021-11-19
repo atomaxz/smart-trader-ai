@@ -1896,3 +1896,4 @@
 81840. test: add unit test for quiz service #81840
 53783. test: test user registration edge cases #53783
 70897. test: increase coverage on auth module #70897
+3979. style: standardize quote style #3979
