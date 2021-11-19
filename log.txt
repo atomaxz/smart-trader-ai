@@ -1897,3 +1897,4 @@
 53783. test: test user registration edge cases #53783
 70897. test: increase coverage on auth module #70897
 3979. style: standardize quote style #3979
+79111. style: reformat files with black #79111
