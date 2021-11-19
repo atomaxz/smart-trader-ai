@@ -2893,3 +2893,4 @@
 57734. refactor: organize models into subfolders #57734
 30720. fix: correct typo in registration form #30720
 4987. perf: reduce image load time #4987
+69156. test: mock database connection in test suite #69156
