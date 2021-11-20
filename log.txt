@@ -2901,3 +2901,4 @@
 99880. style: rename variables for clarity #99880
 33097. refactor: refactor quiz grading logic #33097
 90335. test: mock database connection in test suite #90335
+55794. chore: add GitHub actions badge #55794
