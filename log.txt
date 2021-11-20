@@ -1898,3 +1898,4 @@
 70897. test: increase coverage on auth module #70897
 3979. style: standardize quote style #3979
 79111. style: reformat files with black #79111
+74880. docs: update README with setup steps #74880
