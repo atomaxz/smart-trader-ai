@@ -3887,3 +3887,4 @@
 55942. perf: lazy-load components #55942
 19307. refactor: refactor quiz grading logic #19307
 68620. refactor: clean up auth middleware #68620
+88735. fix: handle 500 error in quiz API #88735
