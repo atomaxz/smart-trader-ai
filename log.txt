@@ -891,3 +891,4 @@
 77301. feat: add export to CSV option #77301
 93513. test: mock database connection in test suite #93513
 87605. refactor: refactor quiz grading logic #87605
+8632. feat: enable dark mode toggle #8632
