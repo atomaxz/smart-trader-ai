@@ -894,3 +894,4 @@
 8632. feat: enable dark mode toggle #8632
 25457. style: rename variables for clarity #25457
 59403. docs: update README with setup steps #59403
+5094. feat: support email verification #5094
