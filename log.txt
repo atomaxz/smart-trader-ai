@@ -893,3 +893,4 @@
 87605. refactor: refactor quiz grading logic #87605
 8632. feat: enable dark mode toggle #8632
 25457. style: rename variables for clarity #25457
+59403. docs: update README with setup steps #59403
