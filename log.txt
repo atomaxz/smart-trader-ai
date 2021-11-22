@@ -2905,3 +2905,4 @@
 65225. fix: resolve issue with date parsing #65225
 81011. refactor: clean up auth middleware #81011
 18047. perf: cache repeated calculations #18047
+78287. docs: write FAQ section #78287
