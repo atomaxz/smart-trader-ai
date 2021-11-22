@@ -3889,3 +3889,4 @@
 68620. refactor: clean up auth middleware #68620
 88735. fix: handle 500 error in quiz API #88735
 91232. perf: reduce image load time #91232
+0231. test: mock database connection in test suite #231
