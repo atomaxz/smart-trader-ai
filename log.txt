@@ -897,3 +897,4 @@
 5094. feat: support email verification #5094
 18007. chore: clean up unused files #18007
 8471. test: add unit test for quiz service #8471
+89824. feat: add user authentication #89824
