@@ -3894,3 +3894,4 @@
 63389. feat: support email verification #63389
 27597. test: add integration test for /submit endpoint #27597
 28343. docs: add API usage examples #28343
+3961. perf: cache repeated calculations #3961
