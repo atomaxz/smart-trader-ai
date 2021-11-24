@@ -2910,3 +2910,4 @@
 40154. chore: add GitHub actions badge #40154
 52825. refactor: remove redundant code blocks #52825
 57180. fix: prevent crash on empty input #57180
+72177. chore: rename env.example #72177
