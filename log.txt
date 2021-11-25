@@ -1912,3 +1912,4 @@
 28939. docs: document token refresh logic #28939
 16216. style: rename variables for clarity #16216
 64390. chore: bump dependencies #64390
+5144. fix: handle 500 error in quiz API #5144
