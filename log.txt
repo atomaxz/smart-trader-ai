@@ -1909,3 +1909,4 @@
 8625. fix: correct typo in registration form #8625
 46973. style: rename variables for clarity #46973
 0175. fix: resolve issue with date parsing #175
+28939. docs: document token refresh logic #28939
