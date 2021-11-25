@@ -1906,3 +1906,4 @@
 45121. docs: update README with setup steps #45121
 23105. style: remove trailing whitespace #23105
 69480. chore: update .gitignore #69480
+8625. fix: correct typo in registration form #8625
