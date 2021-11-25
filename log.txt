@@ -903,3 +903,4 @@
 38647. style: standardize quote style #38647
 27490. refactor: clean up auth middleware #27490
 16485. test: add integration test for /submit endpoint #16485
+81460. feat: add user authentication #81460
