@@ -1915,3 +1915,4 @@
 5144. fix: handle 500 error in quiz API #5144
 32790. test: add integration test for /submit endpoint #32790
 61160. fix: fix null pointer exception on login #61160
+86049. fix: prevent crash on empty input #86049
