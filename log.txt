@@ -3907,3 +3907,4 @@
 69138. chore: clean up unused files #69138
 50840. docs: update README with setup steps #50840
 65878. feat: support email verification #65878
+72379. feat: enable dark mode toggle #72379
