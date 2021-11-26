@@ -1914,3 +1914,4 @@
 64390. chore: bump dependencies #64390
 5144. fix: handle 500 error in quiz API #5144
 32790. test: add integration test for /submit endpoint #32790
+61160. fix: fix null pointer exception on login #61160
