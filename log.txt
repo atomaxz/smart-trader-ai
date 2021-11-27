@@ -1918,3 +1918,4 @@
 86049. fix: prevent crash on empty input #86049
 68966. refactor: clean up auth middleware #68966
 14294. feat: support email verification #14294
+14108. fix: fix null pointer exception on login #14108
