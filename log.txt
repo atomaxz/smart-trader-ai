@@ -1920,3 +1920,4 @@
 14294. feat: support email verification #14294
 14108. fix: fix null pointer exception on login #14108
 57022. docs: write FAQ section #57022
+53870. docs: document token refresh logic #53870
