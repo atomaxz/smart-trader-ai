@@ -3915,3 +3915,4 @@
 64136. perf: optimize database query for quiz results #64136
 45775. feat: enable dark mode toggle #45775
 85162. refactor: split large controller into smaller functions #85162
+27171. perf: lazy-load components #27171
