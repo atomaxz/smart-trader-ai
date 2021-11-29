@@ -911,3 +911,4 @@
 48564. perf: lazy-load components #48564
 21375. refactor: remove redundant code blocks #21375
 88901. docs: write FAQ section #88901
+77504. chore: clean up unused files #77504
