@@ -2920,3 +2920,4 @@
 57586. docs: add API usage examples #57586
 99538. refactor: organize models into subfolders #99538
 80304. fix: prevent crash on empty input #80304
+11939. style: reformat files with black #11939
