@@ -2923,3 +2923,4 @@
 11939. style: reformat files with black #11939
 23822. test: increase coverage on auth module #23822
 74923. fix: correct typo in registration form #74923
+86068. perf: lazy-load components #86068
