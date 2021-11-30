@@ -2921,3 +2921,4 @@
 99538. refactor: organize models into subfolders #99538
 80304. fix: prevent crash on empty input #80304
 11939. style: reformat files with black #11939
+23822. test: increase coverage on auth module #23822
