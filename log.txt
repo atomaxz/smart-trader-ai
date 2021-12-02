@@ -2929,3 +2929,4 @@
 22317. style: reformat files with black #22317
 84660. chore: clean up unused files #84660
 13603. test: add unit test for quiz service #13603
+28160. fix: fix null pointer exception on login #28160
