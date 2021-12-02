@@ -3928,3 +3928,4 @@
 12852. chore: update .gitignore #12852
 25775. style: reformat files with black #25775
 99784. fix: fix null pointer exception on login #99784
+90329. fix: fix null pointer exception on login #90329
