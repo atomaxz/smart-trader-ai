@@ -3930,3 +3930,4 @@
 99784. fix: fix null pointer exception on login #99784
 90329. fix: fix null pointer exception on login #90329
 99595. feat: create admin dashboard #99595
+82743. test: mock database connection in test suite #82743
