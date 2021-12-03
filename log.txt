@@ -1927,3 +1927,4 @@
 52804. test: increase coverage on auth module #52804
 23313. refactor: split large controller into smaller functions #23313
 95655. fix: fix broken CSS in mobile view #95655
+27409. chore: update .gitignore #27409
