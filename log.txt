@@ -3932,3 +3932,4 @@
 99595. feat: create admin dashboard #99595
 82743. test: mock database connection in test suite #82743
 50481. chore: add GitHub actions badge #50481
+17870. fix: prevent crash on empty input #17870
