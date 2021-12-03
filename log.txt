@@ -925,3 +925,4 @@
 9874. style: standardize quote style #9874
 35710. fix: prevent crash on empty input #35710
 22356. docs: clarify environment setup #22356
+6484. refactor: organize models into subfolders #6484
