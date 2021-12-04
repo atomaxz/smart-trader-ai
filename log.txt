@@ -3938,3 +3938,4 @@
 74855. feat: implement quiz timer feature #74855
 77199. style: reformat files with black #77199
 51830. test: add integration test for /submit endpoint #51830
+12314. chore: update .gitignore #12314
