@@ -928,3 +928,4 @@
 6484. refactor: organize models into subfolders #6484
 49789. refactor: organize models into subfolders #49789
 72439. perf: optimize database query for quiz results #72439
+61770. refactor: clean up auth middleware #61770
