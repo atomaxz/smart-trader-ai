@@ -2933,3 +2933,4 @@
 6197. refactor: organize models into subfolders #6197
 99198. fix: prevent crash on empty input #99198
 12866. style: apply consistent indentation #12866
+92122. feat: enable dark mode toggle #92122
