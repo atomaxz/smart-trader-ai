@@ -932,3 +932,4 @@
 73716. perf: lazy-load components #73716
 18359. feat: enable dark mode toggle #18359
 32731. test: mock database connection in test suite #32731
+59788. test: test user registration edge cases #59788
