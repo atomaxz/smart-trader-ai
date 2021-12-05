@@ -1934,3 +1934,4 @@
 64279. feat: create admin dashboard #64279
 64646. feat: add export to CSV option #64646
 86813. perf: reduce image load time #86813
+69669. feat: implement quiz timer feature #69669
