@@ -935,3 +935,4 @@
 59788. test: test user registration edge cases #59788
 60777. test: test user registration edge cases #60777
 16630. chore: rename env.example #16630
+44720. test: test user registration edge cases #44720
