@@ -2936,3 +2936,4 @@
 92122. feat: enable dark mode toggle #92122
 42135. chore: bump dependencies #42135
 47016. test: add unit test for quiz service #47016
+95893. style: reformat files with black #95893
