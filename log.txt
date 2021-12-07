@@ -1940,3 +1940,4 @@
 64580. fix: handle 500 error in quiz API #64580
 11586. test: test user registration edge cases #11586
 25648. test: add integration test for /submit endpoint #25648
+15509. test: test user registration edge cases #15509
