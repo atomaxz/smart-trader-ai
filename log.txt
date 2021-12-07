@@ -3943,3 +3943,4 @@
 97609. fix: fix null pointer exception on login #97609
 3047. test: mock database connection in test suite #3047
 19725. fix: correct typo in registration form #19725
+82397. docs: clarify environment setup #82397
