@@ -3948,3 +3948,4 @@
 13988. fix: fix broken CSS in mobile view #13988
 85239. chore: add GitHub actions badge #85239
 53855. feat: add export to CSV option #53855
+19848. style: apply consistent indentation #19848
