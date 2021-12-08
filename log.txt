@@ -1942,3 +1942,4 @@
 25648. test: add integration test for /submit endpoint #25648
 15509. test: test user registration edge cases #15509
 90167. test: add unit test for quiz service #90167
+59529. chore: clean up unused files #59529
