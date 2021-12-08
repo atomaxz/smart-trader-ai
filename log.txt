@@ -3945,3 +3945,4 @@
 19725. fix: correct typo in registration form #19725
 82397. docs: clarify environment setup #82397
 12375. fix: handle 500 error in quiz API #12375
+13988. fix: fix broken CSS in mobile view #13988
