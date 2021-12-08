@@ -2943,3 +2943,4 @@
 14538. test: test user registration edge cases #14538
 93937. docs: update README with setup steps #93937
 99768. perf: cache repeated calculations #99768
+93270. test: add unit test for quiz service #93270
