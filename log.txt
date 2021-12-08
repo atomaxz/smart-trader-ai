@@ -1943,3 +1943,4 @@
 15509. test: test user registration edge cases #15509
 90167. test: add unit test for quiz service #90167
 59529. chore: clean up unused files #59529
+13988. fix: fix broken CSS in mobile view #13988
