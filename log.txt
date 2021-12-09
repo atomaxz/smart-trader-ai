@@ -2948,3 +2948,4 @@
 88044. perf: reduce image load time #88044
 60019. docs: clarify environment setup #60019
 87492. test: add integration test for /submit endpoint #87492
+7090. docs: write FAQ section #7090
