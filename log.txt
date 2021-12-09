@@ -2947,3 +2947,4 @@
 41862. refactor: split large controller into smaller functions #41862
 88044. perf: reduce image load time #88044
 60019. docs: clarify environment setup #60019
+87492. test: add integration test for /submit endpoint #87492
