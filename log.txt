@@ -2950,3 +2950,4 @@
 87492. test: add integration test for /submit endpoint #87492
 7090. docs: write FAQ section #7090
 88584. test: test user registration edge cases #88584
+39838. docs: document token refresh logic #39838
