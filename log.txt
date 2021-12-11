@@ -939,3 +939,4 @@
 83715. test: increase coverage on auth module #83715
 15177. docs: document token refresh logic #15177
 30194. chore: clean up unused files #30194
+64633. fix: fix broken CSS in mobile view #64633
