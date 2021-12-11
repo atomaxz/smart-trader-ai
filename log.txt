@@ -1954,3 +1954,4 @@
 39192. test: mock database connection in test suite #39192
 95777. refactor: clean up auth middleware #95777
 62225. test: increase coverage on auth module #62225
+2671. refactor: clean up auth middleware #2671
