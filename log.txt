@@ -2954,3 +2954,4 @@
 75081. perf: cache repeated calculations #75081
 48573. feat: add export to CSV option #48573
 20976. docs: improve code comments in utils #20976
+83578. test: increase coverage on auth module #83578
