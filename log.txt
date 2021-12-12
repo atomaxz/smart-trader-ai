@@ -1959,3 +1959,4 @@
 46135. feat: enable dark mode toggle #46135
 50924. refactor: clean up auth middleware #50924
 67940. style: remove trailing whitespace #67940
+34448. test: test user registration edge cases #34448
