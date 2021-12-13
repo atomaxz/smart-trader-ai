@@ -2957,3 +2957,4 @@
 83578. test: increase coverage on auth module #83578
 19340. feat: create admin dashboard #19340
 11916. chore: clean up unused files #11916
+11240. style: standardize quote style #11240
