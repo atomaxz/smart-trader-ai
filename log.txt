@@ -946,3 +946,4 @@
 19001. chore: bump dependencies #19001
 27029. test: mock database connection in test suite #27029
 64643. docs: add API usage examples #64643
+33248. feat: support email verification #33248
