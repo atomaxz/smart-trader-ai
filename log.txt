@@ -1960,3 +1960,4 @@
 50924. refactor: clean up auth middleware #50924
 67940. style: remove trailing whitespace #67940
 34448. test: test user registration edge cases #34448
+78438. fix: fix broken CSS in mobile view #78438
