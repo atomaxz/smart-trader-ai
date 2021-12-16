@@ -2962,3 +2962,4 @@
 25183. style: remove trailing whitespace #25183
 37090. fix: fix broken CSS in mobile view #37090
 5468. test: add unit test for quiz service #5468
+5071. refactor: split large controller into smaller functions #5071
