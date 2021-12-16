@@ -1963,3 +1963,4 @@
 78438. fix: fix broken CSS in mobile view #78438
 91796. test: test user registration edge cases #91796
 52711. fix: fix null pointer exception on login #52711
+54065. style: remove trailing whitespace #54065
