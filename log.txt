@@ -2967,3 +2967,4 @@
 87311. style: reformat files with black #87311
 69059. perf: reduce image load time #69059
 90693. feat: add export to CSV option #90693
+33942. feat: add user authentication #33942
