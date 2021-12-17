@@ -952,3 +952,4 @@
 7703. test: add unit test for quiz service #7703
 69306. chore: update .gitignore #69306
 17667. test: mock database connection in test suite #17667
+60180. refactor: remove redundant code blocks #60180
