@@ -1965,3 +1965,4 @@
 52711. fix: fix null pointer exception on login #52711
 54065. style: remove trailing whitespace #54065
 68807. refactor: remove redundant code blocks #68807
+81364. test: add unit test for quiz service #81364
