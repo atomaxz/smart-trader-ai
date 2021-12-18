@@ -955,3 +955,4 @@
 60180. refactor: remove redundant code blocks #60180
 26793. perf: cache repeated calculations #26793
 1084. perf: lazy-load components #1084
+85720. fix: prevent crash on empty input #85720
