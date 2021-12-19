@@ -2970,3 +2970,4 @@
 33942. feat: add user authentication #33942
 65194. perf: optimize database query for quiz results #65194
 55822. test: test user registration edge cases #55822
+62797. refactor: split large controller into smaller functions #62797
