@@ -958,3 +958,4 @@
 85720. fix: prevent crash on empty input #85720
 48772. docs: document token refresh logic #48772
 16557. feat: add export to CSV option #16557
+56402. fix: correct typo in registration form #56402
