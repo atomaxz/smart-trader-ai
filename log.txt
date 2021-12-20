@@ -3975,3 +3975,4 @@
 47128. docs: clarify environment setup #47128
 96723. style: remove trailing whitespace #96723
 31027. docs: improve code comments in utils #31027
+21309. perf: reduce image load time #21309
