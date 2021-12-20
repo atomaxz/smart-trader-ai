@@ -964,3 +964,4 @@
 67193. perf: optimize database query for quiz results #67193
 35831. docs: write FAQ section #35831
 6203. style: standardize quote style #6203
+72064. test: increase coverage on auth module #72064
