@@ -2972,3 +2972,4 @@
 55822. test: test user registration edge cases #55822
 62797. refactor: split large controller into smaller functions #62797
 51793. chore: clean up unused files #51793
+59890. chore: add GitHub actions badge #59890
