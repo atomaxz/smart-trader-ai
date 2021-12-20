@@ -1978,3 +1978,4 @@
 62458. docs: clarify environment setup #62458
 29270. test: add unit test for quiz service #29270
 17552. refactor: split large controller into smaller functions #17552
+52349. test: test user registration edge cases #52349
