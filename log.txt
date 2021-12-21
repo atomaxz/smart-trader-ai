@@ -965,3 +965,4 @@
 35831. docs: write FAQ section #35831
 6203. style: standardize quote style #6203
 72064. test: increase coverage on auth module #72064
+63213. chore: bump dependencies #63213
