@@ -3981,3 +3981,4 @@
 34525. docs: improve code comments in utils #34525
 57863. perf: reduce image load time #57863
 92659. chore: update .gitignore #92659
+61086. test: test user registration edge cases #61086
