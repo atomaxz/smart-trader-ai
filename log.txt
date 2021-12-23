@@ -969,3 +969,4 @@
 97444. chore: add GitHub actions badge #97444
 3084. chore: add GitHub actions badge #3084
 9794. docs: add API usage examples #9794
+29449. docs: update README with setup steps #29449
