@@ -972,3 +972,4 @@
 29449. docs: update README with setup steps #29449
 74320. style: standardize quote style #74320
 67861. style: reformat files with black #67861
+65878. feat: support email verification #65878
