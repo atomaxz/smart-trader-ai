@@ -2985,3 +2985,4 @@
 54682. style: remove trailing whitespace #54682
 11901. chore: rename env.example #11901
 37536. style: remove trailing whitespace #37536
+44701. feat: enable dark mode toggle #44701
