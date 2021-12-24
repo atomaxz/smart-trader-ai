@@ -974,3 +974,4 @@
 67861. style: reformat files with black #67861
 65878. feat: support email verification #65878
 40230. feat: add export to CSV option #40230
+30617. chore: update .gitignore #30617
