@@ -1983,3 +1983,4 @@
 82150. perf: reduce image load time #82150
 91515. refactor: remove redundant code blocks #91515
 58557. perf: reduce image load time #58557
+19381. fix: prevent crash on empty input #19381
