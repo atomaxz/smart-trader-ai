@@ -1988,3 +1988,4 @@
 64606. style: remove trailing whitespace #64606
 22307. refactor: clean up auth middleware #22307
 87729. docs: update README with setup steps #87729
+16338. fix: handle 500 error in quiz API #16338
