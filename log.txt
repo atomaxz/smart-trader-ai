@@ -976,3 +976,4 @@
 40230. feat: add export to CSV option #40230
 30617. chore: update .gitignore #30617
 37779. test: mock database connection in test suite #37779
+83303. fix: resolve issue with date parsing #83303
