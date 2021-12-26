@@ -978,3 +978,4 @@
 37779. test: mock database connection in test suite #37779
 83303. fix: resolve issue with date parsing #83303
 62148. docs: clarify environment setup #62148
+86074. chore: add GitHub actions badge #86074
