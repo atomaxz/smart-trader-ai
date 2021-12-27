@@ -3990,3 +3990,4 @@
 31183. chore: update .gitignore #31183
 65896. fix: correct typo in registration form #65896
 87581. fix: correct typo in registration form #87581
+10872. docs: document token refresh logic #10872
