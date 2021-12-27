@@ -979,3 +979,4 @@
 83303. fix: resolve issue with date parsing #83303
 62148. docs: clarify environment setup #62148
 86074. chore: add GitHub actions badge #86074
+81008. perf: reduce image load time #81008
