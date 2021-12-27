@@ -981,3 +981,4 @@
 86074. chore: add GitHub actions badge #86074
 81008. perf: reduce image load time #81008
 78837. refactor: refactor quiz grading logic #78837
+66039. style: apply consistent indentation #66039
