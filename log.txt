@@ -2990,3 +2990,4 @@
 34479. fix: fix broken CSS in mobile view #34479
 4177. test: test user registration edge cases #4177
 69433. style: remove trailing whitespace #69433
+74007. style: reformat files with black #74007
