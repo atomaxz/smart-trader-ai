@@ -3991,3 +3991,4 @@
 65896. fix: correct typo in registration form #65896
 87581. fix: correct typo in registration form #87581
 10872. docs: document token refresh logic #10872
+86513. style: reformat files with black #86513
