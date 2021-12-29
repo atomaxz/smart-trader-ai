@@ -2995,3 +2995,4 @@
 96343. style: remove trailing whitespace #96343
 85622. feat: add export to CSV option #85622
 62960. test: add integration test for /submit endpoint #62960
+79542. perf: reduce image load time #79542
