@@ -3995,3 +3995,4 @@
 3996. refactor: remove redundant code blocks #3996
 8271. docs: update README with setup steps #8271
 51461. docs: write FAQ section #51461
+25913. chore: bump dependencies #25913
