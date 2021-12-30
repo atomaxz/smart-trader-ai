@@ -990,3 +990,4 @@
 33428. test: increase coverage on auth module #33428
 40874. refactor: clean up auth middleware #40874
 91452. chore: rename env.example #91452
+30293. test: test user registration edge cases #30293
