@@ -993,3 +993,4 @@
 30293. test: test user registration edge cases #30293
 97618. test: test user registration edge cases #97618
 8431. feat: create admin dashboard #8431
+64235. test: add unit test for quiz service #64235
