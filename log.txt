@@ -997,3 +997,4 @@
 50613. test: test user registration edge cases #50613
 62506. docs: add API usage examples #62506
 87597. docs: improve code comments in utils #87597
+19539. refactor: organize models into subfolders #19539
