@@ -995,3 +995,4 @@
 8431. feat: create admin dashboard #8431
 64235. test: add unit test for quiz service #64235
 50613. test: test user registration edge cases #50613
+62506. docs: add API usage examples #62506
